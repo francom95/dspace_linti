@@ -1,0 +1,2426 @@
+
+    <request verb="ListRecords" metadataPrefix="oai_dc" set="col_123456789_20">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/21</identifier>
+                <datestamp>2015-02-23T12:44:11Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ahorro e inversión en el proceso de crecimiento económico</dc:title>
+<dc:creator>Porto, Guido G.</dc:creator>
+<dc:subject>INVERSIONES</dc:subject>
+<dc:subject>CRECIMIENTO ECONÓMICO</dc:subject>
+<dc:subject>AHORROS</dc:subject>
+<dc:date>1996</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=1</dc:identifier>
+<dc:identifier>ISBN: 987-95921-1-5</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/21</dc:identifier>
+<dc:publisher>Mecanografix - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/22</identifier>
+                <datestamp>2015-02-23T12:44:11Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tres siglos de pensamiento económico: [1518-1817]</dc:title>
+<dc:creator>Silva Herzog, Jesus</dc:creator>
+<dc:subject>PENSAMIENTO ECONOMICO</dc:subject>
+<dc:date>1950</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=2</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/22</dc:identifier>
+<dc:publisher>Fondo de Cultura Económica - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/23</identifier>
+                <datestamp>2015-02-23T12:44:11Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ley y cambio social en Chile</dc:title>
+<dc:creator>Fuenzalida Faivovich, Edmundo</dc:creator>
+<dc:subject>CHILE</dc:subject>
+<dc:subject>CAMBIO SOCIAL</dc:subject>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:date>1971</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=7</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/23</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/24</identifier>
+                <datestamp>2015-02-23T12:44:11Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Subdesarrollo e investigación científica: una teoría sociológica. II conferencia sobre el tema</dc:title>
+<dc:creator>Fuenzalida Faivovich, Edmundo</dc:creator>
+<dc:subject>SUBDESARROLLO</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:subject>INVESTIGACIÓN CIENTÍFICA</dc:subject>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:date>1971</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=8</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/24</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/25</identifier>
+                <datestamp>2015-02-23T12:44:11Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>El método hipotético deductivo y la lógica</dc:title>
+<dc:creator>Klimovsky, Gregorio</dc:creator>
+<dc:subject>METODOS DE INVESTIGACION</dc:subject>
+<dc:subject>LOGICA</dc:subject>
+<dc:date>197?</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=9</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/25</dc:identifier>
+<dc:publisher>Instituto de Lógica y Filosofía de las Ciencias - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/26</identifier>
+                <datestamp>2015-02-23T12:44:11Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dependencia cultural en América Latina: mesa redonda</dc:title>
+<dc:creator>Fuenzalida Faivovich, Edmundo</dc:creator>
+<dc:contributor>Savloff</dc:contributor>
+<dc:contributor>Pi Hugarte, Renzo</dc:contributor>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:subject>CULTURA</dc:subject>
+<dc:date>1971</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=11</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/26</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/27</identifier>
+                <datestamp>2015-02-23T12:44:11Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La concepción estructural del atraso en América Latina</dc:title>
+<dc:creator>Garcia, Antonio</dc:creator>
+<dc:subject>SUBDESARROLLO</dc:subject>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:date>1972</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=13</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/27</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/28</identifier>
+                <datestamp>2015-02-23T12:44:12Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dependencia cultural y tecnológica en América Latina</dc:title>
+<dc:creator>Geltman, Pedro</dc:creator>
+<dc:subject>DEPENDENCIA TECNOLOGICA</dc:subject>
+<dc:subject>CULTURA</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:date>1971</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=14</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/28</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/29</identifier>
+                <datestamp>2015-02-23T12:44:12Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Un enfoque sociológico para el estudio empírico de las relaciones del mundo en el área de la ciencia, la tecnología y las humanidades</dc:title>
+<dc:creator>Fuenzalida Faivovich, Edmundo</dc:creator>
+<dc:subject>CIENCIAS SOCIALES</dc:subject>
+<dc:subject>CIENCIA</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:subject>TECNOLOGIA</dc:subject>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:date>1971</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=15</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/29</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/30</identifier>
+                <datestamp>2015-02-23T12:44:12Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marginalidad en América Latina</dc:title>
+<dc:creator>Campos, Jaime</dc:creator>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:subject>MARGINALIDAD</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:date>1971</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=16</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/30</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/31</identifier>
+                <datestamp>2015-02-23T12:44:12Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Las fuerzas armadas y las crisis del orden social, político y económico en América Latina: un reto a la investigación multidisciplinaria de las Ciencias Sociales</dc:title>
+<dc:creator>Claros Romero, José E.</dc:creator>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:subject>ECONOMÍA</dc:subject>
+<dc:subject>FUERZAS ARMADAS</dc:subject>
+<dc:subject>POLÍTICA</dc:subject>
+<dc:subject>SOCIEDAD</dc:subject>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:date>1971</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=17</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/31</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/32</identifier>
+                <datestamp>2015-02-23T12:44:12Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Propuestas de estudios empíricos globales sobre el problema de la dependencia</dc:title>
+<dc:creator>Schaposnik, Eduardo C.</dc:creator>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:subject>DEPENDENCIA ECONOMICA</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:subject>SUBDESARROLLO</dc:subject>
+<dc:date>1973</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=18</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/32</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/33</identifier>
+                <datestamp>2015-02-23T12:44:12Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>El papel de las burguesías nacionales en América Latina</dc:title>
+<dc:creator>Rubinstein, Juan Carlos</dc:creator>
+<dc:subject>ESTRUCTURA SOCIAL</dc:subject>
+<dc:subject>BURGUESIA</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:date>1972</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=19</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/33</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/34</identifier>
+                <datestamp>2015-02-23T12:44:12Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>El proceso tecnológico y la realidad latinoamericana</dc:title>
+<dc:creator>Vacchino, Juan Mario</dc:creator>
+<dc:subject>PROGRESO CIENTIFICO</dc:subject>
+<dc:subject>CAMBIO TECNOLÓGICO</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:date>1972</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=20</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/34</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/35</identifier>
+                <datestamp>2015-02-23T12:44:12Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La crisis de la investigación de las ciencias sociales en América Latina</dc:title>
+<dc:creator>Kaplan, Marcos</dc:creator>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:subject>CIENCIAS SOCIALES</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:date>1972</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:date>2015-02-23T12:44:12Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=21</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/35</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/36</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La problemática de la ciencia social latinoamericana</dc:title>
+<dc:creator>Alberti, Blas Manuel</dc:creator>
+<dc:subject>CIENCIAS SOCIALES</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:date>1971</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=22</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/36</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/37</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Estratificación social y estructura del poder en América Latina</dc:title>
+<dc:creator>Rubinstein, Juan Carlos</dc:creator>
+<dc:subject>ESTRATIFICACION SOCIAL</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:date>1971</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=23</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/37</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/38</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La reforma agraria en el desarrollo latinoamericano</dc:title>
+<dc:creator>Garcia, Antonio</dc:creator>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:subject>REFORMA AGRARIA</dc:subject>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:date>1972</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=24</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/38</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/39</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Definición de la cultura. Sociedades y culturas de América Latina...</dc:title>
+<dc:creator>Pi Hugarte, Renzo</dc:creator>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:subject>CULTURA</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:date>1971</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=25</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/39</dc:identifier>
+<dc:publisher>Instituto de Estudios Económicos y Financieros - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/40</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Órgano para conocer y decidir las controversias individuales de intereses en lo laboral?</dc:title>
+<dc:creator>Milanta, Atilio</dc:creator>
+<dc:subject>CONFLICTOS LABORALES</dc:subject>
+<dc:subject>DERECHO DEL TRABAJO</dc:subject>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=28</dc:identifier>
+<dc:identifier>ISBN: 987-9014-13-8</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/40</dc:identifier>
+<dc:publisher>Dei Genitrix - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/41</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Una reinterpretación de Keynes 50 años después de su muerte</dc:title>
+<dc:creator>Arnaudo, Aldo A.</dc:creator>
+<dc:subject>TEORÍA ECONÓMICA</dc:subject>
+<dc:date>1996</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=29</dc:identifier>
+<dc:identifier>ISBN: 950-849-040-3</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/41</dc:identifier>
+<dc:publisher>Academia Nacional de Ciencias Económicas - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/42</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jornadas Nacionales de Administración Financiera (16º : 1996 : Mar del Plata): disertaciones</dc:title>
+<dc:creator>Sociedad Argentina de Docentes en Administración Financiera</dc:creator>
+<dc:creator/>
+<dc:subject>ADMINISTRACIÓN FINANCIERA</dc:subject>
+<dc:subject>SADAF</dc:subject>
+<dc:subject>JORNADAS</dc:subject>
+<dc:description/>
+<dc:date>1996</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=30</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/42</dc:identifier>
+<dc:publisher>Sociedad Argentina de Docentes en Administración Financiera - Mar Del Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/43</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jornadas de Investigación y Trabajo Científico y Técnico (5º : 1996 : Río Cuarto): ponencias</dc:title>
+<dc:creator>Universidad Nacional de Río Cuarto. Facultad de Ciencias Económicas</dc:creator>
+<dc:creator/>
+<dc:subject>ECONOMÍA</dc:subject>
+<dc:subject>ARGENTINA</dc:subject>
+<dc:subject/>
+<dc:description/>
+<dc:date>1996</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=31</dc:identifier>
+<dc:identifier>ISBN:</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/43</dc:identifier>
+<dc:language>Español</dc:language>
+<dc:publisher>Facultad de Ciencias Económicas - Rio Cuarto</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/44</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Interpretación y análisis de estados contables</dc:title>
+<dc:creator>Biondi, Mario</dc:creator>
+<dc:subject>CONTABILIDAD</dc:subject>
+<dc:subject>ESTADOS CONTABLES</dc:subject>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=34</dc:identifier>
+<dc:identifier>ISBN: 950-537-341-4</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/44</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/45</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Reingeniería: empezar de nuevo</dc:title>
+<dc:creator>Parro, Nereo Roberto</dc:creator>
+<dc:contributor>Marzagalli, César, prol.</dc:contributor>
+<dc:subject>ADMINISTRACIÓN DE EMPRESAS</dc:subject>
+<dc:subject>REINGENIERÍA</dc:subject>
+<dc:description/>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=35</dc:identifier>
+<dc:identifier>ISBN: 950-537-352-X</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/45</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/46</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Política económica Argentina contemporánea</dc:title>
+<dc:creator>Ferrucci, Ricardo J.</dc:creator>
+<dc:subject>POLÍTICA ECONÓMICA</dc:subject>
+<dc:subject>ARGENTINA</dc:subject>
+<dc:description/>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=36</dc:identifier>
+<dc:identifier>ISBN: 950-537-185-3</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/46</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/47</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Geografía económica mundial y argentina: con particular referencia a Latinoamérica</dc:title>
+<dc:creator>Carlevari, Isidro J.F.</dc:creator>
+<dc:subject>GEOGRAFÍA ECONÓMICA</dc:subject>
+<dc:subject>ARGENTINA</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=37</dc:identifier>
+<dc:identifier>ISBN: 950-537-282-5</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/47</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/48</identifier>
+                <datestamp>2015-02-23T12:44:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Marketing global: una visión conceptual del marketing moderno</dc:title>
+<dc:creator>Palacio, Enrique A.</dc:creator>
+<dc:subject>MERCADOTECNIA</dc:subject>
+<dc:subject>MARKETING</dc:subject>
+<dc:date>1996</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:date>2015-02-23T12:44:13Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=38</dc:identifier>
+<dc:identifier>ISBN: 950-537-364-3</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/48</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/49</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Contabilidad: presente y futuro</dc:title>
+<dc:creator>Viegas, Juan Carlos</dc:creator>
+<dc:contributor>Chaves, Osvaldo A.</dc:contributor>
+<dc:contributor>Pahlen Acuña, Ricardo J. M.</dc:contributor>
+<dc:contributor>Fronti de García, Luisa</dc:contributor>
+<dc:subject>CONTABILIDAD</dc:subject>
+<dc:date>1996, 1997</dc:date>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=39</dc:identifier>
+<dc:identifier>ISBN: 950-537-377-5</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/49</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/50</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sistemas administrativos</dc:title>
+<dc:creator>Magdalena, Fernando G.</dc:creator>
+<dc:subject>SISTEMAS</dc:subject>
+<dc:subject>DISEñO DE SISTEMAS</dc:subject>
+<dc:subject>ADMINISTRACIÓN</dc:subject>
+<dc:date>1996</dc:date>
+<dc:date>1984</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=40</dc:identifier>
+<dc:identifier>ISBN: 950-537-081-3</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/50</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/51</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Costos para empresarios</dc:title>
+<dc:creator>Giménez, Carlos M.</dc:creator>
+<dc:contributor>Augusto, Roberto</dc:contributor>
+<dc:contributor>Bottaro, Oscar</dc:contributor>
+<dc:subject>COSTOS</dc:subject>
+<dc:subject>CONTABILIDAD DE COSTOS</dc:subject>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=41</dc:identifier>
+<dc:identifier>ISBN: 950-537-322-8</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/51</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/52</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Normas contables argentinas</dc:title>
+<dc:creator>Fowler Newton, Enrique</dc:creator>
+<dc:subject>NORMAS CONTABLES</dc:subject>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=42</dc:identifier>
+<dc:identifier>ISBN: 950-537-401-1</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/52</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/53</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Dirección de la salud</dc:title>
+<dc:creator>Drovetta, Susana</dc:creator>
+<dc:subject>ADMINISTRACIÓN DE LA SALUD</dc:subject>
+<dc:date>1992</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=43</dc:identifier>
+<dc:identifier>ISBN: 950-537-217-5</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/53</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/54</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Calidad estratégica total: total Quality Management. Diseño, implementación y gestión del cambio estratégico imprescindible</dc:title>
+<dc:creator>Rico, Rubén Roberto</dc:creator>
+<dc:subject>CONTROL DE CALIDAD</dc:subject>
+<dc:subject>ESTRATEGIA</dc:subject>
+<dc:subject>NORMAS DE CALIDAD</dc:subject>
+<dc:date>1996</dc:date>
+<dc:date>1993</dc:date>
+<dc:date>1991</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=44</dc:identifier>
+<dc:identifier>ISBN: 950-537-193-4</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/54</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/55</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Administración en equipo: nuevos enfoques prácticos</dc:title>
+<dc:creator>Margerison, Charles</dc:creator>
+<dc:contributor>McCann, Dick</dc:contributor>
+<dc:subject>TRABAJO EN EQUIPO</dc:subject>
+<dc:subject>ADMINISTRACIÓN DE PERSONAL</dc:subject>
+<dc:subject>RELACIONES HUMANAS</dc:subject>
+<dc:date>1993</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=45</dc:identifier>
+<dc:identifier>ISBN: 950-537-227-2</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/55</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/56</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La nueva empresa cooperativa: Estado, sociedad y economía solidaria. Cooperar para competir</dc:title>
+<dc:creator>Herrera, Juan C.</dc:creator>
+<dc:contributor>Pimienta, Norma E.</dc:contributor>
+<dc:subject>COOPERATIVAS</dc:subject>
+<dc:subject>EMPRESAS</dc:subject>
+<dc:subject>ESTRATEGIA</dc:subject>
+<dc:subject>GLOBALIZACIÓN</dc:subject>
+<dc:description/>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=46</dc:identifier>
+<dc:identifier>ISBN: 950-537-383-X</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/56</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/57</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Breviario de historia económica argentina: siglos XVIII y XIX 1776-1900</dc:title>
+<dc:creator>Gregoratti, Horacio David</dc:creator>
+<dc:contributor>Gregoratti, Maria Laura</dc:contributor>
+<dc:subject>ARGENTINA</dc:subject>
+<dc:subject>HISTORIA ECONÓMICA</dc:subject>
+<dc:date>1996</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=47</dc:identifier>
+<dc:identifier>ISBN: 950-537-363-5</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/57</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/58</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La política económica argentina en los últimos cincuenta años</dc:title>
+<dc:creator>García Vázquez, Enrique</dc:creator>
+<dc:subject>POLÍTICA ECONÓMICA</dc:subject>
+<dc:subject>HISTORIA ARGENTINA</dc:subject>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=48</dc:identifier>
+<dc:identifier>ISBN: 950-537-319-8</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/58</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/59</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Humanware: el management del siglo XXI</dc:title>
+<dc:creator>Perel, Vicente L.</dc:creator>
+<dc:contributor>Blanco, Isabel</dc:contributor>
+<dc:subject>ADMINISTRACIÓN</dc:subject>
+<dc:subject>TRABAJO EN EQUIPO</dc:subject>
+<dc:date>1995</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=49</dc:identifier>
+<dc:identifier>ISBN: 950-537-316-3</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/59</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/60</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Re-estructurando empresas: las nuevas estructuras de redes para diseñar las organizaciones del próximo siglo</dc:title>
+<dc:creator>Serra, Roberto</dc:creator>
+<dc:contributor>Kastika, Eduardo</dc:contributor>
+<dc:subject>ADMINISTRACIÓN DE EMPRESAS</dc:subject>
+<dc:subject>ORGANIZACIÓN DE LA EMPRESA</dc:subject>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=50</dc:identifier>
+<dc:identifier>ISBN: 950-537-289-2</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/60</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/61</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Informática para ejecutivos</dc:title>
+<dc:creator>Saroka, Raúl H.</dc:creator>
+<dc:contributor>Collazo, Javier</dc:contributor>
+<dc:subject>SISTEMAS DE INFORMACIÓN</dc:subject>
+<dc:subject>INFORMÁTICA</dc:subject>
+<dc:date>1996</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=51</dc:identifier>
+<dc:identifier>ISBN: 950-537-374-0</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/61</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/62</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>El príncipe:</dc:title>
+<dc:creator>Maquiavelo, Nicolás</dc:creator>
+<dc:creator/>
+<dc:contributor>Raschella, Roberto,tr., introd. y notas</dc:contributor>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:subject>TEORÍA POLÍTICA</dc:subject>
+<dc:subject/>
+<dc:description/>
+<dc:date>1968</dc:date>
+<dc:date>1996</dc:date>
+<dc:date>1994</dc:date>
+<dc:date>1996</dc:date>
+<dc:date>1995</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=52</dc:identifier>
+<dc:identifier>ISBN: 950-03-0503-8</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/62</dc:identifier>
+<dc:language>Español</dc:language>
+<dc:publisher>Santiago Rueda - Buenos Aires</dc:publisher>
+<dc:publisher>Losada - Buenos Aires</dc:publisher>
+<dc:publisher>Plus Ultra - Buenos Aires</dc:publisher>
+<dc:publisher>Plus Ultra - Buenos Aires</dc:publisher>
+<dc:publisher>Planeta De Agostini - Madrid</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/63</identifier>
+                <datestamp>2015-02-23T12:44:14Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Resoluciones técnicas nros 4, 5, 6, 7, 8, 9, 10, 11, 12 y 13</dc:title>
+<dc:creator>FACPCE</dc:creator>
+<dc:subject>RESOLUCIONES TÉCNICAS</dc:subject>
+<dc:subject>CONTABILIDAD</dc:subject>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:date>2015-02-23T12:44:14Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=53</dc:identifier>
+<dc:identifier>ISBN: 950-537-329-5</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/63</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/64</identifier>
+                <datestamp>2015-02-23T12:44:15Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Síntesis socioeconómica de las provincias argentinas</dc:title>
+<dc:creator>Consejo Federal de Inversiones</dc:creator>
+<dc:subject>ESTRUCTURA ECONOMICA</dc:subject>
+<dc:subject>ESTRUCTURA SOCIAL</dc:subject>
+<dc:subject>ARGENTINA</dc:subject>
+<dc:subject>ECONOMÍA REGIONAL</dc:subject>
+<dc:subject>ECONOMÍA</dc:subject>
+<dc:date>1996</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=65</dc:identifier>
+<dc:identifier>ISBN: 950-9899-89-5</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/64</dc:identifier>
+<dc:publisher>Consejo Federal de Inversiones - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/65</identifier>
+                <datestamp>2015-02-23T12:44:15Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Historia de la Universidad de La Plata</dc:title>
+<dc:creator>Castiñeiras, Julio R.</dc:creator>
+<dc:subject>HISTORIA</dc:subject>
+<dc:subject>UNIVERSIDADES</dc:subject>
+<dc:subject>UNLP</dc:subject>
+<dc:date>1985</dc:date>
+<dc:date>1985</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=66</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/65</dc:identifier>
+<dc:publisher>UNLP - La Plata</dc:publisher>
+<dc:publisher>UNLP - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/66</identifier>
+                <datestamp>2015-02-23T12:44:15Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Plan quinquenal 1995-1999: Argentina en crecimiento 1995-1999</dc:title>
+<dc:creator>Argentina. Ministerio de Economía y Obras y Servicios Públicos</dc:creator>
+<dc:subject>PLANES ECONÓMICOS</dc:subject>
+<dc:subject>INVERSIONES</dc:subject>
+<dc:subject>MACROECONOMÍA</dc:subject>
+<dc:subject>POLÍTICA ECONÓMICA</dc:subject>
+<dc:subject>ECONOMÍA REGIONAL</dc:subject>
+<dc:subject>SERVICIOS PÚBLICOS</dc:subject>
+<dc:date>[199-]</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=68</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/66</dc:identifier>
+<dc:publisher>Ministerio de Economía y Obras y Servicios Públicos - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/67</identifier>
+                <datestamp>2015-02-23T12:44:15Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Mapas de la pobreza en la Argentina: documento de trabajo Nº 4</dc:title>
+<dc:creator>Argentina. Ministerio de Economía y Obras y Servicios Públicos. Secretaria de Programación Económica. Comité Ejecutivo para el Estudio de la pobreza en la Argentina</dc:creator>
+<dc:subject>POBREZA</dc:subject>
+<dc:subject>INDICADORES SOCIALES</dc:subject>
+<dc:date>1994</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=72</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/67</dc:identifier>
+<dc:publisher>CEPA - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/68</identifier>
+                <datestamp>2015-02-23T12:44:15Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Creación de la Escuela de Ciencias Económicas</dc:title>
+<dc:creator>Universidad Nacional de La Plata. Facultad de Ciencias Jurídicas y Sociales</dc:creator>
+<dc:subject>UNIVERSIDADES</dc:subject>
+<dc:subject>UNLP</dc:subject>
+<dc:date>1949</dc:date>
+<dc:date>1949</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=78</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/68</dc:identifier>
+<dc:language>Español</dc:language>
+<dc:publisher>Facultad de Ciencias Jurídicas y Sociales - La Plata</dc:publisher>
+<dc:publisher>UNLP. Facultad de Ciencias Jurídicas y Sociales - La Plata</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/69</identifier>
+                <datestamp>2015-02-23T12:44:15Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Las civilizaciones actuales: estudio de historia económica y social</dc:title>
+<dc:creator>Braudel, Fernand</dc:creator>
+<dc:subject>HISTORIA SOCIAL</dc:subject>
+<dc:subject>HISTORIA ECONÓMICA</dc:subject>
+<dc:date>1966</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=81</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/69</dc:identifier>
+<dc:publisher>Tecnos - Madrid</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/70</identifier>
+                <datestamp>2015-02-23T12:44:15Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Probabilidad, lógica y decisiones gerenciales</dc:title>
+<dc:creator>Braverman, Jerome D.</dc:creator>
+<dc:contributor>Contin Sanz, Agustín tr.</dc:contributor>
+<dc:subject>LOGICA</dc:subject>
+<dc:subject>ESTADÍSTICA</dc:subject>
+<dc:subject>ANÁLISIS ESTADÍSTICO</dc:subject>
+<dc:subject>PROBABILIDAD</dc:subject>
+<dc:subject>TOMA DE DECISIONES</dc:subject>
+<dc:description/>
+<dc:date>1980</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=82</dc:identifier>
+<dc:identifier>ISBN: 968-24-0807-5</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/70</dc:identifier>
+<dc:publisher>Trillas - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/71</identifier>
+                <datestamp>2015-02-23T12:44:15Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Historia de las instituciones argentinas</dc:title>
+<dc:creator>Bravo, Omar A.</dc:creator>
+<dc:subject>ARGENTINA</dc:subject>
+<dc:subject>HISTORIA</dc:subject>
+<dc:date>1981</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=83</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/71</dc:identifier>
+<dc:publisher>Depalma - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/72</identifier>
+                <datestamp>2015-02-23T12:44:15Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Estructura y transacciones del sistema financiero</dc:title>
+<dc:creator>Brcich, Juan M.</dc:creator>
+<dc:subject>FINANZAS</dc:subject>
+<dc:subject>FINANZAS INTERNACIONALES</dc:subject>
+<dc:subject>SISTEMA FINANCIERO</dc:subject>
+<dc:date>1972</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=84</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/72</dc:identifier>
+<dc:publisher>CEMLA - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/73</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Fundamentos de financiación empresarial</dc:title>
+<dc:creator>Brealey, Richard</dc:creator>
+<dc:contributor>Myers, Stewart</dc:contributor>
+<dc:subject>ADMINISTRACIÓN FINANCIERA</dc:subject>
+<dc:subject>FINANCIAMIENTO DE EMPRESAS</dc:subject>
+<dc:date>1992</dc:date>
+<dc:date>c1993, 1994</dc:date>
+<dc:date>1992</dc:date>
+<dc:date>c1993</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:date>2015-02-23T12:44:15Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=85</dc:identifier>
+<dc:identifier>ISBN: 84-7615-171-3</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/73</dc:identifier>
+<dc:publisher>McGraw-Hill - Madrid</dc:publisher>
+<dc:publisher>McGraw-Hill - Madrid</dc:publisher>
+<dc:publisher>McGraw-Hill - Madrid</dc:publisher>
+<dc:publisher>McGraw-Hill - Madrid</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/74</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Introducción a la publicidad</dc:title>
+<dc:creator>Brewster, Arthur Judson</dc:creator>
+<dc:contributor>Ingraham, Robert G.</dc:contributor>
+<dc:contributor>Palmer, Herbert Hall</dc:contributor>
+<dc:subject>PUBLICIDAD</dc:subject>
+<dc:date>1963</dc:date>
+<dc:date>1965</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=87</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/74</dc:identifier>
+<dc:publisher>Continental - Mexico</dc:publisher>
+<dc:publisher>CECSA - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/75</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Historia económica y social</dc:title>
+<dc:creator>Brinkman, Carl</dc:creator>
+<dc:subject>HISTORIA ECONÓMICA</dc:subject>
+<dc:subject>HISTORIA SOCIAL</dc:subject>
+<dc:date>1962</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=88</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/75</dc:identifier>
+<dc:publisher>El Ateneo - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/76</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Teoría y problemas de investigación de operaciones</dc:title>
+<dc:creator>Bronson, Richard</dc:creator>
+<dc:contributor>Fournier García, María de Lourdes, tr.</dc:contributor>
+<dc:subject>PROGRAMACIÓN LINEAL</dc:subject>
+<dc:subject>PROBABILIDAD</dc:subject>
+<dc:subject>ANÁLISIS DE REDES</dc:subject>
+<dc:subject>TEORÍA DE LOS JUEGOS</dc:subject>
+<dc:description/>
+<dc:date>1969-1982</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=89</dc:identifier>
+<dc:identifier>ISBN: 968-451-385-2</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/76</dc:identifier>
+<dc:publisher>McGraw-Hill - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/77</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Análisis de la aplicación de un instrumento monetario no convencional en la Argentina</dc:title>
+<dc:creator>Ruíz, Victor Hugo</dc:creator>
+<dc:contributor>Otero, Rubén Carlos</dc:contributor>
+<dc:subject>SISTEMAS MONETARIOS</dc:subject>
+<dc:subject>ARGENTINA</dc:subject>
+<dc:date>1983</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=97</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/77</dc:identifier>
+<dc:publisher>Banco Central de la República Argentina- Gerencia de Programación Monetaria - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/78</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jornadas Nacionales de Administración Financiera (11º : 1991 : Córdoba): disertaciones</dc:title>
+<dc:creator>Sociedad Argentina de Docentes en Administración Financiera</dc:creator>
+<dc:creator/>
+<dc:subject>ADMINISTRACIÓN FINANCIERA</dc:subject>
+<dc:subject>JORNADAS</dc:subject>
+<dc:description/>
+<dc:date>1991</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=102</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/78</dc:identifier>
+<dc:publisher>UNC. Fac. de Ciencias Económicas - Mendoza</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/79</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jornadas Nacionales y I Iberoamericanas de Administración Financiera (15º : 1995 : Córdoba) : disertaciones</dc:title>
+<dc:creator>Sociedad Argentina de Docentes en Administración Financiera</dc:creator>
+<dc:creator/>
+<dc:subject>ADMINISTRACIÓN FINANCIERA</dc:subject>
+<dc:subject>JORNADAS</dc:subject>
+<dc:description/>
+<dc:date>1995</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=103</dc:identifier>
+<dc:identifier>ISBN:</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/79</dc:identifier>
+<dc:publisher>SADAF - Mendoza</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/80</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Jornadas Nacionales y I Latinoamericanas de Administración Financiera (10º : 1990 : Córdoba): disertaciones</dc:title>
+<dc:creator>Sociedad Argentina de Docentes en Administración Financiera</dc:creator>
+<dc:creator/>
+<dc:subject>ADMINISTRACIÓN FINANCIERA</dc:subject>
+<dc:subject>JORNADAS</dc:subject>
+<dc:description/>
+<dc:date>1990</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=104</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/80</dc:identifier>
+<dc:publisher>UNC. Fac. de Cs. Es. - Mendoza</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/81</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lógica matemática</dc:title>
+<dc:creator>Ferrater Mora, José</dc:creator>
+<dc:contributor>Leblanc, Hugues</dc:contributor>
+<dc:subject>LOGICA</dc:subject>
+<dc:date>1962</dc:date>
+<dc:date>1967</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=108</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/81</dc:identifier>
+<dc:publisher>Fondo de Cultura Económica - Mexico</dc:publisher>
+<dc:publisher>Fondo de Cultura Económica - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/82</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La odisea del perito contador: honorarios, recursos y costos</dc:title>
+<dc:creator>Abad, Norberto Antonio</dc:creator>
+<dc:subject>PRÁCTICA PROFESIONAL</dc:subject>
+<dc:date>1986</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=109</dc:identifier>
+<dc:identifier>ISBN: 950-593-027-5</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/82</dc:identifier>
+<dc:publisher>El Coloquio - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/83</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>500 modelos de contratos y cláusulas e instrumentos: comerciales, civiles, laborales, agrarios</dc:title>
+<dc:creator>Abatti, Enrique Luis</dc:creator>
+<dc:contributor>Dibar, Alberto Ramón</dc:contributor>
+<dc:subject>CONTRATOS</dc:subject>
+<dc:date>1980</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=110</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/83</dc:identifier>
+<dc:publisher>Abacacía - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/84</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Teoría de la información y codificación</dc:title>
+<dc:creator>Abramson, Norman</dc:creator>
+<dc:subject>TEORÍA DE LA INFORMACIÓN</dc:subject>
+<dc:subject>MATEMÁTICAS</dc:subject>
+<dc:description/>
+<dc:date>1986</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=111</dc:identifier>
+<dc:identifier>ISBN: 84-283-0232-4</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/84</dc:identifier>
+<dc:publisher>Paraninfo - Madrid</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/85</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Teoría macroeconómica</dc:title>
+<dc:creator>Ackley, Gardner</dc:creator>
+<dc:subject>MACROECONOMÍA</dc:subject>
+<dc:date>1965-1970</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=112</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/85</dc:identifier>
+<dc:publisher>Uteha - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/86</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>El arte de resolver problemas: las fábulas de Ackoff</dc:title>
+<dc:creator>Ackoff, Russell L.</dc:creator>
+<dc:subject>ADMINISTRACIÓN</dc:subject>
+<dc:subject>TOMA DE DECISIONES</dc:subject>
+<dc:date>1993</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=113</dc:identifier>
+<dc:identifier>ISBN: 968-18-1294-8</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/86</dc:identifier>
+<dc:publisher>Limusa - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/87</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Un concepto de planeación de empresas</dc:title>
+<dc:creator>Ackoff, Russell L.</dc:creator>
+<dc:subject>EMPRESAS</dc:subject>
+<dc:subject>PLANIFICACIÓN</dc:subject>
+<dc:date>1982</dc:date>
+<dc:date>1982</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=114</dc:identifier>
+<dc:identifier>ISBN: 968-18-0570-4</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/87</dc:identifier>
+<dc:publisher>Limusa - Mexico</dc:publisher>
+<dc:publisher>Limusa - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/88</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Planificación de la empresa del futuro</dc:title>
+<dc:creator>Ackoff, Russell L.</dc:creator>
+<dc:subject>EMPRESAS</dc:subject>
+<dc:subject>PLANIFICACIÓN</dc:subject>
+<dc:date>1995</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=115</dc:identifier>
+<dc:identifier>ISBN: 968-18-1617-x</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/88</dc:identifier>
+<dc:publisher>Limusa - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/89</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Rediseñando el futuro</dc:title>
+<dc:creator>Ackoff, Russell L.</dc:creator>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:subject>DESARROLLO SOCIAL</dc:subject>
+<dc:subject>CAMBIO SOCIAL</dc:subject>
+<dc:date>1985</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=116</dc:identifier>
+<dc:identifier>ISBN: 968-18-0147-4</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/89</dc:identifier>
+<dc:publisher>Limusa - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/90</identifier>
+                <datestamp>2015-02-23T12:44:16Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Álgebra lineal y programación lineal</dc:title>
+<dc:creator>Acher, Jean</dc:creator>
+<dc:subject>ÁLGEBRA</dc:subject>
+<dc:date>1967</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:date>2015-02-23T12:44:16Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=117</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/90</dc:identifier>
+<dc:publisher>Montaner y Simón - Barcelona</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/91</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>El poder y el desarrollo secundario en la América Latina</dc:title>
+<dc:creator>Adams, Richard Newbold</dc:creator>
+<dc:contributor>Esparza, Alfonso, tr.</dc:contributor>
+<dc:subject>DESARROLLO ECONÓMICO</dc:subject>
+<dc:subject>CRECIMIENTO ECONÓMICO</dc:subject>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:description/>
+<dc:date>1971</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=118</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/91</dc:identifier>
+<dc:publisher>Roble - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/92</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Teorías del desarrollo económico</dc:title>
+<dc:creator>Adelman, Irma</dc:creator>
+<dc:subject>DESARROLLO ECONÓMICO</dc:subject>
+<dc:description/>
+<dc:date>1964</dc:date>
+<dc:date>1965</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=119</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/92</dc:identifier>
+<dc:publisher>Fondo de Cultura Económica - Mexico</dc:publisher>
+<dc:publisher>Fondo de Cultura Económica - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/93</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Las políticas públicas de empleo y su evaluación: la experiencia francesa</dc:title>
+<dc:creator>Instituto Nacional de Administración Pública</dc:creator>
+<dc:creator/>
+<dc:subject>FRANCIA</dc:subject>
+<dc:subject>POLÍTICA DE EMPLEO</dc:subject>
+<dc:subject/>
+<dc:description>Conferencia realizada por la profesora Annie Fouquet. Directora del Centro de Estudios del Empleo de Francia el 28 de Noviembre de 1996 en el INAP</dc:description>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=120</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/93</dc:identifier>
+<dc:publisher>INAP - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/94</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Servicio público: estudios a la luz de la Reforma del Estado</dc:title>
+<dc:creator>cat_autor@4045</dc:creator>
+<dc:contributor>cat_autor@6307</dc:contributor>
+<dc:contributor>cat_autor@6306</dc:contributor>
+<dc:subject>cat_tema@124</dc:subject>
+<dc:subject>cat_tema@83</dc:subject>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=121</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/94</dc:identifier>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/95</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Historia argentina contemporánea 1862-1930</dc:title>
+<dc:creator>Academia Nacional de la Historia</dc:creator>
+<dc:subject>HISTORIA ARGENTINA</dc:subject>
+<dc:date>1963</dc:date>
+<dc:date>1963</dc:date>
+<dc:date>1963</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=127</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/95</dc:identifier>
+<dc:publisher>El Ateneo - Buenos Aires</dc:publisher>
+<dc:publisher>El Ateneo - Buenos Aires</dc:publisher>
+<dc:publisher>El Ateneo - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/96</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La globalización: el nuevo papel del Estado</dc:title>
+<dc:creator/>
+<dc:subject>GLOBALIZACIÓN</dc:subject>
+<dc:subject/>
+<dc:description/>
+<dc:date>1997</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=128</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/96</dc:identifier>
+<dc:publisher>INAP - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/97</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>El drenaje de talento: análisis y descripción del fenómeno de las migraciones selectivas hacia los países desarrollados</dc:title>
+<dc:creator>Adams, Walter</dc:creator>
+<dc:contributor>Olivera, Julio H. G., pról.</dc:contributor>
+<dc:subject>SOCIOLOGÍA</dc:subject>
+<dc:subject>MIGRACIÓN</dc:subject>
+<dc:subject>PAÍSES DESARROLLADOS</dc:subject>
+<dc:date>1971</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=129</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/97</dc:identifier>
+<dc:publisher>Paidós - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/98</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Planificación sectorial y por proyectos en materia de transporte</dc:title>
+<dc:creator>Adler, Hans</dc:creator>
+<dc:subject>TRANSPORTE</dc:subject>
+<dc:date>1969</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=131</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/98</dc:identifier>
+<dc:publisher>Tecnos - Madrid</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/99</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Administración dinámica: colección de papeles de Mary Parker Follet</dc:title>
+<dc:contributor>Urwick, L.</dc:contributor>
+<dc:contributor>Parker Follet, Mary</dc:contributor>
+<dc:contributor>Metcalf, Henry C.</dc:contributor>
+<dc:subject>ADMINISTRACIÓN DE EMPRESAS</dc:subject>
+<dc:description/>
+<dc:date>1960</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=132</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/99</dc:identifier>
+<dc:publisher>Herrero - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/100</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La economía del subdesarrollo</dc:title>
+<dc:creator>Agarwala, A. N.</dc:creator>
+<dc:contributor>Gerona Peña, Juan tr.</dc:contributor>
+<dc:contributor>Singh, S. P.</dc:contributor>
+<dc:subject>SUBDESARROLLO</dc:subject>
+<dc:description/>
+<dc:date>1963</dc:date>
+<dc:date>1973</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=133</dc:identifier>
+<dc:identifier>ISBN: 84-309-0441-7</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/100</dc:identifier>
+<dc:publisher>Tecnos - Madrid</dc:publisher>
+<dc:publisher>Tecnos - Madrid</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/101</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Agroindustrias en la Argentina: cambios organizativos y productivos (1970-1990)</dc:title>
+<dc:creator>Gutman, Graciela [comp.]</dc:creator>
+<dc:subject>ARGENTINA</dc:subject>
+<dc:subject>CAMBIO TECNOLÓGICO</dc:subject>
+<dc:subject>DESARROLLO AGROPECUARIO</dc:subject>
+<dc:subject>ECONOMÍA AGRARIA</dc:subject>
+<dc:subject>AGROINDUSTRIA</dc:subject>
+<dc:subject>REFORMA AGRARIA</dc:subject>
+<dc:date>1990</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=134</dc:identifier>
+<dc:identifier>ISBN: 950-25-1340-1</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/101</dc:identifier>
+<dc:publisher>CEPAL - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/102</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Orígenes del subdesarrollo</dc:title>
+<dc:creator>Aguilar, Alonso</dc:creator>
+<dc:subject>AMÉRICA LATINA</dc:subject>
+<dc:subject>DESARROLLO ECONÓMICO</dc:subject>
+<dc:subject>SUBDESARROLLO</dc:subject>
+<dc:date>1982</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=135</dc:identifier>
+<dc:identifier>ISBN: 958-14-0041-9</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/102</dc:identifier>
+<dc:publisher>Plaza &amp; Janes - Busot</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/103</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Estructuras y ciclos económicos:</dc:title>
+<dc:creator>Akerman, Johan</dc:creator>
+<dc:creator/>
+<dc:subject>CICLOS ECONÓMICOS</dc:subject>
+<dc:subject>ECONOMÍA</dc:subject>
+<dc:subject>ESTRUCTURA ECONOMICA</dc:subject>
+<dc:subject>TEORÍA ECONÓMICA</dc:subject>
+<dc:subject/>
+<dc:description/>
+<dc:date>1960</dc:date>
+<dc:date>1962</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=136</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/103</dc:identifier>
+<dc:publisher>Aguilar - Madrid</dc:publisher>
+<dc:publisher>Aguilar - Madrid</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/104</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Manual del administrador de empresas: soluciones prácticas</dc:title>
+<dc:creator>Albert, Kenneth J.</dc:creator>
+<dc:subject>MANUALES</dc:subject>
+<dc:subject>ADMINISTRACIÓN DE EMPRESAS</dc:subject>
+<dc:date>1982</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=137</dc:identifier>
+<dc:identifier>ISBN: 968-451-272-4</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/104</dc:identifier>
+<dc:publisher>McGraw-Hill - Mexico</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/105</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Cálculos  financieros: primer curso</dc:title>
+<dc:creator>Alcaraz Segura, L.</dc:creator>
+<dc:subject>DESCUENTO</dc:subject>
+<dc:subject>MATEMÁTICAS FINANCIERAS</dc:subject>
+<dc:subject>RENTA DEL CAPITAL</dc:subject>
+<dc:description/>
+<dc:date>1958</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=138</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/105</dc:identifier>
+<dc:publisher>Fondo de Cultura Económica</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/106</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Productividad y negociación colectiva: la discusión salarial en la Argentina en el marco de los convenios colectivos de trabajo</dc:title>
+<dc:creator>Aldao-Zapiola, Carlos M.</dc:creator>
+<dc:contributor>Jaureguiberry, Carlos E.</dc:contributor>
+<dc:contributor>Hülsberg, Hugo A.</dc:contributor>
+<dc:subject>RELACIONES LABORALES</dc:subject>
+<dc:subject>ARGENTINA</dc:subject>
+<dc:subject>EMPLEO</dc:subject>
+<dc:subject>NEGOCIACIÓN COLECTIVA</dc:subject>
+<dc:subject>PRODUCTIVIDAD</dc:subject>
+<dc:description/>
+<dc:date>1994</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=139</dc:identifier>
+<dc:identifier>ISBN: 950-537-314-7</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/106</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/107</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Manual de contabilidad gubernamental</dc:title>
+<dc:creator>Alé, Miguel Ángel</dc:creator>
+<dc:subject>CONTABILIDAD PÚBLICA</dc:subject>
+<dc:date>1994</dc:date>
+<dc:date>1998</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=140</dc:identifier>
+<dc:identifier>ISBN: 950-537-287-6</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/107</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/108</identifier>
+                <datestamp>2015-02-23T12:44:17Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La inversión bursátil</dc:title>
+<dc:creator>Alemann, Juan E.</dc:creator>
+<dc:subject>MERCADO FINANCIERO</dc:subject>
+<dc:subject>INVERSIONES</dc:subject>
+<dc:date>1962</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:date>2015-02-23T12:44:17Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=141</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/108</dc:identifier>
+<dc:publisher>Selección contable - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/109</identifier>
+                <datestamp>2015-02-23T12:44:18Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>El juego internacional del dinero</dc:title>
+<dc:creator>Aliber, Robert Z.</dc:creator>
+<dc:subject>MONEDAS</dc:subject>
+<dc:subject>RELACIONES MONETARIAS INTERNACIONALES</dc:subject>
+<dc:date>1975</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=142</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/109</dc:identifier>
+<dc:publisher>El Ateneo - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/110</identifier>
+                <datestamp>2015-02-23T12:44:18Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La participación del trabajador en la administración de la empresa</dc:title>
+<dc:creator>Almansa Pastor, José Manuel</dc:creator>
+<dc:subject>ADMINISTRACIÓN DE EMPRESAS</dc:subject>
+<dc:subject>TRABAJADORES</dc:subject>
+<dc:date>1965</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=143</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/110</dc:identifier>
+<dc:publisher>Tecnos - Madrid</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/111</identifier>
+                <datestamp>2015-02-23T12:44:18Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Administración de las finanzas de la empresa</dc:title>
+<dc:creator>Alonso, Aldo Hernán</dc:creator>
+<dc:subject>ADMINISTRACIÓN FINANCIERA</dc:subject>
+<dc:subject>EMPRESAS</dc:subject>
+<dc:date>1980</dc:date>
+<dc:date>1980</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=144</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/111</dc:identifier>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+<dc:publisher>Macchi - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/112</identifier>
+                <datestamp>2015-02-23T12:44:18Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>La participación de los trabajadores en las ganancias de las empresas</dc:title>
+<dc:creator>Alonso, Julio César</dc:creator>
+<dc:subject>EMPRESAS</dc:subject>
+<dc:subject>PARTICIPACIÓN DE LOS TRABAJADORES</dc:subject>
+<dc:date>1963</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=145</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/112</dc:identifier>
+<dc:publisher>Omeba - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/113</identifier>
+                <datestamp>2015-02-23T12:44:18Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Derecho privado</dc:title>
+<dc:creator>Alterini, Atilio Aníbal</dc:creator>
+<dc:contributor>Salvatori Reviriego, Gustavo</dc:contributor>
+<dc:contributor>Lombardi, César Alfredo</dc:contributor>
+<dc:subject>DERECHO PRIVADO</dc:subject>
+<dc:subject>DERECHO CIVIL</dc:subject>
+<dc:description/>
+<dc:date>1989</dc:date>
+<dc:date>1989-1997</dc:date>
+<dc:date>1968</dc:date>
+<dc:date>1977</dc:date>
+<dc:date>1989-1997</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=147</dc:identifier>
+<dc:identifier>ISBN: 950-20-0552-8</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/113</dc:identifier>
+<dc:publisher>Abeledo-Perrot - Buenos Aires</dc:publisher>
+<dc:publisher>Abeledo-Perrot - Buenos Aires</dc:publisher>
+<dc:publisher>Cathedra - Buenos Aires</dc:publisher>
+<dc:publisher>Abeledo-Perrot - Buenos Aires</dc:publisher>
+<dc:publisher>Abeledo-Perrot - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/114</identifier>
+                <datestamp>2015-02-23T12:44:18Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Matemática financiera</dc:title>
+<dc:creator>Alterisio, Lauro</dc:creator>
+<dc:subject>MATEMÁTICAS FINANCIERAS</dc:subject>
+<dc:date>1953</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=148</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/114</dc:identifier>
+<dc:publisher>El Ateneo - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/115</identifier>
+                <datestamp>2015-02-23T12:44:18Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Lecciones de derecho del trabajo</dc:title>
+<dc:creator>Álvarez, Víctor Daniel</dc:creator>
+<dc:subject>DERECHO DEL TRABAJO</dc:subject>
+<dc:date>1982</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=151</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/115</dc:identifier>
+<dc:publisher>Universidad Nacional de Tucumán - Tucuman</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/116</identifier>
+                <datestamp>2015-02-23T12:44:18Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Análisis matemático para economistas</dc:title>
+<dc:creator>Allen, R. G. D.</dc:creator>
+<dc:subject>ANÁLISIS MATEMÁTICO</dc:subject>
+<dc:subject>ECONOMÍA</dc:subject>
+<dc:date>C1952</dc:date>
+<dc:date>1959</dc:date>
+<dc:date>1962</dc:date>
+<dc:date>1964</dc:date>
+<dc:date>1978</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=152</dc:identifier>
+<dc:identifier>ISBN: 84-03-18003-9</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/116</dc:identifier>
+<dc:publisher>Aguilar - Madrid</dc:publisher>
+<dc:publisher>Aguilar - Madrid</dc:publisher>
+<dc:publisher>Aguilar - Madrid</dc:publisher>
+<dc:publisher>Aguilar - Madrid</dc:publisher>
+<dc:publisher>Aguilar - Madrid</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/117</identifier>
+                <datestamp>2015-02-23T12:44:18Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Economía matemática</dc:title>
+<dc:creator>Allen, R. G. D.</dc:creator>
+<dc:contributor>Correa, Héctor</dc:contributor>
+<dc:contributor>Callejo, Anselmo</dc:contributor>
+<dc:subject>ECONOMÍA MATEMÁTICA</dc:subject>
+<dc:subject>MATEMÁTICAS</dc:subject>
+<dc:date>1965</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=153</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/117</dc:identifier>
+<dc:publisher>Aguilar - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/118</identifier>
+                <datestamp>2015-02-23T12:44:18Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Introducción a la matemática moderna</dc:title>
+<dc:creator>Allen, R. G. D.</dc:creator>
+<dc:contributor>García Araez, Rafael tr.</dc:contributor>
+<dc:subject>MATEMÁTICAS</dc:subject>
+<dc:description/>
+<dc:date>1969</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=154</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/118</dc:identifier>
+<dc:publisher>Aguilar - Madrid</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/119</identifier>
+                <datestamp>2015-02-23T12:44:18Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Los organigramas</dc:title>
+<dc:creator>Allusson, R.</dc:creator>
+<dc:subject>ADMINISTRACIÓN</dc:subject>
+<dc:subject>ORGANIGRAMAS</dc:subject>
+<dc:date>1961</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=155</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/119</dc:identifier>
+<dc:publisher>Francisco Casanovas - Barcelona</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/120</identifier>
+                <datestamp>2015-02-23T12:44:18Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Técnicas documentales y fuentes de información</dc:title>
+<dc:creator>Amat Noguera, Núria</dc:creator>
+<dc:subject>DOCUMENTACIÓN</dc:subject>
+<dc:subject>FUENTES DE INFORMACIÓN</dc:subject>
+<dc:date>1979</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:date>2015-02-23T12:44:18Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=156</dc:identifier>
+<dc:identifier>ISBN: 84-7153-552-1</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/120</dc:identifier>
+<dc:publisher>Bibliograf - Barcelona</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <resumptionToken completeListSize="7553" cursor="0">MToxMDB8Mjpjb2xfMTIzNDU2Nzg5XzIwfDM6fDQ6fDU6b2FpX2Rj</resumptionToken>
+    </ListRecords>
+</OAI-PMH>

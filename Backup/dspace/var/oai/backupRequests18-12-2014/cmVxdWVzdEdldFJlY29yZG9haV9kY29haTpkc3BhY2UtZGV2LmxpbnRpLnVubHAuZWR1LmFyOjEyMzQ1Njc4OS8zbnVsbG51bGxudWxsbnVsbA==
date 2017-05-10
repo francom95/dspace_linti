@@ -1,0 +1,24 @@
+
+    <request verb="GetRecord" identifier="oai:dspace-dev.linti.unlp.edu.ar:123456789/3" metadataPrefix="oai_dc">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/3</identifier>
+                <datestamp>2014-12-12T13:54:32Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_2</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>1era Prueba OAI</dc:title>
+<dc:creator>Ray, Duilio</dc:creator>
+<dc:date>2014-12-12T13:54:32Z</dc:date>
+<dc:date>2014-12-12T13:54:32Z</dc:date>
+<dc:date>1992-02-23</dc:date>
+<dc:identifier>http://hdl.handle.net/123456789/3</dc:identifier>
+<dc:language>es</dc:language>
+<dc:publisher>Ray Duilio</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+    </GetRecord>
+</OAI-PMH>

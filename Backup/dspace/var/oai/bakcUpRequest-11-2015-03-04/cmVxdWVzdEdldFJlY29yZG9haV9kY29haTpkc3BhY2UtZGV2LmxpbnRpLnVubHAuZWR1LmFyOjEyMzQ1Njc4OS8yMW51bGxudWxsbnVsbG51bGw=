@@ -1,0 +1,29 @@
+
+    <request verb="GetRecord" identifier="oai:dspace-dev.linti.unlp.edu.ar:123456789/21" metadataPrefix="oai_dc">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/21</identifier>
+                <datestamp>2015-02-23T12:44:11Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_20</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Ahorro e inversión en el proceso de crecimiento económico</dc:title>
+<dc:creator>Porto, Guido G.</dc:creator>
+<dc:subject>INVERSIONES</dc:subject>
+<dc:subject>CRECIMIENTO ECONÓMICO</dc:subject>
+<dc:subject>AHORROS</dc:subject>
+<dc:date>1996</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:date>2015-02-23T12:44:11Z</dc:date>
+<dc:type>Libro</dc:type>
+<dc:identifier>http://testing.meran.unlp.edu.ar/meran/opac-detail.pl?id1=1</dc:identifier>
+<dc:identifier>ISBN: 987-95921-1-5</dc:identifier>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/123456789/21</dc:identifier>
+<dc:publisher>Mecanografix - Buenos Aires</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+    </GetRecord>
+</OAI-PMH>

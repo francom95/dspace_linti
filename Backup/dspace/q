@@ -1,0 +1,46 @@
+                 Listado de relaciones
+ Esquema |           Nombre           | Tipo  | Dueño  
+---------+----------------------------+-------+--------
+ public  | bitstream                  | tabla | dspace
+ public  | bitstreamformatregistry    | tabla | dspace
+ public  | bundle                     | tabla | dspace
+ public  | bundle2bitstream           | tabla | dspace
+ public  | checksum_history           | tabla | dspace
+ public  | checksum_results           | tabla | dspace
+ public  | collection                 | tabla | dspace
+ public  | collection2item            | tabla | dspace
+ public  | collection_item_count      | tabla | dspace
+ public  | communities2item           | tabla | dspace
+ public  | community                  | tabla | dspace
+ public  | community2collection       | tabla | dspace
+ public  | community2community        | tabla | dspace
+ public  | community_item_count       | tabla | dspace
+ public  | doi                        | tabla | dspace
+ public  | eperson                    | tabla | dspace
+ public  | epersongroup               | tabla | dspace
+ public  | epersongroup2eperson       | tabla | dspace
+ public  | epersongroup2workspaceitem | tabla | dspace
+ public  | fileextension              | tabla | dspace
+ public  | group2group                | tabla | dspace
+ public  | group2groupcache           | tabla | dspace
+ public  | handle                     | tabla | dspace
+ public  | harvested_collection       | tabla | dspace
+ public  | harvested_item             | tabla | dspace
+ public  | item                       | tabla | dspace
+ public  | item2bundle                | tabla | dspace
+ public  | metadatafieldregistry      | tabla | dspace
+ public  | metadataschemaregistry     | tabla | dspace
+ public  | metadatavalue              | tabla | dspace
+ public  | most_recent_checksum       | tabla | dspace
+ public  | registrationdata           | tabla | dspace
+ public  | requestitem                | tabla | dspace
+ public  | resourcepolicy             | tabla | dspace
+ public  | subscription               | tabla | dspace
+ public  | tasklistitem               | tabla | dspace
+ public  | versionhistory             | tabla | dspace
+ public  | versionitem                | tabla | dspace
+ public  | webapp                     | tabla | dspace
+ public  | workflowitem               | tabla | dspace
+ public  | workspaceitem              | tabla | dspace
+(41 filas)
+

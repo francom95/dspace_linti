@@ -1,0 +1,17 @@
+
+    <request verb="ListSets">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <ListSets>
+        <set>
+            <setSpec>com_123456789_1</setSpec>
+            <setName>Primer Comunidad de prueba</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_2</setSpec>
+            <setName>Coleccion de prueba</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_4</setSpec>
+            <setName>2da prueba OAI</setName>
+        </set>
+    </ListSets>
+</OAI-PMH>

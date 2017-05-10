@@ -1,0 +1,4 @@
+
+    <request verb="ListRecords" metadataPrefix="__oai_dc">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <error code="cannotDisseminateFormat">Unknown metadata format</error>
+</OAI-PMH>

@@ -1,0 +1,313 @@
+CONCEPTOS DE LENGUAJES 2012 1
+Los lenguajes de Programación son 
+el corazón de la Ciencia de la 
+Computación. 
+Son herramientas que usamos  para 
+comunicarnos con las máquinas y 
+las personas.
+CONCEPTOS DE LENGUAJES 2012 2
+CUAL ES LA IDEA? 
+• Introducimos, analizamos y evaluamos
+los conceptos más importantes de los 
+lenguajes de programación.
+• “el valor”
+– afecta la producción de Software
+– puede integrarse a otras herramientas”
+CONCEPTOS DE LENGUAJES 2012 3
+QUÉ CONSEGUIREMOS
+• habilidad de apreciar y evaluar
+lenguajes, identificando sus límites y 
+posibilidades
+• habilidad para elegir, para diseñar, 
+implementar o utilizar un lenguaje
+• enfatizar la abstracción
+CONCEPTOS DE LENGUAJES 2012 4
+PARA QUÉ ESTUDIAR 
+CONCEPTOS DE LENGUAJES
+• Aumentar la capacidad para producir soft.
+• Mejorar el uso del lenguaje
+• Incrementar el vocabulario 
+• Elegir mejor un lenguaje
+• Facilitar el aprendizaje de nuevos 
+lenguajes
+• Facilitar el diseño e implementación de 
+lenguajes
+CONCEPTOS DE LENGUAJES 2012 5
+Aumentar la capacidad para 
+producir software
+Conocer profundamente las 
+características de los lenguajes permite 
+aprovechar su potencia y evitar errores, 
+minimizando esfuerzo
+CONCEPTOS DE LENGUAJES 2012 6
+Mejorar el uso del lenguaje 
+que ya  se esta utilizando
+• Si se entiende como se implementa cada 
+característica se mejora la capacidad 
+para escribir programas eficientes.
+CONCEPTOS DE LENGUAJES 2012 7
+Incrementar el vocabulario
+• El lenguaje 
+–equivale a comunicación.
+–es una ayuda y una limitación al 
+pensamiento.
+–permite expresar y estructurar el 
+pensamiento
+• Incrementamos la capacidad para 
+expresar ideas
+CONCEPTOS DE LENGUAJES 2012 8
+Elegir mejor un lenguaje
+• Si se conocen mas a lenguajes, se facilita  
+la elección del mas adecuada de acuerdo 
+al área del problema y por lo tanto se 
+reduce el esfuerzo de codificación.
+CONCEPTOS DE LENGUAJES 2012 9
+Facilitar el aprendizaje de 
+nuevos lenguajes
+• Un lingüista que conoce profundamente la 
+estructura subyacente del lenguaje natural  
+aprende muchísimo mas rápido un nuevo 
+lenguaje (idioma).
+CONCEPTOS DE LENGUAJES 2012 10
+Facilitar el diseño e 
+implementación de lenguajes
+• El programador  puede convertirse en 
+diseñador o implementador de un 
+lenguaje. 
+CONCEPTOS DE LENGUAJES 2012 11
+LENGUAJES Y ….
+• LENGUAJES Y PROCESO DE 
+DESARROLLO DE SOFTWARE
+• LENGUAJES Y AMBIENTES DE 
+DESARROLLO
+• LENGUAJES Y METODOS DE DISEÑO
+• LENGUAJES Y LA ARQUITECTURA DE 
+LAS COMPUTADORAS
+CONCEPTOS DE LENGUAJES 2012 12
+LENGUAJE DE PROGRAMACIÓN 
+EN EL PROCESO DE 
+DESARROLLO DE SOFTWARE
+• Los lenguajes de programación son 
+herramientas para producir software.
+El modelo tradicional de Ciclo de vida del 
+software que debe entregar cada paso al 
+siguiente.
+QUE y COMO
+CONCEPTOS DE LENGUAJES 2012 13
+• CICLO DE VIDA DE SOFTWARE
+REQUERIMIENTOS
+DISEÑO
+IMPLEMENTACION
+CERTIFICACION
+MANTENIMIENTO
+CONCEPTOS DE LENGUAJES 2012 14
+Análisis de requerimientos
+Se identifican y documentan los 
+requerimientos del sistema.
+• Resultado:documento de especificación
+QUE problema se debe resolver.
+CONCEPTOS DE LENGUAJES 2012 15
+Diseño
+• QUE: documento de especificación.
+• COMO: estrategia de solución.
+• Objetivo:
+descomposición en módulos y 
+definición de interfases 
+• método de diseño  impactará en la 
+calidad el entendimiento y la 
+modificabilidad
+CONCEPTOS DE LENGUAJES 2012 16
+Implementación
+• Se codifica en un lenguaje el sistema 
+diseñado. Se implementa la estrategia de 
+solución.
+• QUE el diseño 
+• COMO  su implementación. 
+• En esta etapa es en la que se utiliza en 
+forma directa el lenguaje.
+• Resultado: sistema implementado y 
+documentado.
+CONCEPTOS DE LENGUAJES 2012 17
+Certificación
+(corrección  o satisfacción de requerimientos, verificación, 
+validación)
+Se evalúa la calidad del producto. 
+¿Construimos el producto correcto? 
+- contra el usuario
+¿Construimos el producto correctamente? 
+- contra la especificación.
+CONCEPTOS DE LENGUAJES 2012 18
+Mantenimiento
+• Modificaciones en el sistema terminado:
+– mal funcionamiento
+– modificación 
+• Costo: mayor a la suma de todos los 
+anteriores.
+• Tiempo: etapa mas larga.
+CONCEPTOS DE LENGUAJES 2012 19
+LENGUAJE DE PROGRAMACION 
+Y AMBIENTE DE DESARROLLO
+• Conjunto integrado de herramientas y 
+técnicas
+– equipo de trabajo
+– compatibilidad de herramientas
+CONCEPTOS DE LENGUAJES 2012 20
+LENGUAJE DE PROGRAMACION 
+Y METODO DE DISEÑO
+• Paradigmas de lenguajes
+• Procedural
+• Funcional
+• con TADs
+• basada en módulos
+• OO
+• Programación genérica
+• Programación declarativa
+CONCEPTOS DE LENGUAJES 2012 21
+LENGUAJE DE PROGRAMACION Y 
+ARQUITECTURA DE LA 
+COMPUTADORA
+USUARIOS
+LENGUAJES
+ARQUITECTURA VON 
+NEUMANN
+EXIGENCIAS
+RESTRICCIONES
+A
+B
+S
+T
+R
+A
+C
+C
+I
+O
+N
+CONCEPTOS DE LENGUAJES 2012 22
+CRITERIOS PARA 
+EVALUAR LOS LENGUAJES 
+DE PROGRAMACION
+CONCEPTOS DE LENGUAJES 2012 23
+FACIL DE 
+ESCRIBIR CONFIABLE
+LEGIBLE
+MANTENIBLE
+EFICIENTE
+CONCEPTOS DE LENGUAJES 2012 24
+CRITERIOS DE EVALUACION
+• Los lenguajes de programación son  
+herramientas para el desarrollo de 
+software
+• Impacto de los conceptos en la 
+metodología de desarrollo de software y 
+en el diseño de las computadoras
+CONCEPTOS DE LENGUAJES 2012 25
+FACILIDAD DE 
+ESCRITURA
+• la facilidad de escritura es la medida de cuan 
+fácil resulta usar un lenguaje para  construir 
+soluciones. 
+FACIL DE 
+ESCRIBIR
+•Simplicidad
+•Expresividad
+•Ortogonalidad
+•Soporte de Abstracción
+CONCEPTOS DE LENGUAJES 2012 26
+Simplicidad
+• las características del lenguaje deben ser 
+fáciles de capturar: entender y recordar 
+CONCEPTOS DE LENGUAJES 2012 27
+Expresividad
+• expresar la naturaleza del problema: 
+alto/bajo nivel
+• es función de lo que se desea expresar 
+• distinto nivel de abstracción
+CONCEPTOS DE LENGUAJES 2012 28
+Ortogonalidad
+• El efecto de la combinación de 
+características debe entenderse 
+fácilmente y ser predecible
+• El usuario comprende mejor si tiene un 
+pequeño número de primitivas y un 
+conjunto consistente de reglas de 
+combinación.
+CONCEPTOS DE LENGUAJES 2012 29
+Soporte de abstracción
+• Abstracción de procesos y de datos
+• Principio de diseño: Ocultamiento de la 
+información
+CONCEPTOS DE LENGUAJES 2012 30
+LEGIBILIDAD
+• Fácil de leer a las personas (equipo)
+LEGIBILIDAD•SEMANTICA•SINTAXIS
+•DEFINICION
+•ESTRUCTURAS DE DATOS
+•ESTRUCTURAS DE CONTROL
+CONCEPTOS DE LENGUAJES 2012 31
+Semántica/Sintaxis
+• Restricciones semánticas
+• If-then-else anidados
+• Separación de sentencias
+• indentación
+CONCEPTOS DE LENGUAJES 2012 32
+Sintáxis
+• Documentación y comentarios
+• Elección de nombres
+• Uso de constantes
+• Convenciones léxicas
+CONCEPTOS DE LENGUAJES 2012 33
+Definición del lenguaje
+• Precisión en la definición de la sintaxis y 
+de la semántica
+• ambigüedad     
+• Portabilidad
+• Definiciones formales
+CONCEPTOS DE LENGUAJES 2012 34
+Estructuras de control
+• Programación estructurada
+Estructuras de datos
+• Facilidades para expresar los 
+datos del problema
+CONCEPTOS DE LENGUAJES 2012 35
+CONFIABILIDAD
+– Correcto: cumple con las especificaciones
+– Certificación: 
+– Verificación de programas: probar su 
+corrección
+CONFIABLE
+Chequeo de tipos
+Restricción de alias 
+Robusto
+CONCEPTOS DE LENGUAJES 2012 36
+Chequeo de tipos
+• Chequeos estáticos y dinámicos
+Robusto
+Capacidad de prevenir situaciones
+• Manejo de excepciones
+CONCEPTOS DE LENGUAJES 2012 37
+Restricción de alias
+• Dos nombres que referencian la misma 
+posición de memoria
+p
+q
+CONCEPTOS DE LENGUAJES 2012 38
+MANTENIBILIDAD
+MODIFICABLE
+•Modificabilidad
+•Factoreo
+•Localidad
+CONCEPTOS DE LENGUAJES 2012 39
+Mantenible
+• Modificabiliad: facilidad de introducir 
+cambios
+• Factoreo: una sola vez y luego reusar
+• Localidad: el efecto de una característica 
+se restringirse a una porción local del 
+programa
+CONCEPTOS DE LENGUAJES 2012 40
+EFICIENCIA
+EFICIENCIA
+•Tiempo y Espacio
+•Esfuerzo humano
+•Optimizable

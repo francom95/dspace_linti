@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">De&#x20;León,&#x20;Lautaro</dcvalue>
+  <dcvalue element="date" qualifier="accessioned">2013-06-14T09:46:43Z</dcvalue>
+  <dcvalue element="date" qualifier="available">2013-06-14T09:46:43Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2011-02-10</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;dspace.linti.unlp.edu.ar&#x2F;handle&#x2F;123456789&#x2F;136</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="es_AR">Trabajo&#x20;Final&#x20;de&#x20;la&#x20;materia&#x20;Seminario&#x20;de&#x20;Lenguajes&#x20;-&#x20;Opción&#x20;C&#x20;del&#x20;año&#x20;2010.&#x0D;&#x0A;&#x0D;&#x0A;Se&#x20;trabajó&#x20;sobre&#x20;el&#x20;estándard&#x20;C99&#x20;y&#x20;la&#x20;recodificación&#x20;del&#x20;trabajo&#x20;final&#x20;utilizando&#x20;alguna&#x20;característica&#x20;del&#x20;estándard.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Ana&#x20;Paola&#x20;Amadeo&#x20;(pamadeo@linti.unlp.edu.ar)&#x20;on&#x20;2013-06-14T09:46:43Z&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;3&#x0A;DeLeon_Lautaro_informeC99.zip:&#x20;50766&#x20;bytes,&#x20;checksum:&#x20;395c114ac676004541437d24fcc6eb79&#x20;(MD5)&#x0A;DeLeon_Lautaro_TPFiinalC99.zip:&#x20;52434&#x20;bytes,&#x20;checksum:&#x20;ac24c87e90c564c73c301c71f76d55d6&#x20;(MD5)&#x0A;Enunciado_Trabajo_Final_2010.pdf:&#x20;45642&#x20;bytes,&#x20;checksum:&#x20;476d00a2e416456f77c16be2381fa817&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2013-06-14T09:46:43Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;3&#x0A;DeLeon_Lautaro_informeC99.zip:&#x20;50766&#x20;bytes,&#x20;checksum:&#x20;395c114ac676004541437d24fcc6eb79&#x20;(MD5)&#x0A;DeLeon_Lautaro_TPFiinalC99.zip:&#x20;52434&#x20;bytes,&#x20;checksum:&#x20;ac24c87e90c564c73c301c71f76d55d6&#x20;(MD5)&#x0A;Enunciado_Trabajo_Final_2010.pdf:&#x20;45642&#x20;bytes,&#x20;checksum:&#x20;476d00a2e416456f77c16be2381fa817&#x20;(MD5)&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2011-02-10</dcvalue>
+  <dcvalue element="description" qualifier="sponsorship" language="es_AR">Facultad&#x20;de&#x20;Informática.&#x20;Universidad&#x20;Nacional&#x20;de&#x20;La&#x20;Plata</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="es_AR">es</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="es_AR">Ana&#x20;Paola&#x20;Amadeo</dcvalue>
+  <dcvalue element="subject" qualifier="none" language="es_AR">C99&#x20;2010</dcvalue>
+  <dcvalue element="title" qualifier="none" language="es_AR">Trabajo&#x20;Final&#x20;-&#x20;Seminario&#x20;del&#x20;Lenguajes&#x20;C</dcvalue>
+  <dcvalue element="type" qualifier="none" language="es_AR">Software</dcvalue>
+</dublin_core>

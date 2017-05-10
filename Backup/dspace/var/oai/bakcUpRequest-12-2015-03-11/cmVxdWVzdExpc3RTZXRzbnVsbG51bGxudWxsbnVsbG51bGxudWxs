@@ -1,0 +1,113 @@
+
+    <request verb="ListSets">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <ListSets>
+        <set>
+            <setSpec>com_123456789_78</setSpec>
+            <setName>Material de cátedras</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_82</setSpec>
+            <setName>Trabajos de fin de carrera</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_124</setSpec>
+            <setName>Tecnologías Aplicadas a BI</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_126</setSpec>
+            <setName>Videos institucionales</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_137</setSpec>
+            <setName>Laboratorio de Software</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_142</setSpec>
+            <setName>Seminario de Lenguajes C</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_145</setSpec>
+            <setName>Taller de Tecnologías de Producción de Software - Opción Java</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_161</setSpec>
+            <setName>Diseño Centrado en el Usuario</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_243</setSpec>
+            <setName>Seminario de Lenguajes Python</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_382</setSpec>
+            <setName>Laboratorio de Software - Trabajos de Alumnos - Año 2012</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_389</setSpec>
+            <setName>Juegos Serios</setName>
+        </set>
+        <set>
+            <setSpec>com_123456789_418</setSpec>
+            <setName>Cosechando del demo</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_125</setSpec>
+            <setName>Trabajos de alumnos</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_127</setSpec>
+            <setName>Proyectos de Extensión</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_128</setSpec>
+            <setName>Conferencias</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_138</setSpec>
+            <setName>Colección - LS - Trabajos de Alumnos - Año 2012</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_143</setSpec>
+            <setName>C - Trabajos de Alumnos - 2010</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_146</setSpec>
+            <setName>Taller de Tecnologías - Java - Trabajos de Alumnos</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_155</setSpec>
+            <setName>Otros eventos</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_162</setSpec>
+            <setName>DCU - Trabajos de Alumnos - 2010</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_192</setSpec>
+            <setName>C - Trabajos de Alumnos - 2012</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_244</setSpec>
+            <setName>Python - Trabajos de Alumnos - 2010</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_383</setSpec>
+            <setName>Procesadores e intérpretes de códigos QR y códigos de barras</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_384</setSpec>
+            <setName>Aplicaciones que hacen uso de Twitter</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_385</setSpec>
+            <setName>Aplicaciones que hacen uso de Flickr</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_390</setSpec>
+            <setName>Proyectos</setName>
+        </set>
+        <set>
+            <setSpec>col_123456789_419</setSpec>
+            <setName>Cosecha demo dspace</setName>
+        </set>
+    </ListSets>
+</OAI-PMH>

@@ -1,0 +1,103 @@
+
+    <request verb="ListRecords" metadataPrefix="oai_dc" set="col_123456789_162">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/163</identifier>
+                <datestamp>2013-08-15T15:44:52Z</datestamp>
+                <setSpec>com_123456789_161</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_162</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Sistema para la atención de reclamos</dc:title>
+<dc:creator>Castro, Juan Manuel</dc:creator>
+<dc:description>Entrega de la practica 1. Sistema para la atención de reclamos.</dc:description>
+<dc:date>2013-08-15T14:54:28Z</dc:date>
+<dc:date>2013-08-15T14:54:28Z</dc:date>
+<dc:date>2010-04-12</dc:date>
+<dc:date>2013-08-15</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/163</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/377</identifier>
+                <datestamp>2014-06-03T18:35:24Z</datestamp>
+                <setSpec>com_123456789_161</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_162</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tarea1-archivo-Usuario</dc:title>
+<dc:creator>Admin Usuario</dc:creator>
+<dc:date>2014-06-03T18:35:19Z</dc:date>
+<dc:date>2014-06-03T18:35:19Z</dc:date>
+<dc:date>2014-06-03T18:35:24Z</dc:date>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/377</dc:identifier>
+<dc:language>árabe</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/378</identifier>
+                <datestamp>2014-06-10T22:54:02Z</datestamp>
+                <setSpec>com_123456789_161</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_162</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tarea1-archivo-Amadeo</dc:title>
+<dc:creator>Ana Paola Amadeo</dc:creator>
+<dc:date>2014-06-10T22:53:57Z</dc:date>
+<dc:date>2014-06-10T22:53:57Z</dc:date>
+<dc:date>2014-06-10T22:54:02Z</dc:date>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/378</dc:identifier>
+<dc:language>árabe</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/379</identifier>
+                <datestamp>2014-06-10T22:54:07Z</datestamp>
+                <setSpec>com_123456789_161</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_162</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tarea1-archivo-Schiavoni</dc:title>
+<dc:creator>María Alejandra Schiavoni</dc:creator>
+<dc:date>2014-06-10T22:54:02Z</dc:date>
+<dc:date>2014-06-10T22:54:02Z</dc:date>
+<dc:date>2014-06-10T22:54:07Z</dc:date>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/379</dc:identifier>
+<dc:language>árabe</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/381</identifier>
+                <datestamp>2014-06-10T23:23:43Z</datestamp>
+                <setSpec>com_123456789_161</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_162</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Tarea1-archivo-Schiavoni</dc:title>
+<dc:creator>María Alejandra Schiavoni</dc:creator>
+<dc:date>2014-06-10T23:23:38Z</dc:date>
+<dc:date>2014-06-10T23:23:38Z</dc:date>
+<dc:date>2014-06-10T23:23:43Z</dc:date>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/381</dc:identifier>
+<dc:language>árabe</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+    </ListRecords>
+</OAI-PMH>

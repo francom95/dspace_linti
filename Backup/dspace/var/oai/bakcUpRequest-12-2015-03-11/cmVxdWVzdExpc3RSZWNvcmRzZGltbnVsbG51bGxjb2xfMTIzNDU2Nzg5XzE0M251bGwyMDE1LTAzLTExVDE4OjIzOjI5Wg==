@@ -1,0 +1,1281 @@
+
+    <request verb="ListRecords" metadataPrefix="dim" until="2015-03-11T18:23:29Z" set="col_123456789_143">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/136</identifier>
+                <datestamp>2013-06-17T20:38:24Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">De León, Lautaro</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-06-14T09:46:43Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-06-14T09:46:43Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2011-02-10</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/136</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="abstract" lang="es_AR">Trabajo Final de la materia Seminario de Lenguajes - Opción C del año 2010.&#13;
+&#13;
+Se trabajó sobre el estándard C99 y la recodificación del trabajo final utilizando alguna característica del estándard.</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Ana Paola Amadeo (pamadeo@linti.unlp.edu.ar) on 2013-06-14T09:46:43Z
+No. of bitstreams: 3
+DeLeon_Lautaro_informeC99.zip: 50766 bytes, checksum: 395c114ac676004541437d24fcc6eb79 (MD5)
+DeLeon_Lautaro_TPFiinalC99.zip: 52434 bytes, checksum: ac24c87e90c564c73c301c71f76d55d6 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-06-14T09:46:43Z (GMT). No. of bitstreams: 3
+DeLeon_Lautaro_informeC99.zip: 50766 bytes, checksum: 395c114ac676004541437d24fcc6eb79 (MD5)
+DeLeon_Lautaro_TPFiinalC99.zip: 52434 bytes, checksum: ac24c87e90c564c73c301c71f76d55d6 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)
+  Previous issue date: 2011-02-10</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="sponsorship" lang="es_AR">Facultad de Informática. Universidad Nacional de La Plata</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="publisher" lang="es_AR">Ana Paola Amadeo</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">C99 2010</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario del Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>
+</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/144</identifier>
+                <datestamp>2013-06-27T12:44:37Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Arana, Felipe</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-06-27T12:44:37Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-06-27T12:44:37Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2011-02-15</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/144</dim:field>
+<dim:field mdschema="dc" element="description" lang="es_AR">En este trabajo se fomentó el análisis de los nuevos estándares del lenguaje, y de herramientas a usar a lo largo de la carrera como Debugers</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="abstract" lang="es_AR">Trabajo Final del Seminario de Lenguajes Opción C</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Ana Paola Amadeo (pamadeo@linti.unlp.edu.ar) on 2013-06-27T12:44:37Z
+No. of bitstreams: 2
+TrabajoFinalMateriaC.zip: 355248 bytes, checksum: fdd149da7c0acff448de1c0778b889c1 (MD5)
+EnunciadoTrabajoFinal-Seminario de Lenguajes C.pdf: 299337 bytes, checksum: 047e52a4dbd4354fe8e8f7dd306266e0 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-06-27T12:44:37Z (GMT). No. of bitstreams: 2
+TrabajoFinalMateriaC.zip: 355248 bytes, checksum: fdd149da7c0acff448de1c0778b889c1 (MD5)
+EnunciadoTrabajoFinal-Seminario de Lenguajes C.pdf: 299337 bytes, checksum: 047e52a4dbd4354fe8e8f7dd306266e0 (MD5)
+  Previous issue date: 2011-02-15</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="publisher" lang="es_AR">Facultad de Informática. UNLP</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">C99 2010</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario del Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Reporte Técnico</dim:field>ccbysacwindowslinuxfelipearana10@hotmail.compamadeo@linti.unlp.edu.ar</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/172</identifier>
+                <datestamp>2013-08-21T19:37:31Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Reynoso, Maria Agustina</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Schulz, Jose Gabriel</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T18:20:12Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T18:20:12Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/172</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="abstract" lang="es_AR">Trabajo final del 2010 de la materia Seminario de Lenguajes - Opcion C.</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Jose Gabriel Schulz (jschulz@linti.unlp.edu.ar) on 2013-08-21T18:20:12Z&#13;
+No. of bitstreams: 2&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)&#13;
+JOSE GABRIEL SCHULZ_Sabado-7_4219.zip: 19664 bytes, checksum: efcf2e0768dea9c7be4e879cfd116d9e (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T18:20:12Z (GMT). No. of bitstreams: 2&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)&#13;
+JOSE GABRIEL SCHULZ_Sabado-7_4219.zip: 19664 bytes, checksum: efcf2e0768dea9c7be4e879cfd116d9e (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">indice</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysaclinuxjschulz@linti.unlp.edu.arpamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/173</identifier>
+                <datestamp>2013-08-21T19:35:50Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Mauri Ungaro, Adan</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T18:43:07Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T18:43:07Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/173</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="abstract" lang="es_AR">Trabajo Final - Seminario de Lenguajes C - 2010</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Jose Gabriel Schulz (jschulz@linti.unlp.edu.ar) on 2013-08-21T18:43:06Z&#13;
+No. of bitstreams: 2&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)&#13;
+ADAN MAURI UNGARO_Grupo7Viernes_3712.zip: 7647 bytes, checksum: 36eebfff8673a5ff8e974a8f6ba1280b (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T18:43:07Z (GMT). No. of bitstreams: 2&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)&#13;
+ADAN MAURI UNGARO_Grupo7Viernes_3712.zip: 7647 bytes, checksum: 36eebfff8673a5ff8e974a8f6ba1280b (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Otro</dim:field>ccbysacadan.mauri@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/174</identifier>
+                <datestamp>2013-08-21T19:13:05Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Kanner, Agustín Ignacio</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Paredes, José Francisco</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:13:05Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:13:05Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/174</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-21T19:13:05Z
+No. of bitstreams: 2
+AGUSTÍN IGNACIO KANNER_lunes-9_4073.zip: 8623 bytes, checksum: f2800a07642cd06e772464037efdb7ea (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:13:05Z (GMT). No. of bitstreams: 2
+AGUSTÍN IGNACIO KANNER_lunes-9_4073.zip: 8623 bytes, checksum: f2800a07642cd06e772464037efdb7ea (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacagustinkanner21@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/175</identifier>
+                <datestamp>2013-08-21T19:37:07Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Varela, Alan Martin</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:15:42Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:15:42Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/175</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Jose Gabriel Schulz (jschulz@linti.unlp.edu.ar) on 2013-08-21T19:15:42Z&#13;
+No. of bitstreams: 2&#13;
+ALAN MARTIN VARELA_VARELA_ALAN_VIERNES_T8_4291.zip: 10902 bytes, checksum: f9286d3f042445e7db577bc1e39b241d (MD5)&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:15:42Z (GMT). No. of bitstreams: 2&#13;
+ALAN MARTIN VARELA_VARELA_ALAN_VIERNES_T8_4291.zip: 10902 bytes, checksum: f9286d3f042445e7db577bc1e39b241d (MD5)&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacalanv_26@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/176</identifier>
+                <datestamp>2013-08-21T19:19:08Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Rodríguez, Alan Nicolás</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Ledesma, Marcela</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:19:08Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:19:08Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/176</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-21T19:19:08Z
+No. of bitstreams: 2
+ALAN NICOLAS RODRIGUEZ_grupo3tp3re_3242.zip: 16171 bytes, checksum: e416da88be2c0c34b62ccc02e219953c (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:19:08Z (GMT). No. of bitstreams: 2
+ALAN NICOLAS RODRIGUEZ_grupo3tp3re_3242.zip: 16171 bytes, checksum: e416da88be2c0c34b62ccc02e219953c (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacrodriguezalan04@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/177</identifier>
+                <datestamp>2013-08-21T19:36:14Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Constenla Haile, Ariel Alberto</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Báez, Andrés Emmanuel</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:20:58Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:20:58Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/177</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Jose Gabriel Schulz (jschulz@linti.unlp.edu.ar) on 2013-08-21T19:20:58Z&#13;
+No. of bitstreams: 2&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)&#13;
+ARIEL ALBERTO CONSTENLA HAILE_Lunes-12_4077.tar.gz: 76616 bytes, checksum: 6eab8dfafdaa58e4903c3e673482c880 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:20:58Z (GMT). No. of bitstreams: 2&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)&#13;
+ARIEL ALBERTO CONSTENLA HAILE_Lunes-12_4077.tar.gz: 76616 bytes, checksum: 6eab8dfafdaa58e4903c3e673482c880 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacariel.info.unlp@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/178</identifier>
+                <datestamp>2013-08-21T19:23:43Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Peretti, Federico Marcos</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Tissone, Juan Pablo</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:23:43Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:23:43Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/178</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-21T19:23:43Z
+No. of bitstreams: 2
+FEDERICO MARCOS PERETTI_entregaFinal_4069.tar.gz: 6778 bytes, checksum: 30d0703eda2e949484bdad2d66155446 (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:23:43Z (GMT). No. of bitstreams: 2
+FEDERICO MARCOS PERETTI_entregaFinal_4069.tar.gz: 6778 bytes, checksum: 30d0703eda2e949484bdad2d66155446 (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxfedericoperetti@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/179</identifier>
+                <datestamp>2013-08-21T19:37:45Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Teodosio Borro, Aureliano</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Leruga, Juan Marcos</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:23:52Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:23:52Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/179</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Jose Gabriel Schulz (jschulz@linti.unlp.edu.ar) on 2013-08-21T19:23:52Z&#13;
+No. of bitstreams: 2&#13;
+AURELIANO TEODOSIO BORRO_entrega_Grupo_11_4107.rar: 9873 bytes, checksum: cf2ce72affd9dad92ecc51db2e07f794 (MD5)&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:23:52Z (GMT). No. of bitstreams: 2&#13;
+AURELIANO TEODOSIO BORRO_entrega_Grupo_11_4107.rar: 9873 bytes, checksum: cf2ce72affd9dad92ecc51db2e07f794 (MD5)&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxaure892001@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/181</identifier>
+                <datestamp>2013-08-21T19:28:51Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Rosiello, Juan Ignacio</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:28:51Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:28:51Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/181</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-21T19:28:51Z
+No. of bitstreams: 2
+JUAN IGNACIO ROSIELLO_TrabajoFinal_4075.rar: 36299 bytes, checksum: d0319b99a905c18d1e5468e1a8bbc00e (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:28:51Z (GMT). No. of bitstreams: 2
+JUAN IGNACIO ROSIELLO_TrabajoFinal_4075.rar: 36299 bytes, checksum: d0319b99a905c18d1e5468e1a8bbc00e (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxjuan90lp@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/180</identifier>
+                <datestamp>2013-08-21T19:35:29Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Frajberg, Darián</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Coscarelli, Mauro</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:28:24Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:28:24Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/180</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Jose Gabriel Schulz (jschulz@linti.unlp.edu.ar) on 2013-08-21T19:28:24Z&#13;
+No. of bitstreams: 2&#13;
+DARIáN FRAJBERG_Trabajo_Final_4076.rar: 29872 bytes, checksum: 7a361c00599efb9f98b9273453bfa068 (MD5)&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:28:24Z (GMT). No. of bitstreams: 2&#13;
+DARIáN FRAJBERG_Trabajo_Final_4076.rar: 29872 bytes, checksum: 7a361c00599efb9f98b9273453bfa068 (MD5)&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxdarian_f@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/183</identifier>
+                <datestamp>2013-08-21T19:32:40Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">De León, Lautaro Nahuel</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:32:40Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:32:40Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/183</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-21T19:32:40Z
+No. of bitstreams: 2
+LAUTARO NAHUEL DE LEóN_Grupo-01_3744.zip: 14417 bytes, checksum: 018f3367b4cf762f70f606ddaa0e100a (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:32:40Z (GMT). No. of bitstreams: 2
+LAUTARO NAHUEL DE LEóN_Grupo-01_3744.zip: 14417 bytes, checksum: 018f3367b4cf762f70f606ddaa0e100a (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxlaudleon@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/182</identifier>
+                <datestamp>2013-08-21T19:36:28Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Mazzuquini, Leandro Sebastian</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:32:12Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:32:12Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/182</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Jose Gabriel Schulz (jschulz@linti.unlp.edu.ar) on 2013-08-21T19:32:12Z&#13;
+No. of bitstreams: 2&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)&#13;
+LEANDRO SEBASTIAN MAZZUQUINI_grupo10_martes_4072.zip: 6982 bytes, checksum: 032137c156dbdb258ad079b0352312e4 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:32:12Z (GMT). No. of bitstreams: 2&#13;
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)&#13;
+LEANDRO SEBASTIAN MAZZUQUINI_grupo10_martes_4072.zip: 6982 bytes, checksum: 032137c156dbdb258ad079b0352312e4 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxleanm14@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/184</identifier>
+                <datestamp>2013-08-21T19:34:36Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Torre, Manuel Federico</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:34:36Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:34:36Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/184</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Jose Gabriel Schulz (jschulz@linti.unlp.edu.ar) on 2013-08-21T19:34:36Z
+No. of bitstreams: 2
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)
+MANUEL FEDERICO TORRE_Martes-12-Torre_4200.zip: 24519 bytes, checksum: 32741a2e30e80376980ac4aaa3e81bbd (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:34:36Z (GMT). No. of bitstreams: 2
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)
+MANUEL FEDERICO TORRE_Martes-12-Torre_4200.zip: 24519 bytes, checksum: 32741a2e30e80376980ac4aaa3e81bbd (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxmanutorre.lpda@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/185</identifier>
+                <datestamp>2013-08-21T19:36:05Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Kitagawa, Margarita Inés</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Benetti, María Fernanda</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:36:05Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:36:05Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/185</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-21T19:36:05Z
+No. of bitstreams: 2
+MARGARITA INéS KITAGAWA_Lunes-6_4134.zip: 33844 bytes, checksum: 7864d17c3e7b12fed345e95b68e9f11c (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:36:05Z (GMT). No. of bitstreams: 2
+MARGARITA INéS KITAGAWA_Lunes-6_4134.zip: 33844 bytes, checksum: 7864d17c3e7b12fed345e95b68e9f11c (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxmargakita@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/186</identifier>
+                <datestamp>2013-08-21T19:39:14Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Fernández, María Belén</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Memolli, Matías Alberto</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:39:14Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:39:14Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/186</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-21T19:39:14Z
+No. of bitstreams: 2
+MARIA BELEN FERNANDEZ_Lunes3_4212.zip: 257636 bytes, checksum: 86e80979b240ce1b9259712e6877805b (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:39:14Z (GMT). No. of bitstreams: 2
+MARIA BELEN FERNANDEZ_Lunes3_4212.zip: 257636 bytes, checksum: 86e80979b240ce1b9259712e6877805b (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxmbfbelenfernandez@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/187</identifier>
+                <datestamp>2013-08-21T19:41:01Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Ledesma, Marcela Anahí</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Rodriguez, Alan</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:41:01Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:41:01Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/187</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Jose Gabriel Schulz (jschulz@linti.unlp.edu.ar) on 2013-08-21T19:41:01Z
+No. of bitstreams: 2
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)
+MARCELA ANAHI LEDESMA_Trabajo_Final_3493.rar: 5863 bytes, checksum: f996ea51519bec71e92e060bd10e6d1f (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:41:01Z (GMT). No. of bitstreams: 2
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)
+MARCELA ANAHI LEDESMA_Trabajo_Final_3493.rar: 5863 bytes, checksum: f996ea51519bec71e92e060bd10e6d1f (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxmarce.ledesma08@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/188</identifier>
+                <datestamp>2013-08-21T19:45:24Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Zurbano, Mariela Fernanda</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:45:24Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:45:24Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/188</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-21T19:45:24Z
+No. of bitstreams: 2
+MARIELA FERNANDA ZURBANO_Viernes-14_4096.zip: 11608 bytes, checksum: 6c56ab78f88c36c434ffc246e865fc5c (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:45:24Z (GMT). No. of bitstreams: 2
+MARIELA FERNANDA ZURBANO_Viernes-14_4096.zip: 11608 bytes, checksum: 6c56ab78f88c36c434ffc246e865fc5c (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxchyly_25@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/189</identifier>
+                <datestamp>2013-08-21T19:47:05Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Torres, Rocio Nahimé</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Diaz, Delfina</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:47:05Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:47:05Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/189</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Jose Gabriel Schulz (jschulz@linti.unlp.edu.ar) on 2013-08-21T19:47:05Z
+No. of bitstreams: 2
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)
+ROCIO NAHIME TORRES_entrega_final_grupo_viernes_13_4068.zip: 258272 bytes, checksum: 90eec86eef16a203a531a3107d24d511 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:47:05Z (GMT). No. of bitstreams: 2
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)
+ROCIO NAHIME TORRES_entrega_final_grupo_viernes_13_4068.zip: 258272 bytes, checksum: 90eec86eef16a203a531a3107d24d511 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxnahi_sl@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Amadeo</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/190</identifier>
+                <datestamp>2013-08-21T19:48:33Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Santa Marina, Rosario</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Mora Viera, Belén</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:48:33Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:48:33Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/190</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-21T19:48:33Z
+No. of bitstreams: 2
+ROSARIO SANTA MARINA_tercera_entrega_martes_3_4132.zip: 47384 bytes, checksum: a48d4a2103582c352406b89ba5a0132a (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:48:33Z (GMT). No. of bitstreams: 2
+ROSARIO SANTA MARINA_tercera_entrega_martes_3_4132.zip: 47384 bytes, checksum: a48d4a2103582c352406b89ba5a0132a (MD5)
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxRosariosantamarina@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/191</identifier>
+                <datestamp>2013-08-21T19:49:23Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Gioffré, Valeria Noemi</dim:field>
+<dim:field mdschema="dc" element="contributor" qualifier="author">Carnabali, Cecilia Soledad</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-21T19:49:23Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-21T19:49:23Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2010-08-08</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-21</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/191</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Jose Gabriel Schulz (jschulz@linti.unlp.edu.ar) on 2013-08-21T19:49:23Z
+No. of bitstreams: 2
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)
+VALERIA NOEMí GIOFFRé_Sabado_1_4094.zip: 23142 bytes, checksum: 48b6020214fa4257458b933b4f42e727 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-21T19:49:23Z (GMT). No. of bitstreams: 2
+Enunciado TP Final - Seminario C 2010.pdf: 337987 bytes, checksum: 52afe11324a5a9c694c4aed69a1c85f6 (MD5)
+VALERIA NOEMí GIOFFRé_Sabado_1_4094.zip: 23142 bytes, checksum: 48b6020214fa4257458b933b4f42e727 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo final</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysacwindowslinuxvalegioffre@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/193</identifier>
+                <datestamp>2013-08-22T15:55:25Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Mauri Ungaro, Adan</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:00:58Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:00:58Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/193</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:00:58Z
+No. of bitstreams: 1
+ADAN MAURI UNGARO_Mauri_Adan_InformeC99_3712.zip: 114701 bytes, checksum: 4998aa6e159c9811f2933375884b5fa4 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:00:58Z (GMT). No. of bitstreams: 1
+ADAN MAURI UNGARO_Mauri_Adan_InformeC99_3712.zip: 114701 bytes, checksum: 4998aa6e159c9811f2933375884b5fa4 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Software</dim:field>ccbysaadan.mauri@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/194</identifier>
+                <datestamp>2013-08-22T15:57:24Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Varela, Alan Martín</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:05:57Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:05:57Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/194</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:05:57Z
+No. of bitstreams: 1
+VARELA_ALAN_informeC99.rar: 11229 bytes, checksum: 749411e1edec9afa9f34436ac0ace639 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:05:57Z (GMT). No. of bitstreams: 1
+VARELA_ALAN_informeC99.rar: 11229 bytes, checksum: 749411e1edec9afa9f34436ac0ace639 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysaalanv_26@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/195</identifier>
+                <datestamp>2013-08-22T15:56:23Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Teodosio Borro, Aureliano</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:09:57Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:09:57Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/195</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:09:57Z
+No. of bitstreams: 1
+AURELIANO TEODOSIO BORRO_Teodosio_Aureliano_informeC99_4107.zip: 19471 bytes, checksum: 90991163003680d51dabf1385ce412f8 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:09:57Z (GMT). No. of bitstreams: 1
+AURELIANO TEODOSIO BORRO_Teodosio_Aureliano_informeC99_4107.zip: 19471 bytes, checksum: 90991163003680d51dabf1385ce412f8 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysaaure892001@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/198</identifier>
+                <datestamp>2013-08-22T15:17:34Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Frajberg, Darián</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:17:34Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:17:34Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/198</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:17:34Z
+No. of bitstreams: 2
+InformeC99.docx: 25623 bytes, checksum: 6dc1f52453bc168c79104599bb6f69b5 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:17:34Z (GMT). No. of bitstreams: 2
+InformeC99.docx: 25623 bytes, checksum: 6dc1f52453bc168c79104599bb6f69b5 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysadarian_f@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/199</identifier>
+                <datestamp>2013-08-22T15:20:16Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Peretti, Federico Marcos</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:20:16Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:20:16Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/199</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:20:16Z
+No. of bitstreams: 2
+C99vsC89.pdf: 78209 bytes, checksum: 21a5c0ca6368feeeb798da9fbf9b77a1 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:20:16Z (GMT). No. of bitstreams: 2
+C99vsC89.pdf: 78209 bytes, checksum: 21a5c0ca6368feeeb798da9fbf9b77a1 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysafedericoperetti@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/201</identifier>
+                <datestamp>2013-08-22T15:22:25Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Schulz, José Gabriel</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:22:24Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:22:24Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/201</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:22:24Z
+No. of bitstreams: 2
+JoseGabriel_Schulz_informeC99.doc: 45568 bytes, checksum: ed1c4a10d5c210b2a0c46ebca755eb2f (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:22:24Z (GMT). No. of bitstreams: 2
+JoseGabriel_Schulz_informeC99.doc: 45568 bytes, checksum: ed1c4a10d5c210b2a0c46ebca755eb2f (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysajosegschulz@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/203</identifier>
+                <datestamp>2013-08-22T15:24:22Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Rosiello, Juan Ignacio</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:24:22Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:24:22Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/203</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:24:22Z
+No. of bitstreams: 2
+Informe.docx: 24744 bytes, checksum: b757013d05afa926cbcd889efc73d7d6 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:24:22Z (GMT). No. of bitstreams: 2
+Informe.docx: 24744 bytes, checksum: b757013d05afa926cbcd889efc73d7d6 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysajuan90lp@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/204</identifier>
+                <datestamp>2013-08-22T15:26:24Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Leruga, Juan Marcos</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:26:24Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:26:24Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/204</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:26:24Z
+No. of bitstreams: 2
+Leruga_JuanMarcos_informeC99.odt: 36912 bytes, checksum: 422e1dd12e3bb095f0018ac5325cdd53 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:26:24Z (GMT). No. of bitstreams: 2
+Leruga_JuanMarcos_informeC99.odt: 36912 bytes, checksum: 422e1dd12e3bb095f0018ac5325cdd53 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysajuanm_kobain@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/206</identifier>
+                <datestamp>2013-08-22T15:28:44Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Tissone, Juan Pablo</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:28:44Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:28:44Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/206</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:28:44Z
+No. of bitstreams: 2
+Tissone_JuanPablo_InformeC99.pdf: 103646 bytes, checksum: fad602bb55eae2d5b152fe87362c2fa3 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:28:44Z (GMT). No. of bitstreams: 2
+Tissone_JuanPablo_InformeC99.pdf: 103646 bytes, checksum: fad602bb55eae2d5b152fe87362c2fa3 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysajuantisso@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/208</identifier>
+                <datestamp>2013-08-22T15:33:16Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">De León, Lautaro Nahuel</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:33:16Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:33:16Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/208</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:33:16Z
+No. of bitstreams: 2
+Informe_General_C99.pdf: 54527 bytes, checksum: 5efe4b91757b94d24def216761461a42 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:33:16Z (GMT). No. of bitstreams: 2
+Informe_General_C99.pdf: 54527 bytes, checksum: 5efe4b91757b94d24def216761461a42 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysalaudleon@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/209</identifier>
+                <datestamp>2013-08-22T15:35:20Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Mazzuquini, Leandro Sebastián</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:35:20Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:35:20Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/209</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:35:20Z
+No. of bitstreams: 2
+Trabajo Final Promocion - Informe.docx: 15772 bytes, checksum: 137db3516bb360b9c18263cda6211146 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:35:20Z (GMT). No. of bitstreams: 2
+Trabajo Final Promocion - Informe.docx: 15772 bytes, checksum: 137db3516bb360b9c18263cda6211146 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysaleanm14@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/211</identifier>
+                <datestamp>2013-08-22T15:38:09Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Torre, Manuel Federico</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:38:09Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:38:09Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/211</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:38:09Z
+No. of bitstreams: 2
+informe 1 trabajo final.doc: 33280 bytes, checksum: 6801e4ad23f6f575a1add4ba939216cf (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:38:09Z (GMT). No. of bitstreams: 2
+informe 1 trabajo final.doc: 33280 bytes, checksum: 6801e4ad23f6f575a1add4ba939216cf (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysamanutorre.lpda@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/213</identifier>
+                <datestamp>2013-08-22T15:39:59Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Kitagawa, Margarita Inés</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:39:59Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:39:59Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/213</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:39:59Z
+No. of bitstreams: 2
+Kitagawa_Margarita_informeC99.pdf: 39271 bytes, checksum: ca98f0e5bf279584833440e9edd3fbf6 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:39:59Z (GMT). No. of bitstreams: 2
+Kitagawa_Margarita_informeC99.pdf: 39271 bytes, checksum: ca98f0e5bf279584833440e9edd3fbf6 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysamargakita@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/215</identifier>
+                <datestamp>2013-08-22T15:41:42Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Reynoso, María Agustina</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:41:42Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:41:42Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/215</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:41:42Z
+No. of bitstreams: 2
+Reynoso_MariaAgustina_informeC99.docx: 22682 bytes, checksum: 72ab1754c89f6a0bf12c5565170a8a3f (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:41:42Z (GMT). No. of bitstreams: 2
+Reynoso_MariaAgustina_informeC99.docx: 22682 bytes, checksum: 72ab1754c89f6a0bf12c5565170a8a3f (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysaagustinareynoso@live.com.arpamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/217</identifier>
+                <datestamp>2013-08-22T15:43:37Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Fernández, María Belén</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:43:37Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:43:37Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/217</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:43:37Z
+No. of bitstreams: 2
+Fernandez_MariaBelen_InformeC99.doc: 46592 bytes, checksum: d7d653df11e7150d8d847319cdb3b241 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:43:37Z (GMT). No. of bitstreams: 2
+Fernandez_MariaBelen_InformeC99.doc: 46592 bytes, checksum: d7d653df11e7150d8d847319cdb3b241 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysambfbelenfernandez@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/218</identifier>
+                <datestamp>2013-08-22T15:46:08Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Benetti, María Fernanda</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:46:08Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:46:08Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/218</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:46:08Z
+No. of bitstreams: 2
+Benetti_Fernanda_informeC99.doc: 46080 bytes, checksum: 5d97a6a1969028d68e3dba4496e6b420 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:46:08Z (GMT). No. of bitstreams: 2
+Benetti_Fernanda_informeC99.doc: 46080 bytes, checksum: 5d97a6a1969028d68e3dba4496e6b420 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysafernandabenetti@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/220</identifier>
+                <datestamp>2013-08-22T15:48:12Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Zurbano, Mariela Fernanda</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:48:12Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:48:12Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/220</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:48:12Z
+No. of bitstreams: 2
+Informe C99.docx: 20164 bytes, checksum: d62fa4c3b9171e935e1f766b6e1d80a8 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:48:12Z (GMT). No. of bitstreams: 2
+Informe C99.docx: 20164 bytes, checksum: d62fa4c3b9171e935e1f766b6e1d80a8 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysachyly_25@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/222</identifier>
+                <datestamp>2013-08-22T15:49:51Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Memolli, Matían Alberto</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:49:51Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:49:51Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/222</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:49:51Z
+No. of bitstreams: 2
+informe.doc: 36352 bytes, checksum: c89841ba5a107dfdbde3c3b4b45db8a8 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:49:51Z (GMT). No. of bitstreams: 2
+informe.doc: 36352 bytes, checksum: c89841ba5a107dfdbde3c3b4b45db8a8 (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysamatiasmemolli@gmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/224</identifier>
+                <datestamp>2013-08-22T15:51:20Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Santa Marina, Rosario</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:51:20Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:51:20Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/224</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:51:20Z
+No. of bitstreams: 2
+SantaMarina_Rosario_informeC99.docx: 22154 bytes, checksum: 7b9856ed4d22d27e60e3ccfe96c5662a (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:51:20Z (GMT). No. of bitstreams: 2
+SantaMarina_Rosario_informeC99.docx: 22154 bytes, checksum: 7b9856ed4d22d27e60e3ccfe96c5662a (MD5)
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysaRosariosantamarina@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/225</identifier>
+                <datestamp>2015-03-11T13:15:50Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><dim:dim xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dspace.org/xmlns/dspace/dim http://www.dspace.org/schema/dim.xsd">
+<dim:field mdschema="dc" element="contributor" qualifier="author">Gioffré, Valeria Noemí</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="accessioned">2013-08-22T15:53:36Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="available">2013-08-22T15:53:36Z</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="created">2011-03</dim:field>
+<dim:field mdschema="dc" element="date" qualifier="issued">2013-08-22</dim:field>
+<dim:field mdschema="dc" element="identifier" qualifier="uri">http://dspace-dev.linti.unlp.edu.ar/handle/123456789/225</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Submitted by Alex Ruben Humar (ahumar@linti.unlp.edu.ar) on 2013-08-22T15:53:36Z&#13;
+No. of bitstreams: 2&#13;
+Informe_C99.doc: 30720 bytes, checksum: 56318dba053a34cc10b83958c7805fce (MD5)&#13;
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="description" qualifier="provenance" lang="en">Made available in DSpace on 2013-08-22T15:53:36Z (GMT). No. of bitstreams: 2&#13;
+Informe_C99.doc: 30720 bytes, checksum: 56318dba053a34cc10b83958c7805fce (MD5)&#13;
+Enunciado_Trabajo_Final_2010.pdf: 45642 bytes, checksum: 476d00a2e416456f77c16be2381fa817 (MD5)</dim:field>
+<dim:field mdschema="dc" element="language" qualifier="iso" lang="es_AR">es</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">seminario de lenguajes c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">c</dim:field>
+<dim:field mdschema="dc" element="subject" lang="es_AR">trabajo de promocion</dim:field>
+<dim:field mdschema="dc" element="title" lang="es_AR">Trabajo Final de Promoción - Seminario de Lenguajes C</dim:field>
+<dim:field mdschema="dc" element="type" lang="es_AR">Documento de Trabajo</dim:field>ccbysavalegioffre@hotmail.compamadeo@linti.unlp.edu.arAmadeo, Paola</dim:dim>
+</metadata>
+        </record>
+    </ListRecords>
+</OAI-PMH>

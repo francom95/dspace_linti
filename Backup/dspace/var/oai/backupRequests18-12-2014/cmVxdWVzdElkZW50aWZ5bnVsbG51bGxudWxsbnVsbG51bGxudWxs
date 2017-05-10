@@ -1,0 +1,19 @@
+
+    <request verb="Identify">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <Identify>
+        <repositoryName>Repositorio Institucional de la facultad de Informatica</repositoryName>
+        <baseURL>http://dspace-dev.linti.unlp.edu.ar/oai/request</baseURL>
+        <protocolVersion>2.0</protocolVersion>
+        <adminEmail>duilio.92@gmail.com</adminEmail>
+        <earliestDatestamp>2014-12-12T16:54:32Z</earliestDatestamp>
+        <deletedRecord>persistent</deletedRecord>
+        <granularity>YYYY-MM-DDThh:mm:ssZ</granularity>
+        <description><oai-identifier xmlns="http://www.openarchives.org/OAI/2.0/oai-identifier" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai-identifier http://www.openarchives.org/OAI/2.0/oai-identifier.xsd">
+<scheme>oai</scheme>
+<repositoryIdentifier>dspace-dev.linti.unlp.edu.ar</repositoryIdentifier>
+<delimiter>:</delimiter>
+<sampleIdentifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/1234</sampleIdentifier>
+</oai-identifier>
+</description>
+    </Identify>
+</OAI-PMH>

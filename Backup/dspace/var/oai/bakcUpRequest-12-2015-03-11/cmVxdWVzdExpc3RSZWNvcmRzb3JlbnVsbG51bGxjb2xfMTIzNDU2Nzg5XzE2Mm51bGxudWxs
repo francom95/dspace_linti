@@ -1,0 +1,246 @@
+
+    <request verb="ListRecords" metadataPrefix="ore" set="col_123456789_162">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/163</identifier>
+                <datestamp>2013-08-15T15:44:52Z</datestamp>
+                <setSpec>com_123456789_161</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_162</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/163/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/163"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/163/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/163/ore.xml#atom"/>
+<atom:published>2013-08-15T14:54:28Z</atom:published>
+<atom:updated>2013-08-15T14:54:28Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Sistema para la atención de reclamos</atom:title>
+<atom:author>
+<atom:name>Castro, Juan Manuel</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-15T14:54:28Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/163/1/Enunciado+Practica+1+-+DCU+2010.doc" title="Enunciado Practica 1 - DCU 2010.doc" type="application/msword" length="32256"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/163/2/Pautas+Practica+1+-+DCU+2010.pdf" title="Pautas Practica 1 - DCU 2010.pdf" type="application/pdf" length="36327"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/163/3/Resolucion+Practica+1+-+DCU+2010.zip" title="Resolucion Practica 1 - DCU 2010.zip" type="application/octet-stream" length="31740"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/163/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-15T14:54:28Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/163/1/Enunciado+Practica+1+-+DCU+2010.doc">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/163/2/Pautas+Practica+1+-+DCU+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/163/3/Resolucion+Practica+1+-+DCU+2010.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/163/4/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/377</identifier>
+                <datestamp>2014-06-03T18:35:24Z</datestamp>
+                <setSpec>com_123456789_161</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_162</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/377/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/377"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/377/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/377/ore.xml#atom"/>
+<atom:published>2014-06-03T18:35:19Z</atom:published>
+<atom:updated>2014-06-03T18:35:19Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Tarea1-archivo-Usuario</atom:title>
+<atom:author>
+<atom:name>Admin Usuario</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2014-06-03T18:35:19Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/377/1/P%C3%B3ster+Emilia+de+WICC+2014.odt" title="Póster Emilia de WICC 2014.odt" type="application/vnd.oasis.opendocument.text" length="100522"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/377/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2014-06-03T18:35:19Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/377/1/P%C3%B3ster+Emilia+de+WICC+2014.odt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/377/2/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/377/3/sword_sk3oCF.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>SWORD</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/378</identifier>
+                <datestamp>2014-06-10T22:54:02Z</datestamp>
+                <setSpec>com_123456789_161</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_162</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/378/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/378"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/378/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/378/ore.xml#atom"/>
+<atom:published>2014-06-10T22:53:57Z</atom:published>
+<atom:updated>2014-06-10T22:53:57Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Tarea1-archivo-Amadeo</atom:title>
+<atom:author>
+<atom:name>Ana Paola Amadeo</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2014-06-10T22:53:57Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/378/1/amadeo.pdf" title="amadeo.pdf" type="application/pdf" length="635833"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/378/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2014-06-10T22:53:57Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/378/1/amadeo.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/378/2/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/378/3/sword_nqLeAe.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>SWORD</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/379</identifier>
+                <datestamp>2014-06-10T22:54:07Z</datestamp>
+                <setSpec>com_123456789_161</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_162</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/379/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/379"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/379/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/379/ore.xml#atom"/>
+<atom:published>2014-06-10T22:54:02Z</atom:published>
+<atom:updated>2014-06-10T22:54:02Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Tarea1-archivo-Schiavoni</atom:title>
+<atom:author>
+<atom:name>María Alejandra Schiavoni</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2014-06-10T22:54:02Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/379/1/aschiavoni.png" title="aschiavoni.png" type="image/png" length="394799"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/379/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2014-06-10T22:54:02Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/379/1/aschiavoni.png">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/379/2/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/379/3/sword_tsm4ux.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>SWORD</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/381</identifier>
+                <datestamp>2014-06-10T23:23:43Z</datestamp>
+                <setSpec>com_123456789_161</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_162</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/381/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/381"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/381/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/381/ore.xml#atom"/>
+<atom:published>2014-06-10T23:23:38Z</atom:published>
+<atom:updated>2014-06-10T23:23:38Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Tarea1-archivo-Schiavoni</atom:title>
+<atom:author>
+<atom:name>María Alejandra Schiavoni</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2014-06-10T23:23:38Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/381/1/aschiavoni.png" title="aschiavoni.png" type="image/png" length="394799"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/381/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2014-06-10T23:23:38Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/381/1/aschiavoni.png">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/381/2/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/381/3/sword_Zozor6.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>SWORD</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+    </ListRecords>
+</OAI-PMH>

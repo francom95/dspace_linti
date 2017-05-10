@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dcterms">
+  <dcvalue element="created" qualifier="none" language="es_AR">ccbysa</dcvalue>
+  <dcvalue element="creator" qualifier="none" language="es_AR">java</dcvalue>
+  <dcvalue element="date" qualifier="none" language="es_AR">windows</dcvalue>
+  <dcvalue element="date" qualifier="none" language="es_AR">linux</dcvalue>
+  <dcvalue element="dateAccepted" qualifier="none" language="es_AR">camaju_25@hotmail.com</dcvalue>
+  <dcvalue element="dateCopyrighted" qualifier="none" language="">iharari@info.unlp.edu.ar</dcvalue>
+  <dcvalue element="dateSubmitted" qualifier="none" language="">Ivana&#x20;Harari</dcvalue>
+</dublin_core>

@@ -1,0 +1,2065 @@
+
+    <request verb="ListRecords" metadataPrefix="ore" set="col_123456789_143">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/136</identifier>
+                <datestamp>2013-06-17T20:38:24Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/136/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/136"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/136/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/136/ore.xml#atom"/>
+<atom:published>2013-06-14T09:46:43Z</atom:published>
+<atom:updated>2013-06-14T09:46:43Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario del Lenguajes C</atom:title>
+<atom:author>
+<atom:name>De León, Lautaro</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-06-14T09:46:43Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/136/1/DeLeon_Lautaro_informeC99.zip" title="DeLeon_Lautaro_informeC99.zip" type="application/octet-stream" length="50766"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/136/2/DeLeon_Lautaro_TPFiinalC99.zip" title="DeLeon_Lautaro_TPFiinalC99.zip" type="application/octet-stream" length="52434"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/136/3/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/136/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-06-14T09:46:43Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/136/1/DeLeon_Lautaro_informeC99.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/136/2/DeLeon_Lautaro_TPFiinalC99.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/136/3/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/136/4/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/144</identifier>
+                <datestamp>2013-06-27T12:44:37Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/144/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/144"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/144/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/144/ore.xml#atom"/>
+<atom:published>2013-06-27T12:44:37Z</atom:published>
+<atom:updated>2013-06-27T12:44:37Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario del Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Arana, Felipe</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-06-27T12:44:37Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/144/1/TrabajoFinalMateriaC.zip" title="TrabajoFinalMateriaC.zip" type="application/octet-stream" length="355248"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/144/2/EnunciadoTrabajoFinal-Seminario+de+Lenguajes+C.pdf" title="EnunciadoTrabajoFinal-Seminario de Lenguajes C.pdf" type="application/pdf" length="299337"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/144/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-06-27T12:44:37Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/144/1/TrabajoFinalMateriaC.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/144/2/EnunciadoTrabajoFinal-Seminario+de+Lenguajes+C.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/144/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/172</identifier>
+                <datestamp>2013-08-21T19:37:31Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/172/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/172"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/172/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/172/ore.xml#atom"/>
+<atom:published>2013-08-21T18:20:12Z</atom:published>
+<atom:updated>2013-08-21T18:20:12Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Reynoso, Maria Agustina</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Schulz, Jose Gabriel</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T18:20:12Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/172/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/172/2/JOSE+GABRIEL+SCHULZ_Sabado-7_4219.zip" title="JOSE GABRIEL SCHULZ_Sabado-7_4219.zip" type="application/octet-stream" length="19664"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/172/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T18:20:12Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/172/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/172/2/JOSE+GABRIEL+SCHULZ_Sabado-7_4219.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/172/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/173</identifier>
+                <datestamp>2013-08-21T19:35:50Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/173/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/173"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/173/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/173/ore.xml#atom"/>
+<atom:published>2013-08-21T18:43:07Z</atom:published>
+<atom:updated>2013-08-21T18:43:07Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Mauri Ungaro, Adan</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T18:43:07Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/173/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/173/2/ADAN+MAURI+UNGARO_Grupo7Viernes_3712.zip" title="ADAN MAURI UNGARO_Grupo7Viernes_3712.zip" type="application/octet-stream" length="7647"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/173/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T18:43:07Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/173/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/173/2/ADAN+MAURI+UNGARO_Grupo7Viernes_3712.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/173/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/174</identifier>
+                <datestamp>2013-08-21T19:13:05Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/174/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/174"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/174/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/174/ore.xml#atom"/>
+<atom:published>2013-08-21T19:13:05Z</atom:published>
+<atom:updated>2013-08-21T19:13:05Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Kanner, Agustín Ignacio</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Paredes, José Francisco</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:13:05Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/174/1/AGUST%C3%8DN+IGNACIO+KANNER_lunes-9_4073.zip" title="AGUSTÍN IGNACIO KANNER_lunes-9_4073.zip" type="application/octet-stream" length="8623"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/174/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/174/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:13:05Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/174/1/AGUST%C3%8DN+IGNACIO+KANNER_lunes-9_4073.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/174/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/174/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/175</identifier>
+                <datestamp>2013-08-21T19:37:07Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/175/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/175"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/175/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/175/ore.xml#atom"/>
+<atom:published>2013-08-21T19:15:42Z</atom:published>
+<atom:updated>2013-08-21T19:15:42Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Varela, Alan Martin</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:15:42Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/175/1/ALAN+MARTIN+VARELA_VARELA_ALAN_VIERNES_T8_4291.zip" title="ALAN MARTIN VARELA_VARELA_ALAN_VIERNES_T8_4291.zip" type="application/octet-stream" length="10902"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/175/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/175/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:15:42Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/175/1/ALAN+MARTIN+VARELA_VARELA_ALAN_VIERNES_T8_4291.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/175/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/175/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/176</identifier>
+                <datestamp>2013-08-21T19:19:08Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/176/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/176"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/176/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/176/ore.xml#atom"/>
+<atom:published>2013-08-21T19:19:08Z</atom:published>
+<atom:updated>2013-08-21T19:19:08Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Rodríguez, Alan Nicolás</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Ledesma, Marcela</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:19:08Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/176/1/ALAN+NICOLAS+RODRIGUEZ_grupo3tp3re_3242.zip" title="ALAN NICOLAS RODRIGUEZ_grupo3tp3re_3242.zip" type="application/octet-stream" length="16171"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/176/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/176/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:19:08Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/176/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/176/1/ALAN+NICOLAS+RODRIGUEZ_grupo3tp3re_3242.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/176/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/177</identifier>
+                <datestamp>2013-08-21T19:36:14Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/177/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/177"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/177/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/177/ore.xml#atom"/>
+<atom:published>2013-08-21T19:20:58Z</atom:published>
+<atom:updated>2013-08-21T19:20:58Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Constenla Haile, Ariel Alberto</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Báez, Andrés Emmanuel</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:20:58Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/177/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/177/2/ARIEL+ALBERTO+CONSTENLA+HAILE_Lunes-12_4077.tar.gz" title="ARIEL ALBERTO CONSTENLA HAILE_Lunes-12_4077.tar.gz" type="application/octet-stream" length="76616"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/177/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:20:58Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/177/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/177/2/ARIEL+ALBERTO+CONSTENLA+HAILE_Lunes-12_4077.tar.gz">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/177/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/178</identifier>
+                <datestamp>2013-08-21T19:23:43Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/178/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/178"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/178/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/178/ore.xml#atom"/>
+<atom:published>2013-08-21T19:23:43Z</atom:published>
+<atom:updated>2013-08-21T19:23:43Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Peretti, Federico Marcos</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Tissone, Juan Pablo</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:23:43Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/178/1/FEDERICO+MARCOS+PERETTI_entregaFinal_4069.tar.gz" title="FEDERICO MARCOS PERETTI_entregaFinal_4069.tar.gz" type="application/octet-stream" length="6778"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/178/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/178/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:23:43Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/178/1/FEDERICO+MARCOS+PERETTI_entregaFinal_4069.tar.gz">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/178/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/178/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/179</identifier>
+                <datestamp>2013-08-21T19:37:45Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/179/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/179"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/179/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/179/ore.xml#atom"/>
+<atom:published>2013-08-21T19:23:52Z</atom:published>
+<atom:updated>2013-08-21T19:23:52Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Teodosio Borro, Aureliano</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Leruga, Juan Marcos</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:23:52Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/179/1/AURELIANO+TEODOSIO+BORRO_entrega_Grupo_11_4107.rar" title="AURELIANO TEODOSIO BORRO_entrega_Grupo_11_4107.rar" type="application/octet-stream" length="9873"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/179/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/179/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:23:52Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/179/1/AURELIANO+TEODOSIO+BORRO_entrega_Grupo_11_4107.rar">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/179/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/179/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/181</identifier>
+                <datestamp>2013-08-21T19:28:51Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/181/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/181"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/181/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/181/ore.xml#atom"/>
+<atom:published>2013-08-21T19:28:51Z</atom:published>
+<atom:updated>2013-08-21T19:28:51Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Rosiello, Juan Ignacio</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:28:51Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/181/1/JUAN+IGNACIO+ROSIELLO_TrabajoFinal_4075.rar" title="JUAN IGNACIO ROSIELLO_TrabajoFinal_4075.rar" type="application/octet-stream" length="36299"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/181/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/181/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:28:51Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/181/1/JUAN+IGNACIO+ROSIELLO_TrabajoFinal_4075.rar">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/181/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/181/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/180</identifier>
+                <datestamp>2013-08-21T19:35:29Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/180/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/180"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/180/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/180/ore.xml#atom"/>
+<atom:published>2013-08-21T19:28:24Z</atom:published>
+<atom:updated>2013-08-21T19:28:24Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Frajberg, Darián</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Coscarelli, Mauro</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:28:24Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/180/1/DARI%C3%A1N+FRAJBERG_Trabajo_Final_4076.rar" title="DARIáN FRAJBERG_Trabajo_Final_4076.rar" type="application/octet-stream" length="29872"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/180/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/180/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:28:24Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/180/1/DARI%C3%A1N+FRAJBERG_Trabajo_Final_4076.rar">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/180/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/180/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/183</identifier>
+                <datestamp>2013-08-21T19:32:40Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/183/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/183"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/183/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/183/ore.xml#atom"/>
+<atom:published>2013-08-21T19:32:40Z</atom:published>
+<atom:updated>2013-08-21T19:32:40Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>De León, Lautaro Nahuel</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:32:40Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/183/1/LAUTARO+NAHUEL+DE+LE%C3%B3N_Grupo-01_3744.zip" title="LAUTARO NAHUEL DE LEóN_Grupo-01_3744.zip" type="application/octet-stream" length="14417"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/183/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/183/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:32:40Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/183/1/LAUTARO+NAHUEL+DE+LE%C3%B3N_Grupo-01_3744.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/183/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/183/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/182</identifier>
+                <datestamp>2013-08-21T19:36:28Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/182/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/182"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/182/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/182/ore.xml#atom"/>
+<atom:published>2013-08-21T19:32:12Z</atom:published>
+<atom:updated>2013-08-21T19:32:12Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Mazzuquini, Leandro Sebastian</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:32:12Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/182/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/182/2/LEANDRO+SEBASTIAN+MAZZUQUINI_grupo10_martes_4072.zip" title="LEANDRO SEBASTIAN MAZZUQUINI_grupo10_martes_4072.zip" type="application/octet-stream" length="6982"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/182/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:32:12Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/182/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/182/2/LEANDRO+SEBASTIAN+MAZZUQUINI_grupo10_martes_4072.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/182/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/184</identifier>
+                <datestamp>2013-08-21T19:34:36Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/184/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/184"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/184/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/184/ore.xml#atom"/>
+<atom:published>2013-08-21T19:34:36Z</atom:published>
+<atom:updated>2013-08-21T19:34:36Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Torre, Manuel Federico</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:34:36Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/184/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/184/2/MANUEL+FEDERICO+TORRE_Martes-12-Torre_4200.zip" title="MANUEL FEDERICO TORRE_Martes-12-Torre_4200.zip" type="application/octet-stream" length="24519"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/184/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:34:36Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/184/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/184/2/MANUEL+FEDERICO+TORRE_Martes-12-Torre_4200.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/184/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/185</identifier>
+                <datestamp>2013-08-21T19:36:05Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/185/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/185"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/185/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/185/ore.xml#atom"/>
+<atom:published>2013-08-21T19:36:05Z</atom:published>
+<atom:updated>2013-08-21T19:36:05Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Kitagawa, Margarita Inés</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Benetti, María Fernanda</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:36:05Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/185/1/MARGARITA+IN%C3%A9S+KITAGAWA_Lunes-6_4134.zip" title="MARGARITA INéS KITAGAWA_Lunes-6_4134.zip" type="application/octet-stream" length="33844"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/185/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/185/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:36:05Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/185/1/MARGARITA+IN%C3%A9S+KITAGAWA_Lunes-6_4134.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/185/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/185/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/186</identifier>
+                <datestamp>2013-08-21T19:39:14Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/186/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/186"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/186/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/186/ore.xml#atom"/>
+<atom:published>2013-08-21T19:39:14Z</atom:published>
+<atom:updated>2013-08-21T19:39:14Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Fernández, María Belén</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Memolli, Matías Alberto</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:39:14Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/186/1/MARIA+BELEN+FERNANDEZ_Lunes3_4212.zip" title="MARIA BELEN FERNANDEZ_Lunes3_4212.zip" type="application/octet-stream" length="257636"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/186/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/186/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:39:14Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/186/1/MARIA+BELEN+FERNANDEZ_Lunes3_4212.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/186/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/186/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/187</identifier>
+                <datestamp>2013-08-21T19:41:01Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/187/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/187"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/187/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/187/ore.xml#atom"/>
+<atom:published>2013-08-21T19:41:01Z</atom:published>
+<atom:updated>2013-08-21T19:41:01Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Ledesma, Marcela Anahí</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Rodriguez, Alan</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:41:01Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/187/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/187/2/MARCELA+ANAHI+LEDESMA_Trabajo_Final_3493.rar" title="MARCELA ANAHI LEDESMA_Trabajo_Final_3493.rar" type="application/octet-stream" length="5863"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/187/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:41:01Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/187/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/187/2/MARCELA+ANAHI+LEDESMA_Trabajo_Final_3493.rar">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/187/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/188</identifier>
+                <datestamp>2013-08-21T19:45:24Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/188/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/188"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/188/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/188/ore.xml#atom"/>
+<atom:published>2013-08-21T19:45:24Z</atom:published>
+<atom:updated>2013-08-21T19:45:24Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Zurbano, Mariela Fernanda</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:45:24Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/188/1/MARIELA+FERNANDA+ZURBANO_Viernes-14_4096.zip" title="MARIELA FERNANDA ZURBANO_Viernes-14_4096.zip" type="application/octet-stream" length="11608"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/188/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/188/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:45:24Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/188/1/MARIELA+FERNANDA+ZURBANO_Viernes-14_4096.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/188/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/188/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/189</identifier>
+                <datestamp>2013-08-21T19:47:05Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/189/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/189"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/189/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/189/ore.xml#atom"/>
+<atom:published>2013-08-21T19:47:05Z</atom:published>
+<atom:updated>2013-08-21T19:47:05Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Torres, Rocio Nahimé</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Diaz, Delfina</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:47:05Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/189/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/189/2/ROCIO+NAHIME+TORRES_entrega_final_grupo_viernes_13_4068.zip" title="ROCIO NAHIME TORRES_entrega_final_grupo_viernes_13_4068.zip" type="application/octet-stream" length="258272"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/189/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:47:05Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/189/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/189/2/ROCIO+NAHIME+TORRES_entrega_final_grupo_viernes_13_4068.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/189/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/190</identifier>
+                <datestamp>2013-08-21T19:48:33Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/190/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/190"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/190/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/190/ore.xml#atom"/>
+<atom:published>2013-08-21T19:48:33Z</atom:published>
+<atom:updated>2013-08-21T19:48:33Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Santa Marina, Rosario</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Mora Viera, Belén</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:48:33Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/190/1/ROSARIO+SANTA+MARINA_tercera_entrega_martes_3_4132.zip" title="ROSARIO SANTA MARINA_tercera_entrega_martes_3_4132.zip" type="application/octet-stream" length="47384"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/190/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/190/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:48:33Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/190/1/ROSARIO+SANTA+MARINA_tercera_entrega_martes_3_4132.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/190/2/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/190/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/191</identifier>
+                <datestamp>2013-08-21T19:49:23Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/191/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/191"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/191/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/191/ore.xml#atom"/>
+<atom:published>2013-08-21T19:49:23Z</atom:published>
+<atom:updated>2013-08-21T19:49:23Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Gioffré, Valeria Noemi</atom:name>
+</atom:author>
+<atom:author>
+<atom:name>Carnabali, Cecilia Soledad</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-21T19:49:23Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/191/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf" title="Enunciado TP Final - Seminario C 2010.pdf" type="application/pdf" length="337987"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/191/2/VALERIA+NOEM%C3%AD+GIOFFR%C3%A9_Sabado_1_4094.zip" title="VALERIA NOEMí GIOFFRé_Sabado_1_4094.zip" type="application/octet-stream" length="23142"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/191/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-21T19:49:23Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/191/1/Enunciado+TP+Final+-+Seminario+C+2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/191/2/VALERIA+NOEM%C3%AD+GIOFFR%C3%A9_Sabado_1_4094.zip">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/191/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/193</identifier>
+                <datestamp>2013-08-22T15:55:25Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/193/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/193"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/193/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/193/ore.xml#atom"/>
+<atom:published>2013-08-22T15:00:58Z</atom:published>
+<atom:updated>2013-08-22T15:00:58Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Mauri Ungaro, Adan</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:00:58Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/193/3/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/193/4/trabajo.pdf" title="trabajo.pdf" type="application/pdf" length="120394"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/193/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:00:58Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/193/3/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/193/4/trabajo.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/193/2/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/194</identifier>
+                <datestamp>2013-08-22T15:57:24Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/194/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/194"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/194/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/194/ore.xml#atom"/>
+<atom:published>2013-08-22T15:05:57Z</atom:published>
+<atom:updated>2013-08-22T15:05:57Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Varela, Alan Martín</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:05:57Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/194/3/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/194/4/VARELA_ALAN_informeC99.rtf" title="VARELA_ALAN_informeC99.rtf" type="text/richtext" length="62342"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/194/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:05:57Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/194/3/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/194/4/VARELA_ALAN_informeC99.rtf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/194/2/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/195</identifier>
+                <datestamp>2013-08-22T15:56:23Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/195/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/195"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/195/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/195/ore.xml#atom"/>
+<atom:published>2013-08-22T15:09:57Z</atom:published>
+<atom:updated>2013-08-22T15:09:57Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Teodosio Borro, Aureliano</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:09:57Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/195/3/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/195/4/Teodosio_Aureliano_informeC99.docx" title="Teodosio_Aureliano_informeC99.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" length="22516"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/195/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:09:57Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/195/3/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/195/4/Teodosio_Aureliano_informeC99.docx">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/195/2/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/198</identifier>
+                <datestamp>2013-08-22T15:17:34Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/198/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/198"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/198/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/198/ore.xml#atom"/>
+<atom:published>2013-08-22T15:17:34Z</atom:published>
+<atom:updated>2013-08-22T15:17:34Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Frajberg, Darián</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:17:34Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/198/1/InformeC99.docx" title="InformeC99.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" length="25623"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/198/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/198/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:17:34Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/198/1/InformeC99.docx">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/198/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/198/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/199</identifier>
+                <datestamp>2013-08-22T15:20:16Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/199/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/199"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/199/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/199/ore.xml#atom"/>
+<atom:published>2013-08-22T15:20:16Z</atom:published>
+<atom:updated>2013-08-22T15:20:16Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Peretti, Federico Marcos</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:20:16Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/199/1/C99vsC89.pdf" title="C99vsC89.pdf" type="application/pdf" length="78209"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/199/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/199/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:20:16Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/199/1/C99vsC89.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/199/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/199/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/201</identifier>
+                <datestamp>2013-08-22T15:22:25Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/201/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/201"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/201/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/201/ore.xml#atom"/>
+<atom:published>2013-08-22T15:22:24Z</atom:published>
+<atom:updated>2013-08-22T15:22:24Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Schulz, José Gabriel</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:22:24Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/201/1/JoseGabriel_Schulz_informeC99.doc" title="JoseGabriel_Schulz_informeC99.doc" type="application/msword" length="45568"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/201/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/201/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:22:24Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/201/1/JoseGabriel_Schulz_informeC99.doc">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/201/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/201/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/203</identifier>
+                <datestamp>2013-08-22T15:24:22Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/203/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/203"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/203/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/203/ore.xml#atom"/>
+<atom:published>2013-08-22T15:24:22Z</atom:published>
+<atom:updated>2013-08-22T15:24:22Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Rosiello, Juan Ignacio</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:24:22Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/203/1/Informe.docx" title="Informe.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" length="24744"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/203/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/203/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:24:22Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/203/1/Informe.docx">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/203/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/203/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/204</identifier>
+                <datestamp>2013-08-22T15:26:24Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/204/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/204"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/204/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/204/ore.xml#atom"/>
+<atom:published>2013-08-22T15:26:24Z</atom:published>
+<atom:updated>2013-08-22T15:26:24Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Leruga, Juan Marcos</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:26:24Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/204/1/Leruga_JuanMarcos_informeC99.odt" title="Leruga_JuanMarcos_informeC99.odt" type="application/vnd.oasis.opendocument.text" length="36912"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/204/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/204/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:26:24Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/204/1/Leruga_JuanMarcos_informeC99.odt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/204/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/204/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/206</identifier>
+                <datestamp>2013-08-22T15:28:44Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/206/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/206"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/206/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/206/ore.xml#atom"/>
+<atom:published>2013-08-22T15:28:44Z</atom:published>
+<atom:updated>2013-08-22T15:28:44Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Tissone, Juan Pablo</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:28:44Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/206/1/Tissone_JuanPablo_InformeC99.pdf" title="Tissone_JuanPablo_InformeC99.pdf" type="application/pdf" length="103646"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/206/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/206/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:28:44Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/206/1/Tissone_JuanPablo_InformeC99.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/206/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/206/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/208</identifier>
+                <datestamp>2013-08-22T15:33:16Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/208/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/208"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/208/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/208/ore.xml#atom"/>
+<atom:published>2013-08-22T15:33:16Z</atom:published>
+<atom:updated>2013-08-22T15:33:16Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>De León, Lautaro Nahuel</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:33:16Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/208/1/Informe_General_C99.pdf" title="Informe_General_C99.pdf" type="application/pdf" length="54527"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/208/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/208/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:33:16Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/208/1/Informe_General_C99.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/208/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/208/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/209</identifier>
+                <datestamp>2013-08-22T15:35:20Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/209/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/209"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/209/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/209/ore.xml#atom"/>
+<atom:published>2013-08-22T15:35:20Z</atom:published>
+<atom:updated>2013-08-22T15:35:20Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Mazzuquini, Leandro Sebastián</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:35:20Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/209/1/Trabajo+Final+Promocion+-+Informe.docx" title="Trabajo Final Promocion - Informe.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" length="15772"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/209/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/209/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:35:20Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/209/1/Trabajo+Final+Promocion+-+Informe.docx">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/209/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/209/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/211</identifier>
+                <datestamp>2013-08-22T15:38:09Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/211/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/211"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/211/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/211/ore.xml#atom"/>
+<atom:published>2013-08-22T15:38:09Z</atom:published>
+<atom:updated>2013-08-22T15:38:09Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Torre, Manuel Federico</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:38:09Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/211/1/informe+1+trabajo+final.doc" title="informe 1 trabajo final.doc" type="application/msword" length="33280"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/211/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/211/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:38:09Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/211/1/informe+1+trabajo+final.doc">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/211/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/211/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/213</identifier>
+                <datestamp>2013-08-22T15:39:59Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/213/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/213"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/213/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/213/ore.xml#atom"/>
+<atom:published>2013-08-22T15:39:59Z</atom:published>
+<atom:updated>2013-08-22T15:39:59Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Kitagawa, Margarita Inés</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:39:59Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/213/1/Kitagawa_Margarita_informeC99.pdf" title="Kitagawa_Margarita_informeC99.pdf" type="application/pdf" length="39271"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/213/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/213/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:39:59Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/213/1/Kitagawa_Margarita_informeC99.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/213/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/213/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/215</identifier>
+                <datestamp>2013-08-22T15:41:42Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/215/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/215"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/215/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/215/ore.xml#atom"/>
+<atom:published>2013-08-22T15:41:42Z</atom:published>
+<atom:updated>2013-08-22T15:41:42Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Reynoso, María Agustina</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:41:42Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/215/1/Reynoso_MariaAgustina_informeC99.docx" title="Reynoso_MariaAgustina_informeC99.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" length="22682"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/215/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/215/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:41:42Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/215/1/Reynoso_MariaAgustina_informeC99.docx">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/215/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/215/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/217</identifier>
+                <datestamp>2013-08-22T15:43:37Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/217/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/217"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/217/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/217/ore.xml#atom"/>
+<atom:published>2013-08-22T15:43:37Z</atom:published>
+<atom:updated>2013-08-22T15:43:37Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Fernández, María Belén</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:43:37Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/217/1/Fernandez_MariaBelen_InformeC99.doc" title="Fernandez_MariaBelen_InformeC99.doc" type="application/msword" length="46592"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/217/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/217/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:43:37Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/217/1/Fernandez_MariaBelen_InformeC99.doc">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/217/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/217/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/218</identifier>
+                <datestamp>2013-08-22T15:46:08Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/218/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/218"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/218/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/218/ore.xml#atom"/>
+<atom:published>2013-08-22T15:46:08Z</atom:published>
+<atom:updated>2013-08-22T15:46:08Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Benetti, María Fernanda</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:46:08Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/218/1/Benetti_Fernanda_informeC99.doc" title="Benetti_Fernanda_informeC99.doc" type="application/msword" length="46080"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/218/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/218/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:46:08Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/218/1/Benetti_Fernanda_informeC99.doc">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/218/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/218/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/220</identifier>
+                <datestamp>2013-08-22T15:48:12Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/220/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/220"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/220/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/220/ore.xml#atom"/>
+<atom:published>2013-08-22T15:48:12Z</atom:published>
+<atom:updated>2013-08-22T15:48:12Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Zurbano, Mariela Fernanda</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:48:12Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/220/1/Informe+C99.docx" title="Informe C99.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" length="20164"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/220/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/220/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:48:12Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/220/1/Informe+C99.docx">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/220/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/220/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/222</identifier>
+                <datestamp>2013-08-22T15:49:51Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/222/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/222"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/222/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/222/ore.xml#atom"/>
+<atom:published>2013-08-22T15:49:51Z</atom:published>
+<atom:updated>2013-08-22T15:49:51Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Memolli, Matían Alberto</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:49:51Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/222/1/informe.doc" title="informe.doc" type="application/msword" length="36352"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/222/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/222/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:49:51Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/222/1/informe.doc">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/222/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/222/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/224</identifier>
+                <datestamp>2013-08-22T15:51:20Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/224/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/224"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/224/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/224/ore.xml#atom"/>
+<atom:published>2013-08-22T15:51:20Z</atom:published>
+<atom:updated>2013-08-22T15:51:20Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Santa Marina, Rosario</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:51:20Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/224/1/SantaMarina_Rosario_informeC99.docx" title="SantaMarina_Rosario_informeC99.docx" type="application/vnd.openxmlformats-officedocument.wordprocessingml.document" length="22154"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/224/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/224/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:51:20Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/224/1/SantaMarina_Rosario_informeC99.docx">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/224/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/224/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/225</identifier>
+                <datestamp>2015-03-11T13:15:50Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><atom:entry xmlns:atom="http://www.w3.org/2005/Atom" xmlns:doc="http://www.lyncode.com/xoai" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oreatom="http://www.openarchives.org/ore/atom/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/Atom http://www.kbcafe.com/rss/atom.xsd.xml">
+<atom:id>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/225/ore.xml</atom:id>
+<atom:link rel="alternate" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/225"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/describes" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/225/ore.xml"/>
+<atom:link type="application/atom+xml" rel="self" href="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/225/ore.xml#atom"/>
+<atom:published>2013-08-22T15:53:36Z</atom:published>
+<atom:updated>2013-08-22T15:53:36Z</atom:updated>
+<atom:source>
+<atom:generator>Repositorio Institucional de la facultad de Informatica</atom:generator>
+</atom:source>
+<atom:title>Trabajo Final de Promoción - Seminario de Lenguajes C</atom:title>
+<atom:author>
+<atom:name>Gioffré, Valeria Noemí</atom:name>
+</atom:author>
+<atom:category label="Aggregation" term="http://www.openarchives.org/ore/terms/Aggregation" scheme="http://www.openarchives.org/ore/terms/"/>
+<atom:category scheme="http://www.openarchives.org/ore/atom/modified" term="2013-08-22T15:53:36Z"/>
+<atom:category label="DSpace Item" term="DSpaceItem" scheme="http://www.dspace.org/objectModel/"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/225/1/Informe_C99.doc" title="Informe_C99.doc" type="application/msword" length="30720"/>
+<atom:link rel="http://www.openarchives.org/ore/terms/aggregates" href="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/225/2/Enunciado_Trabajo_Final_2010.pdf" title="Enunciado_Trabajo_Final_2010.pdf" type="application/pdf" length="45642"/>
+<oreatom:triples>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/handle/123456789/225/ore.xml#atom">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceItem"/>
+<dcterms:modified>2013-08-22T15:53:36Z</dcterms:modified>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/225/1/Informe_C99.doc">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/225/2/Enunciado_Trabajo_Final_2010.pdf">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>ORIGINAL</dcterms:description>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dspace-dev.linti.unlp.edu.ar/xmlui/bitstream/123456789/225/3/license.txt">
+<rdf:type rdf:resource="http://www.dspace.org/objectModel/DSpaceBitstream"/>
+<dcterms:description>LICENSE</dcterms:description>
+</rdf:Description>
+</oreatom:triples>
+</atom:entry>
+</metadata>
+        </record>
+    </ListRecords>
+</OAI-PMH>

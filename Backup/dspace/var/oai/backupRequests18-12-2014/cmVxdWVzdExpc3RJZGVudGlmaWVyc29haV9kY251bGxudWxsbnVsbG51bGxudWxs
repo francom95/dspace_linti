@@ -1,0 +1,17 @@
+
+    <request verb="ListIdentifiers" metadataPrefix="oai_dc">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <ListIdentifiers>
+        <header>
+            <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/3</identifier>
+            <datestamp>2014-12-12T13:54:32Z</datestamp>
+            <setSpec>com_123456789_1</setSpec>
+            <setSpec>col_123456789_2</setSpec>
+        </header>
+        <header>
+            <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/5</identifier>
+            <datestamp>2014-12-12T14:04:13Z</datestamp>
+            <setSpec>com_123456789_1</setSpec>
+            <setSpec>col_123456789_4</setSpec>
+        </header>
+    </ListIdentifiers>
+</OAI-PMH>

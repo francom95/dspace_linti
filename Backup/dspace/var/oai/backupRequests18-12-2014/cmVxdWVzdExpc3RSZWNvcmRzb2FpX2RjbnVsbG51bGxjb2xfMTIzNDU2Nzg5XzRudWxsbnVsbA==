@@ -1,0 +1,25 @@
+
+    <request verb="ListRecords" metadataPrefix="oai_dc" set="col_123456789_4">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/5</identifier>
+                <datestamp>2014-12-12T14:04:13Z</datestamp>
+                <setSpec>com_123456789_1</setSpec>
+                <setSpec>col_123456789_4</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>2da Prueba</dc:title>
+<dc:creator>Ray, Duilio</dc:creator>
+<dc:date>2014-12-12T14:04:13Z</dc:date>
+<dc:date>2014-12-12T14:04:13Z</dc:date>
+<dc:date>1992-03-22</dc:date>
+<dc:type>Article</dc:type>
+<dc:identifier>http://hdl.handle.net/123456789/5</dc:identifier>
+<dc:language>es</dc:language>
+<dc:publisher>Ray Duilio</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+    </ListRecords>
+</OAI-PMH>

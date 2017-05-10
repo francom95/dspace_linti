@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author" language="">Castro,&#x20;Juan&#x20;Manuel</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2013-08-15T14:54:28Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2013-08-15T14:54:28Z</dcvalue>
+  <dcvalue element="date" qualifier="created" language="">2010-04-12</dcvalue>
+  <dcvalue element="date" qualifier="issued" language="">2013-08-15</dcvalue>
+  <dcvalue element="identifier" qualifier="uri" language="">http:&#x2F;&#x2F;dspace.linti.unlp.edu.ar&#x2F;handle&#x2F;123456789&#x2F;163</dcvalue>
+  <dcvalue element="description" qualifier="abstract" language="es_AR">Entrega&#x20;de&#x20;la&#x20;practica&#x20;1.&#x20;Sistema&#x20;para&#x20;la&#x20;atención&#x20;de&#x20;reclamos.</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Jose&#x20;Gabriel&#x20;Schulz&#x20;(jschulz@linti.unlp.edu.ar)&#x20;on&#x20;2013-08-15T14:54:28Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;3&#x0D;&#x0A;Enunciado&#x20;Practica&#x20;1&#x20;-&#x20;DCU&#x20;2010.doc:&#x20;32256&#x20;bytes,&#x20;checksum:&#x20;392a5357f94120e108bf6dc475214644&#x20;(MD5)&#x0D;&#x0A;Pautas&#x20;Practica&#x20;1&#x20;-&#x20;DCU&#x20;2010.pdf:&#x20;36327&#x20;bytes,&#x20;checksum:&#x20;bbde3b6cb5f5d4617b27b18e43458796&#x20;(MD5)&#x0D;&#x0A;Resolucion&#x20;Practica&#x20;1&#x20;-&#x20;DCU&#x20;2010.zip:&#x20;31740&#x20;bytes,&#x20;checksum:&#x20;16f4f2bd92a12ad8f8ce1d9dded9ea6d&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2013-08-15T14:54:28Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;3&#x0D;&#x0A;Enunciado&#x20;Practica&#x20;1&#x20;-&#x20;DCU&#x20;2010.doc:&#x20;32256&#x20;bytes,&#x20;checksum:&#x20;392a5357f94120e108bf6dc475214644&#x20;(MD5)&#x0D;&#x0A;Pautas&#x20;Practica&#x20;1&#x20;-&#x20;DCU&#x20;2010.pdf:&#x20;36327&#x20;bytes,&#x20;checksum:&#x20;bbde3b6cb5f5d4617b27b18e43458796&#x20;(MD5)&#x0D;&#x0A;Resolucion&#x20;Practica&#x20;1&#x20;-&#x20;DCU&#x20;2010.zip:&#x20;31740&#x20;bytes,&#x20;checksum:&#x20;16f4f2bd92a12ad8f8ce1d9dded9ea6d&#x20;(MD5)</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="es_AR">es</dcvalue>
+  <dcvalue element="title" qualifier="none" language="es_AR">Sistema&#x20;para&#x20;la&#x20;atención&#x20;de&#x20;reclamos</dcvalue>
+  <dcvalue element="type" qualifier="none" language="es_AR">Software</dcvalue>
+</dublin_core>

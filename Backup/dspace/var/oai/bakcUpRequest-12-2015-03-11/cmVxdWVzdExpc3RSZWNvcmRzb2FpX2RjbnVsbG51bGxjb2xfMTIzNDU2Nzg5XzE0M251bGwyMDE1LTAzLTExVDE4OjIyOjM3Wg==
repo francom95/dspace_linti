@@ -1,0 +1,1030 @@
+
+    <request verb="ListRecords" metadataPrefix="oai_dc" until="2015-03-11T18:22:37Z" set="col_123456789_143">http://dspace-dev.linti.unlp.edu.ar/oai/request</request>
+    <ListRecords>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/136</identifier>
+                <datestamp>2013-06-17T20:38:24Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario del Lenguajes C</dc:title>
+<dc:creator>De León, Lautaro</dc:creator>
+<dc:subject>C99 2010</dc:subject>
+<dc:description>Trabajo Final de la materia Seminario de Lenguajes - Opción C del año 2010.&#13;
+&#13;
+Se trabajó sobre el estándard C99 y la recodificación del trabajo final utilizando alguna característica del estándard.</dc:description>
+<dc:description>Facultad de Informática. Universidad Nacional de La Plata</dc:description>
+<dc:date>2013-06-14T09:46:43Z</dc:date>
+<dc:date>2013-06-14T09:46:43Z</dc:date>
+<dc:date>2011-02-10</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/136</dc:identifier>
+<dc:language>es</dc:language>
+<dc:publisher>Ana Paola Amadeo</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/144</identifier>
+                <datestamp>2013-06-27T12:44:37Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario del Lenguajes C</dc:title>
+<dc:creator>Arana, Felipe</dc:creator>
+<dc:subject>C99 2010</dc:subject>
+<dc:description>En este trabajo se fomentó el análisis de los nuevos estándares del lenguaje, y de herramientas a usar a lo largo de la carrera como Debugers</dc:description>
+<dc:description>Trabajo Final del Seminario de Lenguajes Opción C</dc:description>
+<dc:date>2013-06-27T12:44:37Z</dc:date>
+<dc:date>2013-06-27T12:44:37Z</dc:date>
+<dc:date>2011-02-15</dc:date>
+<dc:type>Reporte Técnico</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/144</dc:identifier>
+<dc:language>es</dc:language>
+<dc:publisher>Facultad de Informática. UNLP</dc:publisher>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/172</identifier>
+                <datestamp>2013-08-21T19:37:31Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Reynoso, Maria Agustina</dc:creator>
+<dc:creator>Schulz, Jose Gabriel</dc:creator>
+<dc:subject>indice</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:description>Trabajo final del 2010 de la materia Seminario de Lenguajes - Opcion C.</dc:description>
+<dc:date>2013-08-21T18:20:12Z</dc:date>
+<dc:date>2013-08-21T18:20:12Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/172</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/173</identifier>
+                <datestamp>2013-08-21T19:35:50Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Mauri Ungaro, Adan</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:description>Trabajo Final - Seminario de Lenguajes C - 2010</dc:description>
+<dc:date>2013-08-21T18:43:07Z</dc:date>
+<dc:date>2013-08-21T18:43:07Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Otro</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/173</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/174</identifier>
+                <datestamp>2013-08-21T19:13:05Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Kanner, Agustín Ignacio</dc:creator>
+<dc:creator>Paredes, José Francisco</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:date>2013-08-21T19:13:05Z</dc:date>
+<dc:date>2013-08-21T19:13:05Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/174</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/175</identifier>
+                <datestamp>2013-08-21T19:37:07Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Varela, Alan Martin</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:15:42Z</dc:date>
+<dc:date>2013-08-21T19:15:42Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/175</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/176</identifier>
+                <datestamp>2013-08-21T19:19:08Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Rodríguez, Alan Nicolás</dc:creator>
+<dc:creator>Ledesma, Marcela</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:date>2013-08-21T19:19:08Z</dc:date>
+<dc:date>2013-08-21T19:19:08Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/176</dc:identifier>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/177</identifier>
+                <datestamp>2013-08-21T19:36:14Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Constenla Haile, Ariel Alberto</dc:creator>
+<dc:creator>Báez, Andrés Emmanuel</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:20:58Z</dc:date>
+<dc:date>2013-08-21T19:20:58Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/177</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/178</identifier>
+                <datestamp>2013-08-21T19:23:43Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Peretti, Federico Marcos</dc:creator>
+<dc:creator>Tissone, Juan Pablo</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:23:43Z</dc:date>
+<dc:date>2013-08-21T19:23:43Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/178</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/179</identifier>
+                <datestamp>2013-08-21T19:37:45Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Teodosio Borro, Aureliano</dc:creator>
+<dc:creator>Leruga, Juan Marcos</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:23:52Z</dc:date>
+<dc:date>2013-08-21T19:23:52Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/179</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/181</identifier>
+                <datestamp>2013-08-21T19:28:51Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Rosiello, Juan Ignacio</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:28:51Z</dc:date>
+<dc:date>2013-08-21T19:28:51Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/181</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/180</identifier>
+                <datestamp>2013-08-21T19:35:29Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Frajberg, Darián</dc:creator>
+<dc:creator>Coscarelli, Mauro</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:28:24Z</dc:date>
+<dc:date>2013-08-21T19:28:24Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/180</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/183</identifier>
+                <datestamp>2013-08-21T19:32:40Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>De León, Lautaro Nahuel</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:32:40Z</dc:date>
+<dc:date>2013-08-21T19:32:40Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/183</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/182</identifier>
+                <datestamp>2013-08-21T19:36:28Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Mazzuquini, Leandro Sebastian</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:32:12Z</dc:date>
+<dc:date>2013-08-21T19:32:12Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/182</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/184</identifier>
+                <datestamp>2013-08-21T19:34:36Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Torre, Manuel Federico</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:34:36Z</dc:date>
+<dc:date>2013-08-21T19:34:36Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/184</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/185</identifier>
+                <datestamp>2013-08-21T19:36:05Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Kitagawa, Margarita Inés</dc:creator>
+<dc:creator>Benetti, María Fernanda</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:36:05Z</dc:date>
+<dc:date>2013-08-21T19:36:05Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/185</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/186</identifier>
+                <datestamp>2013-08-21T19:39:14Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Fernández, María Belén</dc:creator>
+<dc:creator>Memolli, Matías Alberto</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:39:14Z</dc:date>
+<dc:date>2013-08-21T19:39:14Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/186</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/187</identifier>
+                <datestamp>2013-08-21T19:41:01Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Ledesma, Marcela Anahí</dc:creator>
+<dc:creator>Rodriguez, Alan</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:41:01Z</dc:date>
+<dc:date>2013-08-21T19:41:01Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/187</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/188</identifier>
+                <datestamp>2013-08-21T19:45:24Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Zurbano, Mariela Fernanda</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:45:24Z</dc:date>
+<dc:date>2013-08-21T19:45:24Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/188</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/189</identifier>
+                <datestamp>2013-08-21T19:47:05Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Torres, Rocio Nahimé</dc:creator>
+<dc:creator>Diaz, Delfina</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:47:05Z</dc:date>
+<dc:date>2013-08-21T19:47:05Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/189</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/190</identifier>
+                <datestamp>2013-08-21T19:48:33Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Santa Marina, Rosario</dc:creator>
+<dc:creator>Mora Viera, Belén</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:48:33Z</dc:date>
+<dc:date>2013-08-21T19:48:33Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/190</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/191</identifier>
+                <datestamp>2013-08-21T19:49:23Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final - Seminario de Lenguajes C</dc:title>
+<dc:creator>Gioffré, Valeria Noemi</dc:creator>
+<dc:creator>Carnabali, Cecilia Soledad</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo final</dc:subject>
+<dc:date>2013-08-21T19:49:23Z</dc:date>
+<dc:date>2013-08-21T19:49:23Z</dc:date>
+<dc:date>2010-08-08</dc:date>
+<dc:date>2013-08-21</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/191</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/193</identifier>
+                <datestamp>2013-08-22T15:55:25Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Mauri Ungaro, Adan</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:00:58Z</dc:date>
+<dc:date>2013-08-22T15:00:58Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Software</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/193</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/194</identifier>
+                <datestamp>2013-08-22T15:57:24Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Varela, Alan Martín</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:date>2013-08-22T15:05:57Z</dc:date>
+<dc:date>2013-08-22T15:05:57Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/194</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/195</identifier>
+                <datestamp>2013-08-22T15:56:23Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Teodosio Borro, Aureliano</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:09:57Z</dc:date>
+<dc:date>2013-08-22T15:09:57Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/195</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/198</identifier>
+                <datestamp>2013-08-22T15:17:34Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Frajberg, Darián</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:17:34Z</dc:date>
+<dc:date>2013-08-22T15:17:34Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/198</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/199</identifier>
+                <datestamp>2013-08-22T15:20:16Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Peretti, Federico Marcos</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:20:16Z</dc:date>
+<dc:date>2013-08-22T15:20:16Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/199</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/201</identifier>
+                <datestamp>2013-08-22T15:22:25Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Schulz, José Gabriel</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:22:24Z</dc:date>
+<dc:date>2013-08-22T15:22:24Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/201</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/203</identifier>
+                <datestamp>2013-08-22T15:24:22Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Rosiello, Juan Ignacio</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:24:22Z</dc:date>
+<dc:date>2013-08-22T15:24:22Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/203</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/204</identifier>
+                <datestamp>2013-08-22T15:26:24Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Leruga, Juan Marcos</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:26:24Z</dc:date>
+<dc:date>2013-08-22T15:26:24Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/204</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/206</identifier>
+                <datestamp>2013-08-22T15:28:44Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Tissone, Juan Pablo</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:28:44Z</dc:date>
+<dc:date>2013-08-22T15:28:44Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/206</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/208</identifier>
+                <datestamp>2013-08-22T15:33:16Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>De León, Lautaro Nahuel</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:33:16Z</dc:date>
+<dc:date>2013-08-22T15:33:16Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/208</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/209</identifier>
+                <datestamp>2013-08-22T15:35:20Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Mazzuquini, Leandro Sebastián</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:35:20Z</dc:date>
+<dc:date>2013-08-22T15:35:20Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/209</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/211</identifier>
+                <datestamp>2013-08-22T15:38:09Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Torre, Manuel Federico</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:38:09Z</dc:date>
+<dc:date>2013-08-22T15:38:09Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/211</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/213</identifier>
+                <datestamp>2013-08-22T15:39:59Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Kitagawa, Margarita Inés</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:39:59Z</dc:date>
+<dc:date>2013-08-22T15:39:59Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/213</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/215</identifier>
+                <datestamp>2013-08-22T15:41:42Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Reynoso, María Agustina</dc:creator>
+<dc:subject>c</dc:subject>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:41:42Z</dc:date>
+<dc:date>2013-08-22T15:41:42Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/215</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/217</identifier>
+                <datestamp>2013-08-22T15:43:37Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Fernández, María Belén</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:43:37Z</dc:date>
+<dc:date>2013-08-22T15:43:37Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/217</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/218</identifier>
+                <datestamp>2013-08-22T15:46:08Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Benetti, María Fernanda</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:46:08Z</dc:date>
+<dc:date>2013-08-22T15:46:08Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/218</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/220</identifier>
+                <datestamp>2013-08-22T15:48:12Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Zurbano, Mariela Fernanda</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:48:12Z</dc:date>
+<dc:date>2013-08-22T15:48:12Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/220</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/222</identifier>
+                <datestamp>2013-08-22T15:49:51Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Memolli, Matían Alberto</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:49:51Z</dc:date>
+<dc:date>2013-08-22T15:49:51Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/222</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/224</identifier>
+                <datestamp>2013-08-22T15:51:20Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Santa Marina, Rosario</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:51:20Z</dc:date>
+<dc:date>2013-08-22T15:51:20Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/224</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:dspace-dev.linti.unlp.edu.ar:123456789/225</identifier>
+                <datestamp>2015-03-11T13:15:50Z</datestamp>
+                <setSpec>com_123456789_142</setSpec>
+                <setSpec>com_123456789_78</setSpec>
+                <setSpec>col_123456789_143</setSpec>
+            </header>
+            <metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:doc="http://www.lyncode.com/xoai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:title>Trabajo Final de Promoción - Seminario de Lenguajes C</dc:title>
+<dc:creator>Gioffré, Valeria Noemí</dc:creator>
+<dc:subject>seminario de lenguajes c</dc:subject>
+<dc:subject>c</dc:subject>
+<dc:subject>trabajo de promocion</dc:subject>
+<dc:date>2013-08-22T15:53:36Z</dc:date>
+<dc:date>2013-08-22T15:53:36Z</dc:date>
+<dc:date>2011-03</dc:date>
+<dc:date>2013-08-22</dc:date>
+<dc:type>Documento de Trabajo</dc:type>
+<dc:identifier>http://dspace-dev.linti.unlp.edu.ar/handle/123456789/225</dc:identifier>
+<dc:language>es</dc:language>
+</oai_dc:dc>
+</metadata>
+        </record>
+    </ListRecords>
+</OAI-PMH>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document xmlns="http://di.tamu.edu/DRI/1.0/" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.1">
+<body>
+<div id="file.news.div.news" n="news" rend="primary">
+<head>Repositorio de la facultad de informática</head>
+<p>En este repositorio se recogen, preservan y distribuye material digital.
+Para construir este repositorio se utilizo el software de código abierto DSpace.
+Los repositorios son herramientas importantes para preservar el legado de una organización; facilitan la preservación digital y la comunicación dentro de comunidades académicas.</p>
+</div>
+</body>
+<options/>
+<meta>
+<userMeta/>
+<pageMeta/>
+<repositoryMeta/>
+</meta>
+</document>

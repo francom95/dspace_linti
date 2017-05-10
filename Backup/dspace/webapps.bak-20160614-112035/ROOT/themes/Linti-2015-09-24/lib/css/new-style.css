@@ -1,0 +1,5858 @@
+/**
+ * The contents of this file are subject to the license and copyright
+ * detailed in the LICENSE and NOTICE files at the root of the source
+ * tree and available online at
+ *
+ * http://www.dspace.org/license/
+ */
+ 
+ /*HTML BG*/
+ 
+/*
+Estilos revisados el 8 de septiembre de 2015, remplazo px en font-size por em
+*/
+* {
+margin: 0;
+padding: 0;
+}
+
+a{
+    color: #A8101C;
+    
+    text-decoration: none;
+}
+
+a:hover{
+ color:#000   
+}
+
+
+	
+html, body	{
+height: 100%;
+}
+ 
+ 
+html {
+
+} 
+
+body {
+font-family: Ubuntu, Trebuchet MS, Arial, Helvetica, sans-serif;
+font-size: 0.8em;
+text-align: left;
+/*background: rgb(255, 255, 255) url('../images/bg.png');*/
+-webkit-font-smoothing:antialiased
+}
+
+fieldset {
+        border: 0px;
+}
+
+ul {
+    list-style: none !important;
+    
+}
+
+div#ds-main {
+        width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+        padding: 0;
+        height: 100%;
+}
+
+div#ds-header {
+        width: 760px;
+        float: left;
+        margin: 20px 0px 10px 0px;
+        padding: 0px 20px 0px 20px;
+}
+
+div#banner_cointainer{
+       width: 780px;
+       float: left;
+    
+       padding: 0px 10px 0px 10px;
+}
+
+input:disabled, isindex:disabled, textarea:disabled {
+color: rgb(84, 84, 84);
+opacity: 0.5 !important;
+cursor: default !important;
+}
+
+
+._register, #_register,
+._register:hover, #_register:hover,
+.register, #register,
+.register:hover, #register:hover { 
+}
+
+
+._register, #_register,
+.register, #register,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls #aspect_artifactbrowser_ConfigurableBrowse_field_update,
+#_ldap-login,
+#aspect_eperson_EditProfile_div_information ul#aspect_eperson_EditProfile_list_form li input#aspect_eperson_EditProfile_field_submit,
+#link-enviar-item,
+#aspect_submission_StepTransformer_field_submit_next,
+#aspect_submission_StepTransformer_list_submit-describe .ds-delete-button,
+#aspect_submission_StepTransformer_field_submit_prev,
+#aspect_submission_StepTransformer_field_submit_remove_selected,
+#aspect_submission_StepTransformer_field_submit_edit_cancel,
+#aspect_submission_Submissions_field_submit_submissions_remove,
+#aspect_administrative_eperson_ManageEPeopleMain_field_submit_delete,
+#aspect_administrative_group_ManageGroupsMain_field_submit_delete,
+#aspect_administrative_community_CreateCommunityForm_field_submit_cancel,
+#aspect_submission_submit_SaveOrRemoveStep_field_submit_remove,
+#aspect_administrative_eperson_EditEPersonForm_field_submit_delete,
+#aspect_administrative_eperson_EditEPersonForm_field_submit_cancel,
+#aspect_administrative_eperson_AddEPersonForm_field_submit_cancel,
+#aspect_administrative_group_EditGroupForm_field_submit_cancel,
+#aspect_administrative_group_EditGroupForm_field_submit_clear,
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_submit_remove_all,
+#aspect_administrative_authorization_EditContainerPolicies_field_submit_delete,
+#aspect_administrative_registries_EditBitstreamFormat_field_submit_cancel,
+#aspect_administrative_registries_DeleteBitstreamFormatsConfirm_field_submit_cancel,
+#aspect_administrative_WithdrawnItems_field_update,
+#aspect_administrative_registries_DeleteMetadataSchemaConfirm_field_submit_confirm,
+#aspect_administrative_registries_EditMetadataSchema_field_submit_delete,
+#aspect_submission_submit_CompletedStep_div_submit-complete .ds-paragraph a,
+#aspect_administrative_registries_FormatRegistryMain_field_submit_delete,
+#aspect_administrative_registries_MetadataRegistryMain_field_submit_delete,
+#aspect_administrative_collection_CreateCollectionForm_field_submit_cancel,
+#aspect_administrative_community_EditCommunityMetadataForm_field_submit_delete,
+#aspect_eperson_EditProfile_list_subscriptions .ds-previous-values .ds-button-field.ds-delete-button,
+#aspect_administrative_authorization_EditPolicyForm_field_submit_cancel,
+#aspect_administrative_registries_MoveMetadataFields_field_submit_cancel,
+#aspect_administrative_PrivateItems_field_update,
+#aspect_administrative_ControlPanel_field_submit_deactivate {
+   text-transform: uppercase;
+   border: 1px solid #25729a;-moz-box-shadow: #B4B5B5 1px 1px 5px ; 
+   box-shadow: #B4B5B5 1px 1px 5px ; -webkit-border-radius: 3px; -moz-border-radius: 3px;border-radius: 3px;font-size:0.7em;font-family:arial, helvetica, sans-serif; 
+   padding: 8px 15px 8px 15px; text-shadow: -1px -1px 0 rgba(0,0,0,0.3);
+   font-weight: 100; text-align: center;
+   background-color: #3093C7;
+   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3093C7), color-stop(100%, #1c5a85));
+   background-image: -webkit-linear-gradient(top, #3093C7, #1c5a85);
+   background-image: -moz-linear-gradient(top, #3093C7, #1c5a85);
+   background-image: -ms-linear-gradient(top, #3093C7, #1c5a85);    
+   background-image: -o-linear-gradient(top, #3093C7, #1c5a85);
+   background-image: linear-gradient(top, #3093C7, #1c5a85);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#6AB177, endColorstr=#408B4E);
+   cursor: pointer;
+   color:#fff; 
+   float: left;  
+   margin: 0px 10px 0px 10px;
+}
+
+._register:hover, #_register:hover,
+.register:hover, #register:hover,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls #aspect_artifactbrowser_ConfigurableBrowse_field_update:hover,
+#_ldap-login:hover,
+#aspect_eperson_EditProfile_div_information ul#aspect_eperson_EditProfile_list_form li input#aspect_eperson_EditProfile_field_submit:hover,
+#aspect_viewArtifacts_Navigation_list_account #register:hover,
+#link-enviar-item:hover,
+#aspect_submission_StepTransformer_field_submit_next:hover,
+#aspect_submission_StepTransformer_list_submit-describe .ds-delete-button:hover,
+#aspect_submission_StepTransformer_field_submit_prev:hover,
+#aspect_submission_StepTransformer_field_submit_remove_selected:hover,
+#aspect_submission_StepTransformer_field_submit_edit_cancel:hover,
+#aspect_submission_Submissions_field_submit_submissions_remove:hover,
+#aspect_administrative_eperson_ManageEPeopleMain_field_submit_delete:hover,
+#aspect_administrative_group_ManageGroupsMain_field_submit_delete:hover,
+#aspect_administrative_community_CreateCommunityForm_field_submit_cancel:hover,
+#aspect_submission_submit_SaveOrRemoveStep_field_submit_remove:hover,
+#aspect_administrative_eperson_EditEPersonForm_field_submit_delete:hover,
+#aspect_administrative_eperson_EditEPersonForm_field_submit_cancel:hover,
+#aspect_administrative_eperson_AddEPersonForm_field_submit_cancel:hover,
+#aspect_administrative_group_EditGroupForm_field_submit_cancel:hover,
+#aspect_administrative_group_EditGroupForm_field_submit_clear:hover,
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_submit_remove_all:hover,
+#aspect_administrative_authorization_EditContainerPolicies_field_submit_delete:hover,
+#aspect_administrative_registries_EditBitstreamFormat_field_submit_cancel:hover,
+#aspect_administrative_registries_DeleteBitstreamFormatsConfirm_field_submit_cancel:hover,
+#aspect_administrative_WithdrawnItems_field_update:hover,
+#aspect_administrative_registries_DeleteMetadataSchemaConfirm_field_submit_confirm:hover,
+#aspect_administrative_registries_EditMetadataSchema_field_submit_delete:hover,
+#aspect_submission_submit_CompletedStep_div_submit-complete .ds-paragraph a:hover,
+#aspect_administrative_registries_FormatRegistryMain_field_submit_delete:hover,
+#aspect_administrative_registries_MetadataRegistryMain_field_submit_delete:hover,
+#aspect_administrative_collection_CreateCollectionForm_field_submit_cancel:hover,
+#aspect_administrative_community_EditCommunityMetadataForm_field_submit_delete:hover,
+#aspect_eperson_EditProfile_list_subscriptions .ds-previous-values .ds-button-field.ds-delete-button:hover,
+#aspect_administrative_authorization_EditPolicyForm_field_submit_cancel:hover,
+#aspect_administrative_registries_MoveMetadataFields_field_submit_cancel:hover,
+#aspect_administrative_PrivateItems_field_update:hover,
+#aspect_administrative_ControlPanel_field_submit_deactivate:hover  {
+
+     background-color: #26759E!important;
+     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #26759E), color-stop(100%, #133d5b))!important;
+     background-image: -webkit-linear-gradient(top, #26759E, #133d5b)!important;
+     background-image: -moz-linear-gradient(top, #26759E, #133d5b)!important;
+     background-image: -ms-linear-gradient(top, #26759E, #133d5b)!important;
+     background-image: -o-linear-gradient(top, #26759E, #133d5b)!important;
+     background-image: linear-gradient(top, #26759E, #133d5b);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#6AB177, endColorstr=#408B4E) !important;
+     cursor: pointer;
+     color:#fff; 
+}
+
+
+.ds-button-field,
+div#ds-user-box a,
+#aspect_artifactbrowser_FrontPageSearch_field_submit,
+._login, #_login,
+.login, #login,
+#aspect_artifactbrowser_AdvancedSearch_field_submit,
+#aspect_artifactbrowser_SimpleSearch_field_submit,
+#aspect_eperson_LoginChooser_list_login-options a,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-navigation .ds-paragraph #aspect_artifactbrowser_ConfigurableBrowse_field_submit,
+#_password-login,
+#aspect_eperson_LDAPLogin_div_login ul#aspect_eperson_LDAPLogin_list_ldap-login li input#aspect_eperson_LDAPLogin_field_submit,
+#aspect_eperson_PasswordLogin_field_submit,
+#aspect_eperson_StartRegistration_field_submit,
+#aspect_artifactbrowser_FeedbackForm_field_submit,
+#aspect_eperson_EditProfile_list_subscriptions li input,
+#aspect_viewArtifacts_Navigation_list_account #_submissions,
+#aspect_viewArtifacts_Navigation_list_context .icono1 a,
+#aspect_artifactbrowser_FrontPageSearch_div_front-page-search a,
+#aspect_submission_StepTransformer_field_submit_cancel,
+#aspect_submission_StepTransformer_list_submit-describe .ds-add-button,
+#aspect_submission_StepTransformer_field_submit_upload,
+#aspect_submission_StepTransformer_table_submit-upload-summary .ds-button-field,
+#aspect_submission_StepTransformer_field_submit_save,
+#aspect_submission_StepTransformer_field_submit_jump_1_1,
+#aspect_submission_StepTransformer_field_submit_jump_2_1,
+#aspect_submission_StepTransformer_field_submit_jump_2_2,
+#aspect_submission_StepTransformer_field_submit_jump_3_1,
+#aspect_submission_submit_CompletedStep_field_submit_again,
+#aspect_administrative_eperson_ManageEPeopleMain_field_submit_search,
+#aspect_administrative_group_ManageGroupsMain_field_submit_search,
+#aspect_administrative_community_CreateCommunityForm_field_submit_save,
+#aspect_administrative_authorization_AuthorizationMain_field_submit_edit,
+#aspect_administrative_registries_MetadataRegistryMain_field_submit_add,
+#aspect_administrative_item_FindItemForm_field_submit_find,
+#aspect_submission_submit_SaveOrRemoveStep_field_submit_back,
+#aspect_submission_submit_SaveOrRemoveStep_field_submit_save,
+#aspect_submission_submit_SelectCollectionStep_field_submit,
+#aspect_administrative_eperson_EditEPersonForm_field_submit_reset_password,
+#aspect_administrative_eperson_EditEPersonForm_field_submit_login_as,
+#aspect_administrative_eperson_EditEPersonForm_field_submit_save,
+#aspect_administrative_eperson_AddEPersonForm_field_submit_save,
+#aspect_administrative_group_EditGroupForm_field_submit_search_epeople,
+#aspect_administrative_group_EditGroupForm_field_submit_search_groups,
+#aspect_administrative_group_EditGroupForm_field_submit_save,
+#aspect_administrative_group_EditGroupForm_table_group-edit-search-eperson .ds-button-field,
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_submit_add,
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_submit_return,
+#aspect_administrative_authorization_EditContainerPolicies_field_submit_return,
+#aspect_administrative_authorization_EditContainerPolicies_table_container-policy-list span.fade a,
+#aspect_administrative_authorization_EditContainerPolicies_div_edit-container-policies .ds-paragraph a,
+.ds-add-button,
+#aspect_administrative_registries_EditBitstreamFormat_field_submit_save,
+#aspect_administrative_registries_DeleteBitstreamFormatsConfirm_field_submit_confirm,
+#aspect_administrative_WithdrawnItems_field_submit,
+#aspect_administrative_group_EditGroupForm_table_roup-edit-search-group .ds-button-field,
+#aspect_administrative_registries_DeleteMetadataSchemaConfirm_field_submit_cancel,
+#aspect_administrative_registries_EditMetadataSchema_field_submit_add,
+#aspect_administrative_registries_EditMetadataSchema_field_submit_move,
+#aspect_administrative_registries_EditMetadataSchema_field_submit_return,
+#aspect_viewArtifacts_Navigation_list_account .icono1 a,
+#aspect_viewArtifacts_Navigation_list_account .icono2 a,
+#aspect_viewArtifacts_Navigation_list_account .icono3 a,
+#aspect_viewArtifacts_Navigation_list_account .icono4 a,
+#aspect_administrative_collection_CreateCollectionForm_field_submit_save,
+#aspect_administrative_community_EditCommunityMetadataForm_field_submit_save,
+#aspect_administrative_community_EditCommunityMetadataForm_field_submit_return,
+#aspect_artifactbrowser_ItemViewer_div_item-view .item-view-toggle a,
+#aspect_administrative_registries_FormatRegistryMain_div_bitstream-format-registry .ds-paragraph a {
+     text-transform: uppercase;
+     border: 1px solid #4e955b;-moz-box-shadow: #B4B5B5 1px 1px 5px ; 
+     box-shadow: #B4B5B5 1px 1px 5px ; -webkit-border-radius: 3px; -moz-border-radius: 3px;border-radius: 3px;
+     font-size: 0.7em;font-family:arial, helvetica, sans-serif; 
+     padding: 8px 15px 8px 15px; 
+     text-shadow: -1px -1px 0 rgba(0,0,0,0.3);
+     font-weight: 100; text-align: center; 
+     color: #FFFFFF; 
+     background-color: #6AB177;
+     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #6AB177), color-stop(100%, #408B4E));
+     background-image: -webkit-linear-gradient(top, #6AB177, #408B4E);
+     background-image: -moz-linear-gradient(top, #6AB177, #408B4E);
+     background-image: -ms-linear-gradient(top, #6AB177, #408B4E);
+     background-image: -o-linear-gradient(top, #6AB177, #408B4E);
+     background-image: linear-gradient(top, #6AB177, #408B4E);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#6AB177, endColorstr=#408B4E);
+     cursor:pointer;
+}
+
+.ds-button-field:hover,
+div#ds-user-box a:hover,
+#aspect_artifactbrowser_FrontPageSearch_field_submit:hover,
+._login:hover, #_login:hover,
+.login:hover, #login:hover,
+#aspect_artifactbrowser_AdvancedSearch_field_submit:hover,
+#aspect_artifactbrowser_SimpleSearch_field_submit:hover,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-navigation .ds-paragraph #aspect_artifactbrowser_ConfigurableBrowse_field_submit:hover,
+#_password-login:hover,
+#aspect_eperson_LDAPLogin_div_login ul#aspect_eperson_LDAPLogin_list_ldap-login li input#aspect_eperson_LDAPLogin_field_submit:hover,
+#aspect_eperson_PasswordLogin_field_submit:hover,
+#aspect_eperson_StartRegistration_field_submit:hover,
+#aspect_artifactbrowser_FeedbackForm_field_submit:hover,
+#aspect_eperson_EditProfile_list_subscriptions li input:hover,
+#aspect_viewArtifacts_Navigation_list_account #login:hover,
+#aspect_viewArtifacts_Navigation_list_account #_submissions:hover,
+#aspect_viewArtifacts_Navigation_list_context .icono1 a:hover,
+#aspect_artifactbrowser_FrontPageSearch_div_front-page-search a:hover,
+#aspect_submission_StepTransformer_field_submit_cancel:hover,
+#aspect_submission_StepTransformer_list_submit-describe .ds-add-button:hover,
+#aspect_submission_StepTransformer_field_submit_upload:hover,
+#aspect_submission_StepTransformer_table_submit-upload-summary .ds-button-field:hover,
+#aspect_submission_StepTransformer_field_submit_save:hover,
+#aspect_submission_StepTransformer_field_submit_jump_1_1:hover,
+#aspect_submission_StepTransformer_field_submit_jump_2_1:hover,
+#aspect_submission_StepTransformer_field_submit_jump_2_2:hover,
+#aspect_submission_StepTransformer_field_submit_jump_3_1:hover,
+#aspect_submission_submit_CompletedStep_field_submit_again:hover,
+#aspect_administrative_eperson_ManageEPeopleMain_field_submit_search:hover,
+#aspect_administrative_group_ManageGroupsMain_field_submit_search:hover,
+#aspect_administrative_community_CreateCommunityForm_field_submit_save:hover,
+#aspect_administrative_authorization_AuthorizationMain_field_submit_edit:hover,
+#aspect_administrative_registries_MetadataRegistryMain_field_submit_add:hover,
+#aspect_administrative_item_FindItemForm_field_submit_find:hover,
+#aspect_submission_submit_SaveOrRemoveStep_field_submit_back:hover,
+#aspect_submission_submit_SaveOrRemoveStep_field_submit_save:hover,
+#aspect_submission_submit_SelectCollectionStep_field_submit:hover,
+#aspect_administrative_eperson_EditEPersonForm_field_submit_reset_password:hover,
+#aspect_administrative_eperson_EditEPersonForm_field_submit_login_as:hover,
+#aspect_administrative_eperson_EditEPersonForm_field_submit_save:hover,
+#aspect_administrative_eperson_AddEPersonForm_field_submit_save:hover,
+#aspect_administrative_group_EditGroupForm_field_submit_search_epeople:hover,
+#aspect_administrative_group_EditGroupForm_field_submit_search_groups:hover,
+#aspect_administrative_group_EditGroupForm_field_submit_save:hover,
+#aspect_administrative_group_EditGroupForm_table_group-edit-search-eperson .ds-button-field:hover,
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_submit_add:hover,
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_submit_return:hover,
+#aspect_administrative_authorization_EditContainerPolicies_field_submit_return:hover,
+#aspect_administrative_authorization_EditContainerPolicies_table_container-policy-list span.fade a:hover,
+#aspect_administrative_authorization_EditContainerPolicies_div_edit-container-policies .ds-paragraph a:hover,
+.ds-add-button:hover,
+#aspect_administrative_registries_EditBitstreamFormat_field_submit_save:hover,
+#aspect_administrative_registries_DeleteBitstreamFormatsConfirm_field_submit_confirm:hover,
+#aspect_administrative_WithdrawnItems_field_submit:hover,
+#aspect_administrative_group_EditGroupForm_table_roup-edit-search-group .ds-button-field:hover,
+#aspect_administrative_registries_DeleteMetadataSchemaConfirm_field_submit_cancel:hover,
+#aspect_administrative_registries_EditMetadataSchema_field_submit_add:hover,
+#aspect_administrative_registries_EditMetadataSchema_field_submit_move:hover,
+#aspect_administrative_registries_EditMetadataSchema_field_submit_return:hover,
+#aspect_viewArtifacts_Navigation_list_account .icono1 a:hover,
+#aspect_viewArtifacts_Navigation_list_account .icono2 a:hover,
+#aspect_viewArtifacts_Navigation_list_account .icono3 a:hover,
+#aspect_viewArtifacts_Navigation_list_account .icono4 a:hover,
+#aspect_administrative_collection_CreateCollectionForm_field_submit_save:hover,
+#aspect_administrative_community_EditCommunityMetadataForm_field_submit_save:hover,
+#aspect_administrative_community_EditCommunityMetadataForm_field_submit_return:hover,
+#aspect_artifactbrowser_ItemViewer_div_item-view .item-view-toggle a:hover,
+#aspect_administrative_registries_FormatRegistryMain_div_bitstream-format-registry .ds-paragraph a:hover {
+     border:1px solid #3e7749; background-color: #6AB177 !important;
+     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6AB177), color-stop(100%, #30693B)) !important;
+     background-image: -webkit-linear-gradient(top, #6AB177, #30693B) !important;
+     background-image: -moz-linear-gradient(top, #6AB177, #30693B) !important;
+     background-image: -ms-linear-gradient(top, #6AB177, #30693B) !important;
+     background-image: -o-linear-gradient(top, #6AB177, #30693B) !important;
+     background-image: linear-gradient(top, #6AB177, #30693B);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#6AB177, endColorstr=#30693B) !important;
+}
+
+ li.ds-artifact-item a:hover {
+
+}
+
+div#ds-header  a span#ds-header-logo {
+        width: 350px;
+        height: 66px;
+        float: left;
+        background-image: url("../images/logo.png");
+        background-repeat: no-repeat;
+}
+
+div#ds-header h1,div#ds-header h2 {
+        display: none;
+}
+
+ul#ds-trail {
+color:#A8101C;
+font-size: 1em;
+font-weight: 400;
+text-transform: uppercase;
+padding: 5px 10px 5px 10px;
+margin: 25px 0px 30px 0px;
+float: left;
+display: block;
+width: 100%;
+}
+
+li.ds-trail-link {
+        overflow: hidden;
+        display: inline;
+        background-image: url("../images/trail.png");
+        background-repeat: no-repeat;
+        background-position: 0% 60%;
+        padding-left: 16px;
+        max-width: 400px;
+        color: #A8101C;
+        margin-right: 5px;
+}
+
+
+li.ds-trail-link a {
+        color: #A8101C;
+        text-decoration:none;
+}
+
+li.ds-trail-link a:hover {
+        color: #000;
+        text-decoration:none;
+}
+
+li.first-link{
+        list-style: none;
+        background-image: none;
+        padding-left: 0;
+        color: #A8101C;
+}
+
+
+li.last-link {
+        list-style: none;
+        color: #418c4f !important;
+}
+
+div#ds-user-box {
+    text-align: right;
+    margin-top: 20px;
+    float: right;
+}
+
+div#ds-user-box p {
+        
+}
+
+div#ds-user-box a {
+       
+    text-transform: uppercase;
+}
+
+div#ds-user-box a:hover {   
+}
+
+div#banner {
+       background-image: url("../images/slider.png");
+       height: 291px;
+       margin: 5px 0px 0px 0px;    
+}
+
+div#ds-body {
+        position: relative;
+        float: right;
+        width: 570px;
+        clear: left;
+        padding-bottom: 30px;
+        margin-right: 10px;
+}
+
+#ds-div-com{
+    
+}
+
+
+
+
+
+
+
+#_community-list{
+    list-style-type: none;
+
+    z-index: 1000;
+}
+
+
+
+
+#community-list-children{
+    list-style: none;
+    float: left;
+    
+}
+
+#community-list-children .ds-artifact-item-children.odd{
+    float: left;
+
+    
+    width: 250px;
+}
+
+#community-list-children .ds-artifact-item-children.even{
+    
+}
+
+
+.ds-div-search-tit{  padding: 5px 0px 0px 0px;  
+  color: transparent;  
+    font-size: 1.2em !important;  text-transform: uppercase;
+
+  display: inline-table;  margin-bottom: 4px;  visibility: hidden;}
+
+h1 { 
+    padding: 0px;  
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+.h1_title{
+
+}
+
+.ds-div-com-tit{
+     
+
+}
+
+.ds-div-tit{
+    color: #418c4f !important;
+    font-size: 1.5em !important;
+    margin-bottom: 10px;
+    float: left;
+    font-weight: 500;
+}
+
+
+
+div#ds-body h1.ds-div-head {
+    float: left;
+
+    width: 100%;
+}
+
+div#ds-body h1.ds-search-big {
+    position: relative;  padding: 5px 10px 5px 10px;  color: white;  
+    font-size: 1em !important;  text-transform: uppercase;  background: #4073A6;
+}
+
+div#ds-body h2 {
+        font-size: 1em !important;
+        margin-bottom: 0px;
+        color: #4e955b;
+        font-weight: 500;
+        text-transform: uppercase;
+        margin-top: 15px;
+        margin-bottom: 5px;
+        width: 100%;
+}
+
+div#ds-body h3,
+#aspect_administrative_ControlPanel_list_system-wide-alerts legend {
+text-transform: uppercase;
+margin: 10px 0px 10px 0px;
+color: #25729a !important; 
+font-size: 1.1em !important;
+font-weight: 400;
+border-bottom: 1px solid #25729a;
+padding: 5px;
+}
+
+
+
+/*TODO DSPACE - POR FECHA DE PUBLICACION*/
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued{
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-navigation, 
+#aspect_administrative_WithdrawnItems_div_browse-navigation,
+#aspect_administrative_PrivateItems_div_browse-navigation{
+    float: left;    
+    width: 100%; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; 
+    padding-bottom: 45px;
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-navigation .ds-paragraph,
+#aspect_administrative_WithdrawnItems_div_browse-navigation .ds-paragraph,
+#aspect_administrative_PrivateItems_div_browse-navigation .ds-paragraph{    
+    margin: 10px 10px 5px 5px;
+    text-align: left;
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-navigation .ds-paragraph #aspect_artifactbrowser_ConfigurableBrowse_field_starts_with,
+#aspect_administrative_WithdrawnItems_field_starts_with,
+#aspect_administrative_PrivateItems_field_starts_with{
+    width: 150px;
+
+    clear: both;
+    height: 24px;
+}
+
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-navigation .ds-paragraph select{
+    width: 100px;
+
+    height: 24px;
+}
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-navigation .ds-paragraph #aspect_artifactbrowser_ConfigurableBrowse_field_submit,
+#aspect_administrative_WithdrawnItems_field_submit,
+#aspect_administrative_PrivateItems_field_submit
+{
+    width: 200px;
+
+    float: left;
+    margin: 15px 0px 10px 165px;
+    display: block;
+    position: absolute;
+    height: 35px;
+}
+
+
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls,
+#aspect_administrative_WithdrawnItems_div_browse-controls,
+#aspect_administrative_PrivateItems_div_browse-controls{
+    margin: 30px 0px 40px 0px;
+    float: left; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; 
+    padding: 30px 0px 0px 5px;
+    width: 100%;
+    background-image: url("../images/sep_h_content.png");
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls #aspect_artifactbrowser_ConfigurableBrowse_field_sort_by{
+    margin-right: 10px;
+    
+    width: 140px;
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls #aspect_artifactbrowser_ConfigurableBrowse_field_order,
+#aspect_administrative_WithdrawnItems_field_sort_by,
+#aspect_administrative_WithdrawnItems_field_order,
+#aspect_administrative_PrivateItems_field_sort_by,
+#aspect_administrative_PrivateItems_field_order,
+#aspect_administrative_PrivateItems_field_rpp{
+    margin-right: 10px;
+    
+    width: 90px;
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls #aspect_artifactbrowser_ConfigurableBrowse_field_rpp,
+#aspect_administrative_WithdrawnItems_field_rpp{
+    margin-right: 10px;
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls #aspect_artifactbrowser_ConfigurableBrowse_field_update,
+#aspect_administrative_WithdrawnItems_field_update,
+#aspect_administrative_PrivateItems_field_update{
+   width: 200px;
+
+   float: none;
+
+   margin: 20px 0px 0px 165px !important;
+
+   display: block;
+
+    
+   height: 35px;
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results{
+    width: 570px;
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results ul#community-list,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results ul#community-list{
+    list-style: none; width: 570px;
+    
+}
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results ul#community-list .ds-artifact-item,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results ul#community-list .ds-artifact-item{
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results ul#community-list .ds-artifact-item.odd .artifact-description,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results ul#community-list .ds-artifact-item.odd .artifact-description{
+   background: rgba(0, 0, 0, 0.10);
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results ul#community-list .ds-artifact-item .artifact-description .artifact-title,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results ul#community-list .ds-artifact-item .artifact-description .artifact-title{
+    float: left;
+    position: absolute;
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results ul#community-list .ds-artifact-item .artifact-description .artifact-title a,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results ul#community-list .ds-artifact-item .artifact-description .artifact-title a{
+    font-size: 1.1em; width: 550px; height: 60px !important; padding: 10px !important; display: block;
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results ul#community-list .ds-artifact-item .artifact-description .artifact-info,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results ul#community-list .ds-artifact-item .artifact-description .artifact-info{
+margin: 0px 10px 0px 10px;
+padding: 31px 0px 10px 0px;
+}
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results #community-list .artifact-description .artifact-info .author,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results #community-list .artifact-description .artifact-info .author{
+    display: block;
+    margin: 0px 0px 5px 0px;
+    border-top: 1px solid #CCC;
+    padding: 5px 0px 0px 15px;
+    color: #000;
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results #community-list .artifact-description .artifact-info .author:before,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results #community-list .artifact-description .artifact-info .author:before{
+content: "Autor:";
+margin:0px 5px 0px 0px;
+color: #25729a;
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results #community-list .artifact-description .artifact-info .publisher-date,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results #community-list .artifact-description .artifact-info .publisher-date{
+    padding: 5px 0px 0px 15px;
+    color: #000;
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results #community-list .artifact-description .artifact-info .publisher-date:before,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results #community-list .artifact-description .artifact-info .publisher-date:before{
+content: "Fecha:";
+margin:0px 5px 0px 0px;
+color: #25729a;
+    
+}
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results ul#community-list .ds-artifact-item.odd:hover,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results ul#community-list .ds-artifact-item.odd:hover {
+    background: rgba(0, 0, 0, 0.2);
+    
+}
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-dateissued-results ul#community-list .ds-artifact-item.even:hover,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title-results ul#community-list .ds-artifact-item.even:hover {
+
+        background: rgba(0, 0, 0, 0.05);
+}
+
+div.artifact-description {
+  margin-bottom: 1em;
+}
+
+
+
+
+
+/* community-box HOME */
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box {
+float: left;
+list-style-type: none;  
+margin: 20px 0px 0px 0px;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box li ul#community-box {
+margin: 0px 0px 0px 0px;
+width: 100%;
+}
+
+#coleccion1{
+
+    
+}
+
+#coleccion2{
+    
+}
+
+#coleccion3{
+    
+}
+
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion1{
+    margin: 0px 10px 0px 0px;
+    width: auto !important; float: left;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion2{
+    margin: 0px 10px 0px 0px;
+        width: auto !important; float: left;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion3{
+        width: auto !important; float: left;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion1.ds-artifact-item a {
+    float: left;
+    color: transparent;
+    width: 176px;
+    height: 100px;
+    font-size: 1px;
+    background: url('../images/com_catedras.png');
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion2.ds-artifact-item a {
+    float: left;
+    color: transparent;
+    width: 176px;
+    height: 100px;
+    font-size: 1px;
+    background: url('../images/com_grado.png');
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion3.ds-artifact-item a {
+    float: left;
+    color: transparent;
+    width: 176px;
+    height: 100px;
+    font-size: 1px;
+    background: url('../images/com_video.png');
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion1.ds-artifact-item a:hover,
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion2.ds-artifact-item a:hover,
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion3.ds-artifact-item a:hover {
+     opacity: 0.75;
+    -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box li.ds-artifact-item a:hover {
+
+
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box li.ds-artifact-item #community-box li.ds-artifact-item a {
+    color: #A8101C;
+    text-transform: none;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box li.ds-artifact-item #community-box li.ds-artifact-item a:hover {
+    color: #000;
+
+}
+
+#aspect_artifactbrowser_CommunityViewer_div_community-view ul li.ds-artifact-item {
+float: left;
+width: 100%;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser ul li.ds-artifact-item{
+float: left;
+width: 100%;
+}
+
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser ul li.ds-artifact-item.odd{
+}
+
+
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser ul li.ds-artifact-item.even{
+}
+
+
+
+
+/*COMUNIDADES Y COLECCIONES LISTADO*/
+/*padre MATERIAS DE LA CARRERA*/
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion1community-list{
+    margin: 10px 0px 20px 0px;
+    float: left;
+    width: 100%;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion1community-list .bold a{
+    text-transform: uppercase; 
+    margin: 10px 0px 5px 0px; 
+    color: #25729a !important; 
+    font-size: 1.1em !important; 
+    font-weight: 400; border-bottom: 1px solid #25729a; padding: 5px;
+
+    display: block;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion1community-list .bold a:hover{
+
+    color:#194C66 !important;
+}
+
+
+
+/*hijo MATERIAS DE LA CARRERA*/
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion1community-list #community-box .ds-artifact-item {
+    margin: 0px 0px 15px 0px;
+
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion1community-list #community-box .ds-artifact-item a{
+    margin: 0px 0px 5px 0px;
+
+
+    padding: 5px 5px 0px 5px;
+    border: 0;
+    color: #418c4f !important;
+   	font-size:0.9em !important;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion1community-list #community-box .ds-artifact-item  a:hover{
+        color:#357341 !important;
+}
+
+
+/*nieto MATERIAS DE LA CARRERA*/
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion1community-list #community-box .ds-artifact-item  #community-box .ds-artifact-item  {
+    margin: 0px 0px 0px 20px;
+
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion1community-list #community-box .ds-artifact-item  #community-box .ds-artifact-item  a{
+    color: #A8101C !important;
+
+
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion1community-list #community-box .ds-artifact-item  #community-box .ds-artifact-item  a:hover{
+    color: #8F0E18 !important; 
+
+}
+
+
+
+
+/*padre TESIS*/
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion2community-list{
+    margin: 10px 0px 20px 0px;
+    float: left;
+    width: 100%;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion2community-list a{
+    text-transform: uppercase; 
+    margin: 10px 0px 5px 0px; 
+    color: #25729a !important; 
+    font-size: 1.1em !important; 
+    font-weight: 400; border-bottom: 1px solid #25729a; padding: 5px;
+
+    display: block;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion2community-list a:hover{
+
+    color:#194C66 !important;
+}
+
+
+/*hijo TESIS*/
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion2community-list #community-box .ds-artifact-item {
+    margin: 0px 0px 15px 0px;
+
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion2community-list #community-box .ds-artifact-item a{
+
+
+    border: 0;
+    color: #418c4f !important;
+    font-size:0.9em !important;
+    margin: 0px 0px 5px 0px; padding: 5px 5px 0px 5px;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion2community-list #community-box .ds-artifact-item  a:hover{
+        color:#357341 !important;
+}
+
+
+
+/*nieto TESIS*/
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion2community-list #community-box .ds-artifact-item  #community-box .ds-artifact-item  {
+    margin: 0px 0px 0px 20px;
+
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion2community-list #community-box .ds-artifact-item  #community-box .ds-artifact-item  a{
+    color: #A8101C !important;
+
+
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion2community-list #community-box .ds-artifact-item  #community-box .ds-artifact-item  a:hover{
+    color: #8F0E18 !important; 
+
+}
+
+
+
+
+
+/*padre VIDEOS*/
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion3community-list{
+    margin: 10px 0px 20px 0px;
+    float: left;
+    width: 100%;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion3community-list a{
+    text-transform: uppercase; 
+    margin: 10px 0px 5px 0px; 
+    color: #25729a !important; 
+    font-size: 1.1em !important; 
+    font-weight: 400; border-bottom: 1px solid #25729a; padding: 5px;
+
+    display: block;
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion3community-list a:hover{
+
+    color:#194C66 !important;
+}
+
+
+/*hijo MATERIAS DE LA CARRERA*/
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion3community-list #community-box .ds-artifact-item {
+    margin: 0px 0px 15px 0px;
+
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion3community-list #community-box .ds-artifact-item a{
+
+
+    border: 0;
+    color: #418c4f !important;
+    font-size:0.9em !important;
+    margin: 0px 0px 5px 0px; padding: 5px 5px 0px 5px;
+
+
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion3community-list #community-box .ds-artifact-item  a:hover{
+        color:#357341 !important;
+}
+
+
+
+/*nieto MATERIAS DE LA CARRERA*/
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion3community-list #community-box .ds-artifact-item  #community-box .ds-artifact-item  {
+    margin: 0px 0px 0px 20px;
+
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion3community-list #community-box .ds-artifact-item  #community-box .ds-artifact-item  a{
+    color: #A8101C !important;
+
+
+}
+
+#aspect_artifactbrowser_CommunityBrowser_div_comunity-browser #community-box #coleccion3community-list #community-box .ds-artifact-item  #community-box .ds-artifact-item  a:hover{
+    color: #8F0E18 !important; 
+
+}
+
+
+
+
+/*COMUNIDADES - LISTAR POR*/
+#aspect_artifactbrowser_CommunityViewer_div_community-search-browse{
+    display: none;
+    
+}
+
+#aspect_artifactbrowser_CommunityViewer_div_community-search-browse #aspect_artifactbrowser_CommunityViewer_div_community-browse{
+    
+}
+
+#aspect_artifactbrowser_CommunityViewer_div_community-search-browse #aspect_artifactbrowser_CommunityViewer_div_community-browse h3{
+    display: none;
+}
+
+#aspect_artifactbrowser_CommunityViewer_div_community-search-browse #aspect_artifactbrowser_CommunityViewer_div_community-browse ul{
+    list-style-type: none;
+
+    float: left;
+}
+
+#aspect_artifactbrowser_CommunityViewer_div_community-search-browse #aspect_artifactbrowser_CommunityViewer_div_community-browse ul li{
+    list-style-type: none;
+
+    float: left;
+    margin: 0px 10px 0px 10px;
+}
+
+/*LISTAR EN COLECCIONES*/
+#aspect_artifactbrowser_CollectionViewer_div_collection-search-browse{
+    display:none;
+}
+
+/*COMUNIDAD*/
+#aspect_artifactbrowser_CommunityViewer_div_community-home{
+    
+}
+
+
+/*COMMUNITY-BOX INTERIORES*/
+#aspect_artifactbrowser_CommunityViewer_div_community-view{      
+    margin-bottom: 80px;
+    
+}
+
+#aspect_artifactbrowser_CommunityViewer_div_community-view #community-box{
+    list-style-type: none;
+
+}
+
+
+/* community-list */
+#community-list li.ds-artifact-item-children a {
+
+}
+
+
+#community-list li.ds-artifact-item a {
+
+}
+
+li.ds-artifact-item-children a:hover {
+
+}
+
+li.ds-artifact-item a:hover {
+
+}
+
+ul.ds-progress-list {
+    margin: 0 0 10px 0;
+    padding: 2px 0px;
+    text-align: center;
+}
+
+
+ul.ds-progress-list li {
+       
+        color: #A8101C;
+        overflow: hidden;
+        display: inline;
+        padding: 5px;
+        max-width: 400px;
+}
+
+ul.ds-progress-list li.button {
+        background-color: inherit;
+        border: none;
+        padding: 1px !important;
+        margin-top: 2px;
+        margin-left: 0px !important;
+}
+
+ul.ds-progress-list li.button input.ds-button-field {
+        font-size: smaller;
+}
+
+ul.ds-progress-list li.current.button input.ds-button-field {
+        color: rgb(10,175,10);
+}
+
+ul.ds-progress-list li.disabled.button input.ds-button-field {
+        color: rgb(184,184,184);
+}
+
+
+ul.ds-progress-list li.current {
+        color: #418C4F;
+        font-weight: 500;
+}
+
+ul.ds-progress-list li.arrow {
+        border: none;
+        background: none;
+        font-size: 120%;
+        font-weight: normal;
+        margin-left: 0px;
+        margin-right: 0px;
+        color: #25729a;
+}
+
+ul.alphabet {
+        padding-left: 10px;
+        padding-top: 0px;
+        margin: 5px 0px 0px 0px;
+        text-align: center;
+}
+
+ul.alphabet li {
+        list-style: none;
+        display: inline;
+        margin-right: 5px;
+        font-weight: 200;
+}
+
+ul.alphabet a {
+        font-weight: 600;
+        color: #3093C7;
+        background-color: inherit;
+        text-decoration: none;
+}
+
+ul.alphabet a:hover {
+        font-weight: 600;
+        color: #000000;
+        background-color: inherit;
+}
+/*
+form.search {
+        margin: 0px;
+        padding: 0px;
+}
+
+form.search select {
+        max-width: 200px;
+}
+
+*.collection.search-browse,*.community.search-browse {
+        width: 340px;
+        float: left;
+        margin: 5px 12px 5px 0px;
+}
+
+form.search fieldset,form.navigation fieldset {
+        color: inherit;
+        background-color: rgb(255, 255, 245);
+        border: 2px solid rgb(240, 240, 210);
+        padding: 5px 5px 5px 5px;
+}*/
+
+form.search li {
+    margin: 0;
+    padding: 0px !important;
+    list-style-type: none;
+}
+
+form.navigation input,form.navigation select {
+        margin-left: 5px;
+}
+
+form.navigation p {
+        text-align: center;
+}
+/*
+form.search table {
+        margin-top: 5px;
+        margin-bottom: 5px;
+        border: none;
+}
+
+form.search table th {
+        padding-top: 2px;
+        padding-bottom: 2px;
+        text-align: left;
+}
+*/
+div.browse {
+}
+
+
+
+div.pagination {
+        display: inline-block; text-align: center; width: 100%; 
+}
+
+div.pagination.top {
+    margin-bottom: 20px;
+
+    display: none;
+}
+
+div.pagination.bottom {
+    margin-top: 20px;
+
+    position: relative;
+}
+
+
+div.pagination * {
+        padding: 0px;
+}
+
+div.pagination-masked.top {
+        display: none;
+
+}
+
+
+div.pagination-masked {
+        display: inline-block;
+    
+        text-align: center;
+        width: 100%;
+        margin-bottom: 40px;    
+        padding-bottom: 40px;
+        margin-top: 20px;
+        position: relative;
+}
+
+a.previous-page-link {
+left: 10px;
+color: #A8101C;
+font-weight: 400;
+float: left;
+font-size: 1em;
+position: absolute;
+top: 0;
+left: 10px;
+}
+
+a.previous-page-link:hover {
+        color: #0b3d5f;
+}
+
+p.pagination-info {
+    font-size: 1em;
+}
+
+ul.pagination-links {
+    margin-top: 5px;
+}
+
+*.pagination-links li {
+        list-style: none;
+        display: inline-block;
+        font-weight: 700;
+        font-size: 1.1em;
+        width: 20px;
+        height: 20px;
+}
+
+li.page-link a,li.first-page-link a,li.last-page-link a {
+        color: #418c4f;
+        background-color: inherit;
+}
+
+li.current-page-link a {
+        color: #A8101C;
+}
+
+a.next-page-link {
+        left: 10px;
+        color: #A8101C;
+        font-weight: 400;
+        float: right;
+        font-size: 1em;
+        position: absolute;
+top: 0;
+right: -450px;
+}
+
+a.next-page-link:hover {
+         color: #0b3d5f;
+}
+
+div.detail-view {
+        clear: both;
+}
+
+p.button-list {
+        margin-top: 15px;
+        text-align: right;
+        margin: 10px;
+}
+
+ul.collection-browse,ul.community-browse {
+}
+
+*.collection-search-browse td,*.community-search-browse td {
+        white-space: nowrap;
+}
+
+*.collection-search-browse h4,*.community-search-browse h4 {
+        display: none;
+}
+
+*.collection-search-browse select,*.community-search-browse select {
+        width: auto;
+        max-width: 200px;
+}
+
+*.collection-search-browse input,*.community-search-browse input {
+        width: auto;
+        max-width: 195px;
+}
+
+*.button-list input {
+        width: auto;
+}
+
+div.ds-logo-wrapper {
+    float: left;
+    position: absolute;
+    z-index: -200;
+    margin: -20px 0px 0px 0px;
+    display: none;
+}
+
+p.copyright-text {
+        margin-top: 30px;
+        font-style: italic;
+        text-align: center;
+}
+
+div.primary {
+        margin-bottom: 30px;
+}
+
+.primary .primary {
+        margin-bottom: 10px;
+}
+
+table {
+    border: none;
+
+    border-spacing: 0px;
+}
+
+tr.ds-table-header-row {
+        color: inherit;
+}
+
+.ds-table-header-row th {
+        color: #A8101C;
+}
+
+tr.ds-table-header-row.subheader {
+
+}
+
+
+th {
+    padding: 4px 10px;
+}
+.subheader th {
+    padding-left: 5px;
+        font-weight: 100;
+}
+
+
+
+tr.ds-table-row.odd {
+}
+
+tr.ds-table-row.even {
+    border: none;
+    background: rgba(0, 0, 0, 0.02);
+}
+
+td {
+        padding: 10px 10px 10px 10px;
+        border: none;
+        font-size: inherit;
+        background-color: inherit;
+        color: inherit;
+        overflow: hidden;
+        word-wrap: normal;
+        word-break: break-word;
+}
+
+td.ds-table-cell.right {
+    text-align: right;
+}
+
+*.first-cell {
+        vertical-align: middle;
+        text-align: center;
+}
+
+.indent {
+    padding-left: 35px;
+    padding-right: 0;
+}
+.doubleIndent {
+    padding-left: 55px;
+    padding-right: 0;
+}
+
+
+th.indent {
+    padding-left: 30px;
+    padding-right: 0;
+}
+th.doubleIndent {
+    padding-left: 50px;
+    padding-right: 0;
+}
+
+
+
+/* highlight a single row */
+tr.ds-table-row.highlight {
+        background-color: rgba(37, 114, 154, 0.15);
+}
+
+/* metadata import rows
+ * additions and deletions
+ */
+
+tr.ds-table-row.metadata-addition {
+	background-color: #CCFFCC;
+}
+
+tr.ds-table-row.metadata-deletion {
+	background-color: #CCCCCC;
+}
+
+tr.ds-table-row.item-delete {
+	background-color: #CC99FF;
+}
+
+tr.ds-table-row.item-withdraw {
+	background-color: #CC99FF;
+}
+
+tr.ds-table-row.item-reinstate {
+	background-color: #CC99FF;
+}
+
+tr.ds-table-row.metadata-addition td,tr.ds-table-row.metadata-deletion td {
+	border-top: 1px solid black;
+}
+
+/* Tables that are actually a result of glossary lists are not rendered
+ as plain tables are... */
+table.ds-gloss-list {
+        border: none;
+        width: auto;
+        font-size: inherit;
+}
+
+*.ds-gloss-list td {
+        padding: 5px;
+}
+
+*.ds-gloss-list-label {
+        font-weight: bolder;
+}
+
+table.ds-gloss-list td ul {
+        list-style-type: none;
+        padding: 0px;
+        margin: 0px;
+}
+
+/* Formatting associated with the "Files in this item" table in the item view */
+*.file-list td {
+
+}
+
+a.image-link img {
+        border: none;
+}
+
+span.bold {
+        font-weight: bold;
+}
+
+span.italics,span.italic {
+        font-style: italic;
+}
+
+span.underline {
+        text-decoration: underline;
+}
+
+span.floatleft {
+	border:none;
+	float:right;
+	display:inline;
+}
+
+div.ds-static-div {
+        clear: both;
+        position: relative;
+}
+
+
+#aspect_artifactbrowser_CommunitySearch_div_community-search {
+display:none;
+}
+
+
+#aspect_artifactbrowser_CommunitySearch_div_community-search .ds-paragraph {
+    float: left;
+}
+
+#aspect_artifactbrowser_CommunitySearch_div_community-search .ds-paragraph a {
+    margin: 0; 
+    padding: 0;  
+    text-decoration: none;  
+    color:   #A8101C;  
+    font-size: 1em;  
+    margin-left: 10px;
+    margin-top: 4px;
+    display: block;
+}
+
+.ds-paragraph a:hover {
+    color:   #000;  
+}
+
+ul.ds-artifact-list {
+        padding: 0px;
+        list-style-type: none;
+        margin: 0px;
+        float: left;
+        width: 620px;
+        margin-top: 10px;
+}
+
+ul.ds-artifact-list li.odd {
+        color: inherit;
+        background-color: rgba(220, 220, 220, 0.45);
+}
+
+ul.ds-artifact-list li.even {
+        color: inherit;
+        background-color: rgba(236, 236, 236, 0.45);
+}
+
+ul.ds-artifact-list li {
+        float: left;
+        clear: both;
+        width: 100%;
+        padding-bottom: 3px;
+        padding-top: 3px;
+}
+
+ul.ds-artifact-list li img {
+        border: 0px;
+}
+
+ul.ds-artifact-list li  div {
+        float: left;
+}
+
+ul.ds-artifact-list li div.artifact-description {
+        float: left;
+        margin-top: 0px;
+        padding: 5px;
+}
+
+ul.ds-artifact-list li div.artifact-title {
+        float: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+}
+
+ul.ds-artifact-list li div.artifact-title a:link {
+    color: ##A8101C;
+}
+
+ul.ds-artifact-list li div.artifact-title a:visited {
+    color: ##3F0005;
+}
+
+ul.ds-artifact-list li div.artifact-info {
+        float: none;
+        margin-left: 15px;
+}
+
+ul.ds-artifact-list li span.publisher {
+        font-style: italic;
+}
+
+ul.ds-artifact-list li div.artifact-preview {
+        float: right;
+}
+
+
+
+/* The composite field voodoo */
+span.ds-composite-field {
+        display: table-row;
+        padding: 2px;
+}
+
+*.ds-composite-field.ds-composite-component {
+        display: table-cell;
+        text-align: left;
+        width: auto;
+        padding-right: 10px;
+}
+
+*.ds-composite-field input,*.ds-composite-field textarea,*.ds-composite-field select {
+        margin-right: 5px;
+        margin-bottom: -2px;
+}
+
+span.composite-help {
+        display: block;
+        font-size: 80%;
+        color: blue;
+        background-color: inherit;
+        text-align: left;
+}
+
+/* Checkboxes and Radio buttons */
+fieldset.ds-checkbox-field,fieldset.ds-radio-field {
+        border: none;
+        margin: 0;
+        padding: 0;
+}
+
+fieldset.ds-checkbox-field legend,fieldset.ds-radio-field legend {
+        display: none;
+}
+
+fieldset.ds-checkbox-field label,fieldset.ds-radio-field label {
+        display: block;
+}
+
+/* The form list and and its components voodoo */ /* Top-level stuff */
+fieldset.ds-form-list {
+        padding: 0;
+        color: inherit;
+        margin-left: 0;
+        margin-right: 0;
+}
+
+fieldset.ds-form-list.thick {
+        
+}
+
+fieldset.ds-form-list ol {
+        padding: 0;
+        margin: 0;
+        width: 100%;
+}
+
+fieldset.ds-form-list legend {
+        color: #25729a;
+        font-size: 1.1em !important;
+        font-weight: 400;
+}
+
+fieldset.thick legend {
+       
+}
+
+/* Top-level stuff for the nested "form" lists */
+fieldset.ds-form-sublist {
+        
+        padding: 0;
+        margin: 5px;
+}
+
+fieldset.ds-form-list ol {
+        list-style-type: none;
+        margin: 10px 0px 0px 0px;
+}
+
+form.ds-interactive-div fieldset.ds-form-sublist ol {
+        display: table;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+}
+
+form.ds-interactive-div fieldset.ds-form-sublist legend {
+    text-transform: uppercase; margin: 10px 0px 5px 0px; color: #25729a !important; font-size: 1.1em !important; font-weight: 400; border-bottom: 1px solid #25729a; padding: 5px; display: block;
+    width: 560px;
+}
+
+/* Row-level hierarchy */
+form.ds-interactive-div li.ds-form-item {
+        display: block;
+        padding: 5px 0px 20px 0px;
+        width: 100%;
+}
+
+form.ds-interactive-div li.odd {
+}
+
+form.ds-interactive-div li.even {
+        color: inherit;
+}
+
+form.ds-interactive-div li.ds-form-item.last {
+        color: inherit;
+        border: none !important;
+}
+
+form.ds-interactive-div li.ds-form-item.last .ds-form-content{
+    width: 100% !important;
+
+}
+
+
+
+form.ds-interactive-div.primary {
+        margin-bottom: 10px;
+        float: left;
+}
+
+#aspect_artifactbrowser_FrontPageSearch_div_front-page-search{
+    padding: 0px 0px 30px 0px;  
+    background: url("../images/bg_sep.png") repeat-x;
+    background-position: bottom;  
+    float: left;
+    display: inline-block;
+    margin-top: -25px;
+    margin-bottom: 20px;
+}
+#aspect_artifactbrowser_FrontPageSearch_div_front-page-search .ds-paragraph{
+    display: none;
+}
+
+#aspect_artifactbrowser_FrontPageSearch_div_front-page-search a{
+    float: left;
+
+    margin: 0px 0px 0px 10px;
+    padding: 10px 15px 10px 15px;
+}
+
+#aspect_artifactbrowser_FrontPageSearch_field_submit{
+    color: transparent;
+    
+    text-shadow: none;
+    width: 40px;
+    height: 33px;
+    padding: 0px !important;
+    margin: 0px 0px 0px 0px;
+    border: none;
+    border-radius: 0;
+    float: left;
+    -webkit-border-top-right-radius: 3px; -webkit-border-bottom-right-radius: 3px; -moz-border-radius-topright: 3px; -moz-border-radius-bottomright: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px;
+    background-color: #6AB177;
+    background-image: url("../images/search.png"), -webkit-gradient(linear, left top, left bottom, color-stop(0%, #6AB177), color-stop(100%, #408B4E));
+    background-image: url("../images/search.png"), -webkit-linear-gradient(top, #6AB177, #408B4E);
+    background-image: url("../images/search.png"), -moz-linear-gradient(top, #6AB177, #408B4E);
+    background-image: url("../images/search.png"), -ms-linear-gradient(top, #6AB177, #408B4E);
+    background-image: url("../images/search.png") ,-o-linear-gradient(top, #6AB177, #408B4E);
+    background-image: url("../images/search.png"), linear-gradient(top, #6AB177, #408B4E);
+    filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#6AB177, endColorstr=#408B4E);
+}
+
+#aspect_artifactbrowser_FrontPageSearch_field_submit:hover{
+    border:1px solid #3e7749; background-color: #6AB177 !important;
+     background-image: url("../images/search.png"), -webkit-gradient(linear, left top, left bottom, color-stop(0%,#6AB177), color-stop(100%, #30693B)) !important;
+     background-image: url("../images/search.png"), -webkit-linear-gradient(top, #6AB177, #30693B) !important;
+     background-image: url("../images/search.png"), -moz-linear-gradient(top, #6AB177, #30693B) !important;
+     background-image: url("../images/search.png"), -ms-linear-gradient(top, #6AB177, #30693B) !important;
+     background-image: url("../images/search.png"), -o-linear-gradient(top, #6AB177, #30693B) !important;
+     background-image: url("../images/search.png"), linear-gradient(top, #6AB177, #30693B);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#6AB177, endColorstr=#30693B) !important;
+
+}
+
+
+ 
+
+p {
+    line-height: 145%;
+}
+
+.item-view-toggle-top {
+text-align: right;
+}
+
+fieldset ol {
+        float: left;
+        clear: both;
+}
+
+li.ds-form-item {
+        float: left;
+        clear: both;
+}
+
+div.ds-form-content {
+        float: left;
+        clear: right;
+        display: block;
+                
+        width: auto;
+}
+
+span.ds-form-label,label.ds-form-label {
+        display: block;
+        float: left;
+        clear: left;
+        width: 150px;
+        font-weight: 400;
+}
+
+label.ds-composite-component {
+        display: block;
+        float: left;
+        padding: 0px 5px 0 0px;
+        font-size: 80%;
+        color: #25729a;
+        background-color: inherit;
+        text-align: left;
+}
+
+span.error {
+        display: block;
+        font-size: 0.9em;
+        color: rgb(0, 0, 0);
+        background-color: inherit;
+        margin: 10px 0px 10px 0px;
+        background: rgba(255, 0, 0, 0.25);
+        padding: 5px;
+        float: left;
+        width: 100%;
+}
+
+span.field-help {
+        display: block;
+        font-size:0.9em;
+        color: rgb(60, 60, 60);
+        float: left;
+        margin-top: 8px;
+        margin-right: 10px;
+        width: 100%;
+        text-transform: none;
+}
+
+input.error,textarea.error,select.error {
+        color: inherit;
+        background-color: rgb(255, 245, 245);
+   
+}
+
+span.composite-help {
+        display: block;
+        font-size: 80%;
+        color: gray;
+        background-color: inherit;
+        text-align: left;
+}
+
+div.spacer {
+        margin: 0;
+        padding: 0;
+        line-height: 0px;
+        clear: both;
+}
+
+div#ds-options {
+        position: relative;
+        float: left;
+    		margin: 0 0 0 7px;
+    		position: relative;
+    		width: 158px;
+}
+
+
+
+div.ds-option-set {
+
+}
+
+
+
+#aspect_viewArtifacts_Navigation_list_administrative {
+   position: relative;
+float: left;
+width: 160px;
+margin-bottom: 33px;
+
+   padding: 3px 3px 0px 3px;
+margin: 0 0px 0px 0;
+background-color: rgba(0, 0, 0, 0.1);
+-webkit-border-top-left-radius: 5px;
+-webkit-border-top-right-radius: 5px;
+-moz-border-radius-topleft: 5px;
+-moz-border-radius-topright: 5px;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+}
+
+
+
+
+div.ds-option-set ul div {
+    float: left;
+    margin: 0px 0px 0px 0px;
+}
+
+#ds-search-option,
+.ds-options-list{  background-repeat: no-repeat;  
+    background-position: 0% 100%;
+}
+
+div#ds-search-option label {
+    margin-left: 10px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+div#ds-search-option input.ds-text-field {
+    
+    background-color: #FFF;
+  
+    height: 20px;
+    width: 137px;
+}
+
+input.ds-text-field {
+ 
+    background-color: rgba(65, 140, 79, 0.06);
+
+    height: 26px;
+    border: 1px solid rgba(65, 140, 79, 0.43);
+    width: 120px;
+}
+
+.ds-button-field {
+       
+     
+}
+
+.ds-button-field:hover { 
+}
+
+
+
+div#ds-search-option a {
+        margin: 0;
+        padding: 0;
+    text-decoration: none;
+    color: #A8101C;
+    font-size: 0.93em;
+    margin-left: 72px;
+}
+
+div#ds-search-option a:hover {
+color: #000;
+}
+
+
+
+form#ds-search-form {
+        float: left;
+        margin-top: 5px;
+}
+
+
+/*MENU IZQUIERDA TODO DSPACE */
+#aspect_viewArtifacts_Navigation_list_browse{
+position: relative;
+float: left;
+width: 165px;
+margin-bottom: 33px;
+padding: 0px 0px 0px 0px;
+margin: 0 0px 30px 0px;
+background-color: rgba(0, 0, 0, 0.1);               
+-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;    
+}
+
+#aspect_viewArtifacts_Navigation_list_browse #lista1 .ds-sublist-head {
+    display: none;
+}
+
+div#ds-options h3 {
+        padding: 0px;
+        color: #A8101C;
+        font-size:0.9em;
+        
+        text-transform: uppercase;  
+        float: left;
+        display: none;
+}
+
+div#ds-options h4 {
+        color: #25729a;
+        text-transform: uppercase;
+        font-size: 1.1em;
+        font-weight: 400;
+        font-style: normal;     
+}
+
+div#ds-options ul {
+    float: left;
+    width: 165px;
+}
+
+/*botones Lista1 */
+#aspect_viewArtifacts_Navigation_list_browse #lista1 .icono1 a {
+    background: url("../images/list_com.png") no-repeat;   
+    background-position: -25px 9px;
+    padding: 13px 0px 21px 38px;
+    float: left;
+}
+
+
+#aspect_viewArtifacts_Navigation_list_browse #lista1 .icono2 a  {
+    background: url("../images/list_fecha.png") no-repeat; 
+    background-position: -25px 8px; 
+    padding: 13px 0px 21px 38px;
+}
+
+
+#aspect_viewArtifacts_Navigation_list_browse #lista1 .icono3 a {
+    background: url("../images/list_autor.png") no-repeat;  
+    background-position: -25px 9px; 
+    padding: 21px 0px 21px 38px;
+}
+
+
+#aspect_viewArtifacts_Navigation_list_browse #lista1 .icono4 a  {
+    background: url("../images/list_title.png") no-repeat;  
+    background-position: -25px 9px; 
+    padding: 21px 0px 21px 38px;
+}
+
+
+#aspect_viewArtifacts_Navigation_list_browse #lista1 .icono5 a {
+    background: url("../images/list_tema.png") no-repeat;  
+    background-position: -25px 9px; 
+    padding: 21px 0px 21px 38px;
+}
+
+/*botones lista2*/
+div#ds-options #lista2{
+    margin: 15px 0px 0px 0px;
+}
+
+div#ds-options #lista2 ul{
+    -webkit-border-bottom-right-radius: 5px; -webkit-border-bottom-left-radius: 5px; -moz-border-radius-bottomright: 5px; -moz-border-radius-bottomleft: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px;
+
+    padding: 0px 0px 15px 0px;
+}
+
+
+#aspect_viewArtifacts_Navigation_list_browse #lista2 .icono1 a {
+    background: url("../images/list_fecha.png") no-repeat;   
+    background-position: -25px 8px; 
+    padding: 13px 0px 21px 38px;
+}
+
+#aspect_viewArtifacts_Navigation_list_browse #lista2 .icono2 a {
+    background: url("../images/list_autor.png") no-repeat;    
+    background-position: -25px 9px; padding: 21px 0px 21px 38px;
+}
+
+#aspect_viewArtifacts_Navigation_list_browse #lista2 .icono3 a {
+    background: url("../images/list_title.png") no-repeat;   
+    background-position: -25px 9px; padding: 21px 0px 21px 38px;
+    width: 127px;
+}
+
+#aspect_viewArtifacts_Navigation_list_browse #lista2 .icono4 a {
+    background: url("../images/list_tema.png") no-repeat;   
+    background-position: -25px 9px; padding: 21px 0px 21px 38px;
+    width: 126px;
+}
+
+#ds-options ul.ds-simple-list.menu div {
+    float: left;
+    cursor:pointer;
+    background: transparent;    
+    width: auto;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+
+
+div#ds-options #lista1 div:hover,
+div#ds-options #lista2 div:hover,
+div#ds-options #lista3 div:hover,
+div#ds-options #lista4 div:hover {
+ background-color: rgba(0, 0, 0, 0.2);
+}
+
+
+#aspect_viewArtifacts_Navigation_list_browse h4 {
+    
+    background-repeat: no-repeat;
+    border-bottom: 1px solid #25729a;
+    padding: 5px 0px 5px 5px; 
+}
+
+
+/*bordes bg menu*/
+#aspect_viewArtifacts_Navigation_list_browse .icono5{
+    border-bottom: none !important;
+
+}
+
+#aspect_viewArtifacts_Navigation_list_browse .icono5{
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
+}
+
+#aspect_viewArtifacts_Navigation_list_browse .icono1{
+-webkit-border-top-left-radius: 5px;
+-webkit-border-top-right-radius: 5px;
+-moz-border-radius-topleft: 5px;
+-moz-border-radius-topright: 5px;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+}
+
+
+div#ds-options li {
+   list-style: none;
+   float: left;
+}
+
+div#ds-options li a {
+    text-decoration: none;
+    color: #A8101C;
+    font-size: 1.2em;   
+    display: block;
+    text-align: left;
+    cursor: pointer;
+    z-index: 1000;
+    width: 128px;
+    margin: 0px 0px 0px 0px;
+    font-weight: 400;
+}
+
+div#ds-options li a:hover {
+    color: #000;
+}
+
+
+
+
+/*MENU NAVIGATION LIST ACCOUNT*/
+#aspect_viewArtifacts_Navigation_list_account{
+    position: relative; float: left; width: 160px; margin-bottom: 33px; 
+    padding: 3px 3px 3px 3px; margin: 0 0px 30px 0; background-color: rgba(0, 0, 0, 0.1);    
+    -webkit-border-radius: 5px; -moz-border-radius: 5px; 
+    border-radius: 5px;
+}
+
+
+
+#aspect_viewArtifacts_Navigation_list_account .ds-simple-list div{
+    width: 160px;
+}
+
+
+#aspect_viewArtifacts_Navigation_list_account .icono2 #_register{
+   text-transform: uppercase;
+   border: 1px solid #25729a;-moz-box-shadow: #B4B5B5 1px 1px 5px ; 
+   box-shadow: #B4B5B5 1px 1px 5px ; -webkit-border-radius: 3px; -moz-border-radius: 3px;border-radius: 3px;font-size:10px;font-family:arial, helvetica, sans-serif; 
+   padding: 10px 15px 10px 15px; text-shadow: -1px -1px 0 rgba(0,0,0,0.3);
+   font-weight: 100; text-align: center;
+   background-color: #3093C7;
+   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3093C7), color-stop(100%, #1c5a85));
+   background-image: -webkit-linear-gradient(top, #3093C7, #1c5a85);
+   background-image: -moz-linear-gradient(top, #3093C7, #1c5a85);
+   background-image: -ms-linear-gradient(top, #3093C7, #1c5a85);    
+   background-image: -o-linear-gradient(top, #3093C7, #1c5a85);
+   background-image: linear-gradient(top, #3093C7, #1c5a85);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#6AB177, endColorstr=#408B4E);
+   cursor: pointer;
+   color:#fff; 
+   float: left;  
+}
+
+#aspect_viewArtifacts_Navigation_list_account .icono2 #_register:hover {
+     background-color: #26759E!important;
+     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #26759E), color-stop(100%, #133d5b))!important;
+     background-image: -webkit-linear-gradient(top, #26759E, #133d5b)!important;
+     background-image: -moz-linear-gradient(top, #26759E, #133d5b)!important;
+     background-image: -ms-linear-gradient(top, #26759E, #133d5b)!important;
+     background-image: -o-linear-gradient(top, #26759E, #133d5b)!important;
+     background-image: linear-gradient(top, #26759E, #133d5b);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#6AB177, endColorstr=#408B4E) !important;
+     cursor: pointer;
+     color:#fff; 
+}
+
+
+#aspect_viewArtifacts_Navigation_list_account .icono2 a{
+}
+
+#aspect_viewArtifacts_Navigation_list_account #_submissions,
+#aspect_viewArtifacts_Navigation_list_account .icono3 a{
+     color:#fff;
+     display:block;
+     width: 118px;
+     float: left;
+     margin: 10px 6px 10px 6px;
+}
+
+#link-enviar-item {
+    color:#fff; 
+    width: 188px;
+     float: left;
+     
+     
+    margin: 0px 6px 10px 6px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#link-enviar-item a{
+         color:#fff; 
+}
+
+#_logout{
+display: none !important;    
+}
+
+#_profile{
+display: none !important;       
+}
+
+#aspect_viewArtifacts_Navigation_list_account .icono1 a{
+    display: block;
+    margin: 10px 6px 10px 6px;
+    color: #fff; width: 118px; float: left;
+}
+#aspect_viewArtifacts_Navigation_list_account .icono2 a{
+    display: block;
+    margin: 10px 6px 10px 6px;
+    color: #fff; width: 118px;
+}
+#aspect_viewArtifacts_Navigation_list_account .icono3 a{
+    display: block;
+    margin: 10px 6px 10px 6px;
+    width: 118px;
+}
+#aspect_viewArtifacts_Navigation_list_account .icono4 a{
+    display: block;
+    margin: 10px 6px 10px 6px;
+    width: 118px;
+}
+#aspect_viewArtifacts_Navigation_list_account .icono5 a{
+    display: block;
+    margin: 10px 6px 10px 6px;
+    width: 118px;
+
+}
+
+#aspect_viewArtifacts_Navigation_list_account .icono3 a:hover{
+    background: rgba(0, 0, 0, 0.3);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color:#fff;
+}
+
+
+
+
+
+
+/*MENU NAVIGATION LIST CONTEXT*/
+#aspect_viewArtifacts_Navigation_list_context{
+position: relative;
+float: left;
+width: 160px;
+margin-bottom: 33px;
+padding: 3px 3px 15px 3px;
+margin: 0 0px 30px 0;
+background-color: rgba(0, 0, 0, 0.1);
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;    
+}
+
+#aspect_viewArtifacts_Navigation_list_context div{
+    width: 160px;
+}
+
+#aspect_viewArtifacts_Navigation_list_context .icono1 a{
+    color:#fff; 
+    width: 118px;
+    float: left; margin: 10px 6px 10px 6px;
+}
+
+#aspect_viewArtifacts_Navigation_list_context .icono1 a:hover{
+
+}
+
+/*MENU NAVIGATION LIST ADMIN*/
+#aspect_viewArtifacts_Navigation_list_administrative h4{
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list {
+    
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista1,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista2 {
+    width: 165px;
+    
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista2 {
+    margin: 0px 0px -15px 0px;
+        
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista1 h4,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista2 h4{
+    padding: 5px 0px 5px 5px;
+    margin: 5px 0px 0px -3px;
+    width: 160px;
+    border-bottom: 1px solid #25729a;
+}
+
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista2 h4{
+
+    margin: 15px 0px 0px -3px !important;
+
+}
+
+ 
+     
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista1 .ds-simple-list.menu,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista2 .ds-simple-list.menu {
+
+    
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista1 .ds-simple-list.menu .icono1,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista1 .ds-simple-list.menu .icono2,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista1 .ds-simple-list.menu .icono3,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista2 .ds-simple-list.menu .icono1,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista2 .ds-simple-list.menu .icono2,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono3,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono4,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono5,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono6,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono7,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono8,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono9,
+#aspect_statistics_Navigation_list_statistics .ds-simple-list .icono1,
+#aspect_statistics_Navigation_list_statistics .ds-simple-list .icono2,
+#aspect_statistics_Navigation_list_statistics .ds-simple-list .icono3,
+#aspect_viewArtifacts_Navigation_list_context .ds-simple-list .icono2,
+#aspect_viewArtifacts_Navigation_list_context .ds-simple-list .icono3,
+#aspect_viewArtifacts_Navigation_list_context .ds-simple-list .icono4,
+#aspect_viewArtifacts_Navigation_list_context .ds-simple-list .icono5 {
+    float: left;
+    
+    
+    margin: 0px 0px 0px -3px;
+    padding: 0px;
+    background: none;
+    border-radius: 0px;
+    -webkit-border-radius: 0px; 
+    -moz-border-radius: 0px;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista1 .ds-simple-list.menu .icono1:hover,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista1 .ds-simple-list.menu .icono2:hover,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista1 .ds-simple-list.menu .icono3:hover,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista2 .ds-simple-list.menu .icono1:hover,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista2 .ds-simple-list.menu .icono2:hover,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono3:hover,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono4:hover,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono5:hover,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono6:hover,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono7:hover,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono8:hover,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono9:hover,
+#aspect_statistics_Navigation_list_statistics .ds-simple-list .icono1 a:hover,
+#aspect_statistics_Navigation_list_statistics .ds-simple-list .icono2 a:hover,
+#aspect_statistics_Navigation_list_statistics .ds-simple-list .icono3 a:hover,
+#aspect_viewArtifacts_Navigation_list_context .ds-simple-list .icono2 a:hover,
+#aspect_viewArtifacts_Navigation_list_context .ds-simple-list .icono3 a:hover,
+#aspect_viewArtifacts_Navigation_list_context .ds-simple-list .icono4 a:hover,
+#aspect_viewArtifacts_Navigation_list_context .ds-simple-list .icono5 a:hover {
+ background: rgba(0, 0, 0, 0.2);
+    
+}
+
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista1 .ds-simple-list.menu .icono1 a,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista1 .ds-simple-list.menu .icono2 a,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista1 .ds-simple-list.menu .icono3 a,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista2 .ds-simple-list.menu .icono1 a,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list #lista2 .ds-simple-list.menu .icono2 a,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono3 a,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono4 a,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono5 a,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono6 a,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono7 a,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono8 a,
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono9 a,
+#aspect_statistics_Navigation_list_statistics .ds-simple-list .icono1 a,
+#aspect_statistics_Navigation_list_statistics .ds-simple-list .icono2 a,
+#aspect_statistics_Navigation_list_statistics .ds-simple-list .icono3 a,
+#aspect_viewArtifacts_Navigation_list_context .ds-simple-list .icono2 a,
+#aspect_viewArtifacts_Navigation_list_context .ds-simple-list .icono3 a,
+#aspect_viewArtifacts_Navigation_list_context .ds-simple-list .icono4 a,
+#aspect_viewArtifacts_Navigation_list_context .ds-simple-list .icono5 a{
+    width: 153px;
+     
+    height: auto;
+    padding: 10px 3px 10px 10px;
+    text-align: left;
+    float: left;
+    font-size: 1.2em;
+    font-weight: 400;
+}
+
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono3 {
+    
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono3 a {
+    
+}
+
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono4 {
+    
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono4 a {
+    
+}
+
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono5 {
+    
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono5 a {
+    
+}
+
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono6 {
+    
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono6 a {
+    
+}
+
+
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono7 {
+    
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono7 a {
+    
+}
+
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono8 {
+    
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono8 a {
+    
+}
+
+
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono9 {
+    
+}
+
+#aspect_viewArtifacts_Navigation_list_administrative .ds-options-list .icono9 a {
+    
+}
+
+
+
+
+
+/*MENU NAVIGATION LIST STATICS*/
+#aspect_statistics_Navigation_list_statistics{
+  position: relative;
+float: left;
+width: 160px;
+margin-bottom: 33px;
+
+  padding: 0px 3px 15px 3px;
+
+  margin: 0px 0px 30px 0;
+background-color: rgba(0, 0, 0, 0.1);
+-webkit-box-shadow: 0 8px 6px -6px rgb(143, 143, 143);
+-moz-box-shadow: 0 8px 6px -6px rgb(143, 143, 143);
+box-shadow: 0 8px 6px -6px rgb(143, 143, 143);
+-webkit-border-bottom-right-radius: 5px;
+-webkit-border-bottom-left-radius: 5px;
+-moz-border-radius-bottomright: 5px;
+-moz-border-radius-bottomleft: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+}
+
+div#ds-feed-option li
+{
+    padding-top: 7px;
+}
+
+div#ds-feed-option a
+{
+    padding: 0px 0px 2px 20px;
+}
+
+div#ds-feed-option ul
+{
+    list-style-type:none;
+}
+
+input.ds-password-field {
+background-color: rgba(65, 140, 79, 0.06);
+height: 26px;
+border: 1px solid rgba(65, 140, 79, 0.43);
+}
+
+div#ds-footer {
+        float: left;
+        width: 100%;
+        background: url("../images/sepfooter.png") no-repeat;
+        padding-top: 25px;
+        /* padding-bottom: 25px; */
+        margin-top: 25px;
+}
+
+span#ds-footer-logo {
+
+}
+
+div#ds-footer p {
+    font-size: 1em;
+
+    float: left;
+}
+
+div#ds-footer-links {
+        text-align: right;
+        font-size: 1em;
+        float: right;
+        margin-top: -20px;
+}
+
+#rss-links{
+    float: left;
+    
+    width: 100%;
+    margin: -15px 0px 36px 0px;
+}
+
+#rss-links li{
+    float: left;
+    
+    margin: 0px 10px 0px 0px;
+}
+
+#rss-links li a{
+   color:transparent;
+    
+   width: 80px;
+   height: 15px;
+   float: left;
+}
+
+#rss-links li a:hover{
+opacity:0.75;
+}
+
+.rss1-link a{
+    background: url("../images/rss_1.gif") no-repeat;
+    
+}
+
+.rss2-link a{
+    background: url("../images/rss_2.gif") no-repeat;    
+}
+
+.atom-link a{
+    background: url("../images/atom_1.gif") no-repeat;    
+}
+
+div#ds-footer a#ds-logo-link {
+        text-decoration: none;
+        background: url("../images/logo_unlp.png") no-repeat;
+        float: left;
+        height: 32px;
+        width: 245px;  
+        margin-left: 273px;  
+        margin-right: 273px;
+        margin-bottom: 10px;
+}
+
+div.notice {
+     
+        padding: 6px;
+        text-align: center;
+        margin: 10px 0px 20px 0px;
+}
+
+div.notice h1{
+    display: none;
+     
+
+}
+
+div.notice.success p {
+        margin: 0px 0px 0px 0px;
+        padding: 20px;
+        color: #418c4f;
+        text-align: center;
+        font-size:0.9em;
+        background-color: rgba(65, 140, 79, 0.15);
+}
+
+div.notice.failure p {
+         margin: 0px 0px 0px 0px;
+        padding: 20px;
+        color: #A8101C;
+        text-align: center;
+        font-size:0.9em;
+        background-color: rgba(168, 16, 28, 0.15);
+    
+
+}
+
+h1.ds-div-head,h2.ds-div-head,h3.ds-div-head {
+        clear: both;
+}
+
+/* License text display during submission */
+div.license-text {
+      
+        padding: 20px;
+        margin: 20px;
+        margin-top: 5px;
+        font-family: monospace;
+        font-size: 1.1em;
+        color: rgb(0, 0, 0);
+}
+
+div#NoticeTransformer_div_general-message h1.ds-div-head {
+    position: absolute;
+    top: 11px;
+    left: 42px;
+    margin: 0;
+    padding: 0 5px;
+    font-size: small;
+}
+
+p.hidden {
+}
+
+span.fade {
+    color: gray;
+    font-size: 90%;
+}
+
+span.fade a {
+    color: gray;
+    text-decoration: none;
+}
+
+span.fade a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+span.warn {
+    color: red;
+    font-weight: bolder;
+}
+
+/* System-wide alerts */
+div#ds-system-wide-alert {
+    background-color: rgb(255, 255, 240);
+    
+    padding: 6px;
+        margin: 10px 30px 10px 30px;
+    color: rgb(213, 80, 40);
+}
+
+
+/* admin tabs */
+form.administrative{
+  border-top: 0px;
+  width: inherit;
+}
+
+form.administrative fieldset{
+  margin: 0;
+  width: auto;
+}
+form.administrative h3{
+  margin: 7px;
+}
+form.administrative table{
+  width: 100%;
+}
+
+#aspect_administrative_eperson_ManageEPeopleMain_list_actions .even{
+    background: none;
+    
+}
+
+form#administrative_item_FindItemForm_div_find-item{
+  border: 0px;
+  margin-left: 0px;
+}
+
+ul.horizontal
+{
+    float: left;
+
+    background: rgba(0, 0, 0, 0.1); -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; 
+    width: 570px; 
+    margin: 20px 0px 20px 0px;
+    padding: 20px 0px 20px 0px;
+}
+
+ul.horizontal li
+{
+    float: left;
+
+}
+
+
+ul.horizontal a{
+    padding: 10px;
+
+}
+
+ul.horizontal a:hover { 
+    color: #418c4f !important;
+    font-weight:400;
+}
+
+ul.horizontal li span.bold a{
+    color: #418c4f !important;  
+    font-weight: 600;
+}
+
+
+/** Additions for Authority Control elements **/
+/* for scriptaculous autocomplete */
+div.autocomplete {
+  position:absolute;
+  width:250px;
+  background-color:white;
+  margin:0;
+  padding:0;
+}
+div.autocomplete ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+}
+div.autocomplete ul li.selected { background-color: #ffb;}
+div.autocomplete ul li {
+  list-style-type:none;
+  display:block;
+  margin:0;
+  padding:2px;
+/*  height:32px; */
+  cursor:pointer;
+}
+div.autocomplete ul li span.value { display:none; }
+
+/* this magic gets the 16x16 icon to show up.. setting height/width didn't
+   do it, but adding padding actually made it show up. */
+img.ds-authority-confidence
+{ width: 16px; height: 16px; margin: 0px 2px; padding: 0px; vertical-align: bottom; display: none;}
+
+img.ds-authority-confidence.cf-unset
+  { background: transparent url(../images/confidence/bug.png); }
+img.ds-authority-confidence.cf-novalue
+  /* { background: transparent } */
+  { background: transparent url(../images/confidence/3-circleslash.gif); }
+img.ds-authority-confidence.cf-rejected,
+img.ds-authority-confidence.cf-failed
+  { background: transparent url(../images/confidence/2-errortriangle.gif); }
+img.ds-authority-confidence.cf-notfound
+  { background: transparent url(../images/confidence/3-thumb2.gif); }
+img.ds-authority-confidence.cf-ambiguous
+  { background: transparent url(../images/confidence/4-question.gif); }
+img.ds-authority-confidence.cf-uncertain
+  { background: transparent url(../images/confidence/5-pinion.gif); }
+img.ds-authority-confidence.cf-accepted
+  { background: transparent url(../images/confidence/6-thumb2.gif); }
+
+/* hide authority-value inputs in forms */
+input.ds-authority-value { display:none; }
+/** XXX Change to this to get the authority value to show up for debugging:
+ input.ds-authority-value { display:inline; }
+**/
+
+/* ..except, show authority-value inputs in on the Item EditMetadata page */
+input.ds-authority-value.ds-authority-visible { display: inline; }
+
+/* for lock button */
+input.ds-authority-lock
+  { vertical-align: bottom; height: 24px; width:
+    24px; background-repeat: no-repeat; background-color: transparent; }
+input.ds-authority-lock.is-locked
+  { background-image: url(../images/lock24.png); }
+input.ds-authority-lock.is-unlocked
+  { background-image: url(../images/unlock24.png); }
+
+
+/* Example of authority display: this makes authors with an authority
+   value show up as red in the item summary view: */
+span.ds-dc_contributor_author-authority { color: #982521; }
+
+/* Prevent display of COinS span - nonspacing break in span to fix closing tag
+also causes a newline in some browsers */
+
+span.Z3988 {
+  width: 40px;
+  height: 0px;
+  display: inherit;
+}
+
+
+
+
+form.discover-search-box div.ds-form-content,
+form.discover-sort-box div.ds-form-content
+{
+    width: auto;
+}
+
+form.discover-search-box div.ds-form-content input.update-filters{
+    margin-left: 145px;
+}
+
+form.discover-sort-box select{
+    margin: 0 4px;
+}
+
+
+.hidden {
+}
+
+.icon-button{
+    padding:4px;
+    cursor: pointer;
+    margin: 2px;
+    background-color: #E6E6E6;
+    border: 1px solid #D3D3D3;
+    text-indent: -1000px;
+    width: 30px;
+    height: 30px;
+    display:block;
+    /*Required for IE*/
+    font-size: 0;
+    line-height: 0;
+}
+
+.icon-button.ds-button-field[disabled="disabled"],
+.icon-button.ds-button-field[disabled=""],
+.icon-button.ds-button-field.disabled {
+    opacity: 0.35
+}
+
+
+.icon-button.arrowUp{
+    background-image: url(../images/arrow_up_444444_16x16.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.icon-button.arrowDown{
+    background-image: url(../images/arrow_down_444444_16x16.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+
+/* group items horizontally in a list */
+
+ul.horizontalVanilla
+{
+font-weight: bold;
+list-style-type: none;
+padding: 0px;
+padding-left: 0px;
+padding-bottom: 15px;
+border-left: 1px solid white;
+border-right: 1px solid white;
+margin: 10px -1px 5px -1px;
+width: inherit;
+}
+
+ul.horizontalVanilla li
+{
+float: left;
+height: 100%;
+background-color: rgb(255, 255, 255);
+margin: 2px 2px 0px 2px;
+/* border: 1px solid rgb(240, 240, 210); */
+}
+
+input#aspect_artifactbrowser_FrontPageSearch_field_query {
+    width: 353px;
+    margin: 0px -4px 0px 10px;
+    float: left;
+    height: 31px;
+}
+
+#aspect_artifactbrowser_FrontPageSearch_field_query {
+    width: 500px;
+}
+
+/*  FOOTER  */
+
+#contacto{
+    background: rgba(0, 0, 0, 0.1);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;  
+    width: 140px;
+    height: 35px;
+    margin-bottom: 20px;
+}
+
+#contacto:hover{
+    background: rgba(0, 0, 0, 0.3);
+}
+
+#contacto a{
+    background: url("../images/contacto.png") no-repeat;
+    float: left;
+    padding: 13px 20px 11px 45px;
+    background-position: 0px 3px;
+    text-transform: uppercase;
+}
+
+
+#sugerencias{
+     background: rgba(0, 0, 0, 0.1);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;  
+    
+     width: 140px;
+    height: 35px;
+}
+
+#sugerencias:hover{
+     background: rgba(0, 0, 0, 0.3);
+
+}
+
+#sugerencias a{
+    background: url("../images/sugerencias.png") no-repeat;
+    float: left;
+    padding: 12px 10px 10px 45px;
+    background-position: 0px 3px;
+    text-transform: uppercase;
+}
+
+#logoFacultad{
+    background: url("../images/logo_info.png") no-repeat;
+    height: 21px;
+    width: 320px;
+}
+
+#infoFacultad{
+    float: left;
+    margin-top: 5px;
+}
+
+/*BUSCADOR COMUN*/
+.ds-interactive-div.secondary.search{
+ background-image: url("../images/sep_h_content.png");
+background-repeat: no-repeat;
+background-position: 50% 100%;
+margin-bottom: 20px;
+
+ padding-bottom: 30px;   
+}
+
+
+#aspect_artifactbrowser_SimpleSearch_div_search{
+    
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search .h2_title.ds-div-tit.ds-div-head{
+    display: none;
+    
+}
+
+#aspect_artifactbrowser_SimpleSearch_list_search-query{
+    float: left;
+    width: 550px;
+    margin: 0px 0px 0px 0px;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+    padding: 10px 10px 10px 10px;
+    background: rgba(0, 0, 0, 0.1);  
+    -webkit-border-top-left-radius: 5px; -webkit-border-top-right-radius: 5px; -moz-border-radius-topleft: 5px; -moz-border-radius-topright: 5px; border-top-left-radius: 5px; border-top-right-radius: 5px;
+}
+
+#aspect_artifactbrowser_SimpleSearch_table_search-controls{
+    float: left; 
+    width: 570px;   
+    padding: 5px 10px 5px 10px; background: rgba(0, 0, 0, 0.1);
+    
+    -webkit-border-bottom-right-radius: 5px; -webkit-border-bottom-left-radius: 5px; -moz-border-radius-bottomright: 5px; -moz-border-radius-bottomleft: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px;
+    margin: 0px 0px 20px 0px;
+}
+
+#aspect_artifactbrowser_SimpleSearch_list_search-query label,
+#aspect_artifactbrowser_AdvancedSearch_list_search-query label{
+    color: #418c4f !important; 
+    font-size:0.9em !important; 
+    margin: 5px 0px 0px 0px; float: left; 
+    font-weight: 400;
+
+    width: 180px;
+}
+
+#aspect_artifactbrowser_AdvancedSearch_list_search-query .ds-form-content{
+    width: 370px;
+    
+}
+
+#aspect_artifactbrowser_SimpleSearch_list_search-query li{
+    float: left;
+    margin: 0px 0px 10px 0px;
+}
+
+#aspect_artifactbrowser_SimpleSearch_field_query{
+    width: 355px;
+}
+
+#aspect_artifactbrowser_SimpleSearch_field_rpp,
+#aspect_artifactbrowser_SimpleSearch_field_sort_by,
+#aspect_artifactbrowser_SimpleSearch_field_order{
+    margin: 5px 0px 0px 0px;
+    
+}
+
+#aspect_artifactbrowser_SimpleSearch_field_scope{
+    margin-top: 4px;
+    
+    width: 150px;
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results{
+    width: 570px;
+    
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results h3{
+    margin: 40px 0px 10px 0px !important;
+    
+}
+
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results ul#community-list,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results ul#community-list,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission ul#community-list,
+#aspect_artifactbrowser_CommunityViewer_div_community-view ul#community-box,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission ul#community-list{
+    list-style: none;
+    width: 570px;
+    float: left;
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list li,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results ul#community-list li,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission ul#community-list li,
+#aspect_artifactbrowser_CommunityViewer_div_community-view ul#community-box li,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list li{
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+    width: 100%;
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list li a,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list li a,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list li a,
+#aspect_artifactbrowser_CommunityViewer_div_community-view ul#community-box li a,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list li a{
+    font-weight: 100;
+    font-size: 1.1em;
+    width: 550px;
+    display: block;
+    padding: 10px;
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list li.odd a,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list li.odd a,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list li.odd a,
+#aspect_artifactbrowser_CommunityViewer_div_community-view #community-box li.odd a{
+    background: rgba(0, 0, 0, 0.10);
+    font-weight: 100; 
+    font-size: 1.1em; 
+    width: 550px; 
+    display: block; 
+    padding: 10px;
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list li.odd a:hover,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list li.odd a:hover,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list li.odd a:hover,
+#aspect_artifactbrowser_CommunityViewer_div_community-view #community-box li.odd a:hover{
+    background: rgba(0, 0, 0, 0.2);
+
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list li.even a,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list li.even a,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list li.even a,
+#aspect_artifactbrowser_CommunityViewer_div_community-view #community-box li.even a{
+    background: rgba(0, 0, 0, 0.0);
+    font-weight: 100; 
+    font-size: 1.1em; 
+    width: 550px; 
+    display: block; 
+    padding: 10px;
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list li.even a:hover,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list li.even a:hover,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list li.even a:hover,
+#aspect_artifactbrowser_CommunityViewer_div_community-view #community-box li.even a:hover {
+    background: rgba(0, 0, 0, 0.05);
+
+}
+
+
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .odd .artifact-description,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .odd .artifact-description,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .odd .artifact-description,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .odd .artifact-description{
+    background: rgba(0, 0, 0, 0.10);
+    
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .odd .artifact-description:hover,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .odd .artifact-description:hover,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .odd .artifact-description:hover,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .odd .artifact-description:hover{
+    background: rgba(0, 0, 0, 0.2);
+    
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .artifact-description .artifact-info,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .artifact-description .artifact-info,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .artifact-description .artifact-info,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .artifact-description .artifact-info{
+    margin: 0px 10px 0px 10px;
+    padding: 15px 0px 10px 0px;
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .artifact-description .artifact-title a,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .artifact-description .artifact-title a,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .artifact-description .artifact-title a
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .artifact-description .artifact-title a{
+    font-size: 1.1em;
+    width: 550px;
+    height: 60px !important;
+    padding:10px !important;
+    display: block;
+}
+
+
+
+
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .artifact-description .artifact-info .author,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .artifact-description .artifact-info .author,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .artifact-description .artifact-info .author,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .artifact-description .artifact-info .author {
+    display: block;
+    margin: 0px 0px 5px 0px;
+    border-top: 1px solid #CCC;
+    padding: 5px 0px 0px 15px;
+    color: #000;
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .artifact-description .artifact-info .author:before,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .artifact-description .artifact-info .author:before,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .artifact-description .artifact-info .author:before,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .artifact-description .artifact-info .author:before {
+content: "Autor:";
+margin:0px 5px 0px 0px;
+color: #25729a;
+    
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .artifact-description .artifact-info .publisher-date,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .artifact-description .artifact-info .publisher-date,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .artifact-description .artifact-info .publisher-date,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .artifact-description .artifact-info .publisher-date{
+    padding: 5px 0px 0px 15px;
+
+    
+    color: #000;
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .artifact-description .artifact-info .publisher-date:before,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .artifact-description .artifact-info .publisher-date:before,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .artifact-description .artifact-info .publisher-date:before,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .artifact-description .artifact-info .publisher-date:before{
+content: "Fecha:";
+margin:0px 5px 0px 0px;
+color: #25729a;
+    
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .artifact-description .artifact-title,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .artifact-description .artifact-title,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .artifact-description .artifact-title,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .artifact-description .artifact-title{
+    position: absolute;
+    
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .odd .artifact-description .artifact-title,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .odd .artifact-description .artifact-title,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .odd .artifact-description .artifact-title,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .odd .artifact-description .artifact-title{
+    float: left;
+    
+    position: absolute;
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .odd .artifact-description .artifact-title a,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .odd .artifact-description .artifact-title a,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .odd .artifact-description .artifact-title a,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .odd .artifact-description .artifact-title a{
+
+}
+
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .odd .artifact-description .artifact-info,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .odd .artifact-description .artifact-info,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .odd .artifact-description .artifact-info,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .odd .artifact-description .artifact-info{
+
+    
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .even .artifact-description,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .even .artifact-description,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .even .artifact-description,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .even .artifact-description{
+    
+}
+
+#aspect_artifactbrowser_SimpleSearch_div_search-results #community-list .even .artifact-description:hover,
+#aspect_artifactbrowser_AdvancedSearch_div_search-results #community-list .even .artifact-description:hover,
+#aspect_artifactbrowser_CollectionRecentSubmissions_div_collection-recent-submission #community-list .even .artifact-description:hover,
+#aspect_artifactbrowser_CommunityRecentSubmissions_div_community-recent-submission #community-list .even .artifact-description:hover {
+    background: rgba(0, 0, 0, 0.05);    
+}
+
+
+
+
+
+
+
+/*  BUSQUEDA AVANZADA  */
+
+#aspect_artifactbrowser_AdvancedSearch_div_advanced-search{
+    margin-top: 10px;
+    float: left;
+}
+
+#aspect_artifactbrowser_AdvancedSearch_list_search-query{
+    float: left; width: 550px; margin: 0px 0px 0px 0px; border-bottom: 1px dashed rgba(0, 0, 0, 0.14); 
+    padding: 10px 10px 20px 10px; background: rgba(0, 0, 0, 0.1); -webkit-border-top-left-radius: 5px; -webkit-border-top-right-radius: 5px; -moz-border-radius-topleft: 5px; -moz-border-radius-topright: 5px; border-top-left-radius: 5px; border-top-right-radius: 5px;
+}
+
+#aspect_artifactbrowser_AdvancedSearch_field_scope{
+
+}
+
+#aspect_artifactbrowser_AdvancedSearch_table_search-query{
+    background: rgba(0, 0, 0, 0.1);   
+    width: 570px;
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+}
+
+#aspect_artifactbrowser_AdvancedSearch_table_search-query th{
+    font-weight: 100;
+
+    font-size:0.9em;
+}
+
+#aspect_artifactbrowser_AdvancedSearch_field_field1,
+#aspect_artifactbrowser_AdvancedSearch_field_field2,
+#aspect_artifactbrowser_AdvancedSearch_field_field3{
+    width: 162px;
+    
+}
+
+#aspect_artifactbrowser_AdvancedSearch_table_search-query tbody .ds-table-cell.even{ 
+
+}
+
+
+
+#aspect_artifactbrowser_AdvancedSearch_table_search-controls{
+    float: left; 
+    width: 570px; 
+    padding: 5px 10px 5px 10px; 
+    background: rgba(0, 0, 0, 0.1); 
+    -webkit-border-bottom-right-radius: 5px; 
+    -webkit-border-bottom-left-radius: 5px; 
+    -moz-border-radius-bottomright: 5px; 
+    -moz-border-radius-bottomleft: 5px; 
+    border-bottom-right-radius: 5px; 
+    border-bottom-left-radius: 5px; 
+    margin: 0px 0px 20px 0px;
+    
+}
+
+#aspect_artifactbrowser_AdvancedSearch_field_submit,
+#aspect_artifactbrowser_SimpleSearch_field_submit{
+    width: 100px;
+}
+
+#aspect_artifactbrowser_AdvancedSearch_field_query1,
+#aspect_artifactbrowser_AdvancedSearch_field_query2,
+#aspect_artifactbrowser_AdvancedSearch_field_query3{
+    width: 275px;
+    
+}
+
+.ds-table-header-cell.even{
+    
+}
+
+#aspect_artifactbrowser_AdvancedSearch_p_result-query,
+#aspect_artifactbrowser_SimpleSearch_p_result-query{
+    text-align: center;
+    
+    margin: 10px;
+    font-style: italic;
+    font-size: 0.8em;
+    display: none;
+}
+
+
+
+/*VISUALIZAR POR AUTOR*/
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author,
+#aspect_administrative_WithdrawnItems_div_browse-by-withdrawn{
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-navigation,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title #aspect_artifactbrowser_ConfigurableBrowse_div_browse-navigation,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-navigation{ 
+    
+}
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author ul#aspect_artifactbrowser_ConfigurableBrowse_list_jump-list,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title ul#aspect_artifactbrowser_ConfigurableBrowse_list_jump-list,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject ul#aspect_artifactbrowser_ConfigurableBrowse_list_jump-list,
+#aspect_administrative_WithdrawnItems_list_jump-list,
+#aspect_administrative_PrivateItems_list_jump-list{
+    margin: 10px 15px 10px 15px;
+    padding-bottom: 15px; 
+    background: url("../images/bg_sep.png") repeat-x; background-position: bottom;
+    text-transform: uppercase;
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author ul#aspect_artifactbrowser_ConfigurableBrowse_list_jump-list li,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title ul#aspect_artifactbrowser_ConfigurableBrowse_list_jump-list li,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject ul#aspect_artifactbrowser_ConfigurableBrowse_list_jump-list li{
+
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author ul#aspect_artifactbrowser_ConfigurableBrowse_list_jump-list li a,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title #aspect_artifactbrowser_ConfigurableBrowse_list_jump-list li a,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_list_jump-list li a,
+#aspect_administrative_WithdrawnItems_list_jump-list li a,
+#aspect_administrative_PrivateItems_list_jump-list li a{
+    color: #A8101C;
+    font-size:0.9em;
+}
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author ul#aspect_artifactbrowser_ConfigurableBrowse_list_jump-list li a:hover,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title ul#aspect_artifactbrowser_ConfigurableBrowse_list_jump-list li a:hover,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject ul#aspect_artifactbrowser_ConfigurableBrowse_list_jump-list li a:hover{
+    color:#000;
+}
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author .ds-paragraph{
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author .ds-paragraph input#aspect_artifactbrowser_ConfigurableBrowse_field_starts_with{
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author .ds-paragraph input#aspect_artifactbrowser_ConfigurableBrowse_field_submit,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title .ds-paragraph input#aspect_artifactbrowser_ConfigurableBrowse_field_submit,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject .ds-paragraph input#aspect_artifactbrowser_ConfigurableBrowse_field_submit{
+}
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls,
+#aspect_administrative_PrivateItems_div_browse-controls{
+    width: 100%;
+    padding: 10px 5px 10px 5px;
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls .ds-paragraph,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls .ds-paragraph,
+#aspect_administrative_WithdrawnItems_div_browse-controls .ds-paragraph,
+#aspect_administrative_PrivateItems_div_browse-controls .ds-paragraph
+{
+    float: left;
+
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls input,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls input {
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-title #aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls input{
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-controls #aspect_artifactbrowser_ConfigurableBrowse_field_order{
+
+}
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results{
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results ul#community-list,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject-results ul#community-list{
+    width: 580px;
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-author-results{
+    
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-author-results .ds-table-header-row .ds-table-header-cell,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-subject-results .ds-table-header-row .ds-table-header-cell{
+    font-size: 1.1em;
+    text-transform: uppercase;
+    color: #418c4f;
+    padding: 0px;
+    margin: 0px 0px 10px 0px;
+    float: left;
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-author-results .ds-table-row,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-subject-results .ds-table-row {
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-author-results .ds-table-row.even,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-subject-results .ds-table-row.even {
+    width: 570px;
+    float: left;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+     
+    background: rgba(0, 0, 0, 0.10);
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-author-results .ds-table-row.even:hover,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-subject-results .ds-table-row.even:hover {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-author-results .ds-table-row.odd,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-subject-results .ds-table-row.odd { 
+    width: 570px; 
+    float: left;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+ }
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-author-results .ds-table-row.odd:hover,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-subject-results .ds-table-row.odd:hover {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-author-results .ds-table-row .ds-table-cell,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-subject-results .ds-table-row .ds-table-cell { 
+    font-weight: 100; font-size: 1.2em; 
+   width: 550px; display: block;
+
+ padding: 10px;}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-author-results .ds-table-row .ds-table-cell:hover,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-subject-results .ds-table-row .ds-table-cell:hover {
+
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-author-results .ds-table-row .ds-table-cell a,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-subject-results .ds-table-row .ds-table-cell a{
+  
+    float: left;
+    text-align: left;
+    font-weight: 400;
+    font-style: normal;
+    display: block;
+    width: 525px;
+}
+
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-author-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-author-results .ds-table-row .ds-table-cell a:hover,
+#aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject #aspect_artifactbrowser_ConfigurableBrowse_div_browse-by-subject-results ul#community-list #aspect_artifactbrowser_ConfigurableBrowse_table_browse-by-subject-results .ds-table-row .ds-table-cell a:hover{
+
+
+}
+
+
+
+
+
+
+
+
+
+/*LISTADO DE CONTENIDO*/
+ul#community-list .ds-artifact-item{  
+}
+
+ul#community-list .ds-artifact-item.odd {
+    
+}
+
+ul#community-list .ds-artifact-item.even {
+    
+}
+
+ul#community-list .ds-artifact-item .artifact-description{
+    
+}
+
+ul#community-list .ds-artifact-item .artifact-description .artifact-title{
+    
+}
+
+ul#community-list .ds-artifact-item .artifact-description .artifact-title a{
+    background: none !important;
+}
+
+.artifact-description .artifact-title a{
+    height: 60px;
+}
+
+
+ul#community-list .ds-artifact-item .artifact-description .artifact-title a:hover{
+    color: #000;
+}
+
+ul#community-list .ds-artifact-item .artifact-description .artifact-info{
+    color: #25729a;
+    
+}
+
+ul#community-list .ds-artifact-item .artifact-description .artifact-info .author{
+    
+}
+
+ul#community-list .ds-artifact-item .artifact-description .artifact-info .publisher-date{
+    
+}
+
+
+/*METODO DE ACCESO*/
+#aspect_eperson_LoginChooser_div_login-chooser{
+    margin-top: 20px;
+    
+    float: left;
+    width: 570px;
+}
+
+#aspect_eperson_LoginChooser_div_login-chooser .ds-paragraph{
+  display:none;  
+}
+
+#aspect_eperson_LoginChooser_div_login-chooser ul{
+    list-style: none;
+    float: left;
+}
+
+#aspect_eperson_LoginChooser_div_login-chooser ul li{
+    margin-bottom: 23px;
+    float: left;
+}
+
+#aspect_eperson_LoginChooser_div_login-chooser ul li #_password-login{
+
+}
+
+#aspect_eperson_LoginChooser_div_login-chooser ul li #_ldap-login{
+
+}
+
+#aspect_eperson_LoginChooser_div_login-chooser ul li a{
+    float: left;
+    width: 130px;
+    margin: 0px 60px 0px 60px;
+}
+
+/*LDAP LOGIN*/
+#aspect_eperson_LDAPLogin_div_login{
+    float: left;
+    
+    margin-top: 20px;
+}
+
+#aspect_eperson_LDAPLogin_div_login ul#aspect_eperson_LDAPLogin_list_ldap-login{
+    list-style: none;
+  
+}
+
+#aspect_eperson_LDAPLogin_div_login ul#aspect_eperson_LDAPLogin_list_ldap-login li{
+    float: left;
+  
+}
+
+
+#aspect_eperson_LDAPLogin_div_login ul#aspect_eperson_LDAPLogin_list_ldap-login li input{
+    width: 150px;
+  
+    margin: 0px 20px 0px 0px;
+}
+
+#aspect_eperson_LDAPLogin_div_login ul#aspect_eperson_LDAPLogin_list_ldap-login li input#aspect_eperson_LDAPLogin_field_username{
+  
+}
+
+#aspect_eperson_LDAPLogin_div_login ul#aspect_eperson_LDAPLogin_list_ldap-login li input#aspect_eperson_LDAPLogin_field_ldap_password{
+  
+}
+
+#aspect_eperson_LDAPLogin_div_login ul#aspect_eperson_LDAPLogin_list_ldap-login li input#aspect_eperson_LDAPLogin_field_submit{
+    
+}
+
+/*PASS LOGIN*/
+#aspect_eperson_PasswordLogin_div_login{
+    float: left; margin-top: 20px;
+}
+
+#aspect_eperson_PasswordLogin_div_login ul#aspect_eperson_PasswordLogin_list_password-login{
+    list-style: none;
+    float: left;
+}
+
+#aspect_eperson_PasswordLogin_div_login ul li{
+    float:left;
+    width: 175px;
+}
+
+#aspect_eperson_PasswordLogin_div_login ul li a{
+    margin: 0px 0px 0px 0px;
+}
+
+
+#aspect_eperson_PasswordLogin_div_login ul li input{
+    width: 150px;
+    margin: 0px 20px 5px 0px;
+}
+
+#aspect_eperson_PasswordLogin_div_login ul li input#aspect_eperson_PasswordLogin_field_login_email{
+
+}
+
+#aspect_eperson_PasswordLogin_div_login ul li input#aspect_eperson_PasswordLogin_field_login_password{
+
+}
+
+#aspect_eperson_PasswordLogin_div_login ul li input#aspect_eperson_PasswordLogin_field_submit{
+
+}
+
+#aspect_eperson_PasswordLogin_div_register{
+    
+}
+
+
+#aspect_eperson_PasswordLogin_div_register a{
+    margin: 9px 0px 0px 0px;
+    
+    float: left;
+}
+
+
+
+/*REGISTAR NUEVO USUARIO*/
+#aspect_eperson_StartRegistration_div_register{
+    float: left;
+}
+
+#aspect_eperson_StartRegistration_list_form{
+    width: 100%;
+    
+    margin: 10px 0px 10px 0px;
+}
+
+#aspect_eperson_StartRegistration_field_submit_forgot{
+    float: right;
+    
+    margin: 15px 0px 0px 0px;
+}
+
+#aspect_eperson_StartRegistration_list_form .ds-table-row{
+    background: none;
+    
+}
+
+
+
+#aspect_eperson_StartRegistration_div_register ul{
+    list-style: none;
+
+    float: left;
+    width: 100%;
+}
+
+#aspect_eperson_StartRegistration_div_register #aspect_eperson_StartRegistration_list_registration-progress,
+#aspect_eperson_EditProfile_list_registration-progress{
+    text-align: center; 
+    -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;
+    padding: 10px;
+    margin: 20px 0px 20px 0px;
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 550px;
+}
+
+#aspect_eperson_StartRegistration_div_register #aspect_eperson_StartRegistration_list_form{
+    margin: 10px 0px 0px 0px;
+    
+}
+
+#aspect_eperson_StartRegistration_list_form .ds-form-content{
+    width: 400px;
+
+    
+}
+
+
+
+
+#aspect_eperson_StartRegistration_div_register #aspect_eperson_StartRegistration_list_form li{
+}
+
+#aspect_eperson_StartRegistration_div_register #aspect_eperson_StartRegistration_list_form #aspect_eperson_StartRegistration_field_email{
+    width: 175px;
+    margin-right: 25px;
+}
+
+#aspect_eperson_StartRegistration_field_email{
+    float: left !important;
+    
+    margin: 0px !important;
+}
+
+#aspect_eperson_StartRegistration_div_register #aspect_eperson_StartRegistration_list_form #aspect_eperson_StartRegistration_field_submit{
+
+}
+
+#aspect_eperson_StartRegistration_field_submit{
+    float: right !important;
+    
+}
+
+/*SUGERENCIAS*/
+#aspect_artifactbrowser_FeedbackForm_div_feedback-form{
+    float: left;
+    
+}
+
+#aspect_artifactbrowser_FeedbackForm_div_feedback-form ul{
+    list-style: none;
+}
+
+#aspect_artifactbrowser_FeedbackForm_div_feedback-form ul #aspect_artifactbrowser_FeedbackForm_field_email{
+    width: 175px; margin-right: 25px;
+}
+
+#aspect_artifactbrowser_FeedbackForm_list_form{
+    margin: 10px 0px 0px 0px;
+}
+
+#aspect_artifactbrowser_FeedbackForm_list_form .ds-form-content{
+    width: 415px;
+    
+}
+
+#aspect_artifactbrowser_FeedbackForm_div_feedback-form ul #aspect_artifactbrowser_FeedbackForm_field_comments{
+    width: 100%;
+    margin-top: 20px;
+    height: 100px;
+}
+
+#aspect_artifactbrowser_FeedbackForm_field_submit{
+    float: right;
+    margin-top: 10px;
+}
+
+
+/* ITEM */
+#aspect_artifactbrowser_ItemViewer_div_item-view span.bold {
+    color: #1c5a85;
+    text-transform: uppercase;
+    font-size:0.9em;
+    font-weight: 400;
+    width: 70px;
+    float: left;
+}
+
+#aspect_artifactbrowser_ItemViewer_div_item-view table.ds-includeSet-table {
+background: url("../images/bg_sep.png") repeat-x;
+background-position: bottom;
+padding: 0px 0px 15px 0px;
+width: 570px;
+font-size:0.9em;
+}
+
+#aspect_artifactbrowser_ItemViewer_div_item-view .item-view-toggle.item-view-toggle-top {
+    display: none;
+}
+
+#aspect_artifactbrowser_ItemViewer_div_item-view .item-view-toggle a{
+
+}
+
+#aspect_artifactbrowser_ItemViewer_div_item-view .item-view-toggle.item-view-toggle-bottom{
+    float: right;
+
+    margin: 50px 0px 20px 0px;
+}
+
+#aspect_artifactbrowser_ItemViewer_div_item-view .item-view-toggle.item-view-toggle-bottom a{
+    float: right;
+    margin: 0px 0px 10px 0px;
+}
+
+#aspect_artifactbrowser_ItemViewer_div_item-view h2 {
+    text-align: center;
+    margin: 30px 0px 10px 0px !important; 
+}
+
+#aspect_artifactbrowser_ItemViewer_div_item-view h3 {
+    margin-top: 25px !important;
+}
+
+#aspect_artifactbrowser_ItemViewer_div_item-view ul.ds-referenceSet-list {
+    list-style: none;
+
+}
+
+#aspect_artifactbrowser_ItemViewer_div_item-view ul.ds-referenceSet-list li {
+padding: 5px 0px 5px 0px;
+border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+}
+
+#aspect_artifactbrowser_ItemViewer_div_item-view ul.ds-referenceSet-list li .ds-strength {
+    font-style: italic;
+
+}
+
+
+
+#aspect_artifactbrowser_ItemViewer_div_item-view ul.ds-referenceSet-list a {
+}
+
+
+
+#aspect_artifactbrowser_ItemViewer_div_item-view  .file-list td {
+    list-style: none;
+
+    padding: 10px 5px 10px 5px;
+}
+
+
+#aspect_artifactbrowser_ItemViewer_div_item-view table.ds-table.file-list {
+background: rgba(0, 0, 0, 0.1);
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+width: 100%; 
+margin: 0px 0px 50px 0px;
+}
+
+#aspect_artifactbrowser_ItemViewer_div_item-view table.ds-table.file-list .ds-table-header-row {
+    display: none;
+
+}
+
+
+
+#aspect_artifactbrowser_ItemViewer_div_item-view table.ds-table.file-list a {
+background: url("../images/download.png") no-repeat;
+padding: 20px 10px 20px 60px;
+background-position: 5px 5px;
+margin: 0px 0px 0px 0px;
+float: left;
+}
+
+.dropbox-dropin-btn, .dropbox-dropin-btn:link{
+display: inline-block !important;
+height: 27px  !important;
+font-family: arial,sans-serif !important;
+font-size: 11px  !important;
+font-weight: normal  !important;
+color: #181818 !important;
+text-decoration: none  !important;
+padding: 0px 0px 0px 0px  !important;
+margin: 0px 0px 0px 0px !important;
+border-radius: 1px  !important;
+
+background: #ededed  !important;
+background: -moz-linear-gradient(top,#f5f5f5,#e6e6e6)  !important;
+background: -webkit-linear-gradient(top,#f5f5f5,#e6e6e6)  !important;
+background: linear-gradient(top,#f5f5f5,#e6e6e6)  !important;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fcfcfc', endColorstr='#f5f5f5',GradientType=0)  !important;    
+width: 67px !important;
+white-space: nowrap;
+cursor: pointer !important;
+overflow: hidden;
+}
+
+.dropbox-dropin-btn:hover{
+display: inline-block !important;
+height: 27px  !important;
+font-family: arial,sans-serif;
+font-size: 11px  !important;
+font-weight: normal  !important;
+color: #181818 !important;
+text-decoration: none  !important;
+padding: 0px 0px 0px 0px  !important;
+margin: 0px 0px 0px 0px !important;
+border: 1px solid #ccc !important;
+border-radius: 1px  !important;
+border-bottom-color: 1px solid #ccc !important;    
+background-color:#e8e8e8 !important;
+background-image:-webkit-linear-gradient(top,#f0f0f0,#e1e1e1) !important;
+background-image:-moz-linear-gradient(top,#f0f0f0,#e1e1e1) !important;
+background-image:-ms-linear-gradient(top,#f0f0f0,#e1e1e1) !important;
+background-image:-o-linear-gradient(top,#f0f0f0,#e1e1e1) !important;
+background-image:linear-gradient(top,#f0f0f0,#e1e1e1) !important;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fcfcfc', endColorstr='#f5f5f5',GradientType=0)  !important;    
+width: 67px !important;
+white-space: nowrap;
+cursor: pointer !important;
+}
+
+.dropbox-dropin-btn .dropin-btn-status {
+display: inline-block !important;
+width: 15px !important;
+height: 14px !important;
+vertical-align: bottom !important;
+margin: 5px 3px 0px 4px !important;
+position: relative !important;
+top: 2px !important;
+}
+
+
+#item-view-gpl{
+     background: url("../images/gpl.png") no-repeat;   
+ color: transparent;
+ width: 55px;
+ height: 20px;
+ float: left; 
+}
+
+#item-view-cc{
+ background: url("../images/cc.png") no-repeat;   
+ color: transparent;
+ width: 100px;
+ height: 20px;
+ float: left;
+}
+
+
+/*PERFIL USUARIO*/
+
+#aspect_eperson_EditProfile_div_information{
+    float: left;
+    
+}
+
+#aspect_eperson_EditProfile_list_form .ds-form-item.last input{
+    float: right;
+    
+}
+
+#aspect_eperson_EditProfile_div_information h3{
+
+    
+    
+}
+
+#aspect_eperson_EditProfile_div_information ul{
+    list-style: none;
+    
+}
+
+#aspect_eperson_EditProfile_div_information ul#aspect_eperson_EditProfile_list_form{
+
+    
+}
+
+#aspect_eperson_EditProfile_div_information ul#aspect_eperson_EditProfile_list_form li{float: left; width: 100%; margin: 0px 0px 20px 0px; 
+border-bottom: 1px dashed rgba(0, 0, 0, 0.14); padding: 0px 0px 20px 0px;
+}
+
+#aspect_eperson_EditProfile_div_information ul#aspect_eperson_EditProfile_list_form li ul li{
+background-image: none;
+margin: 0px;
+padding: 0px;
+border: none;
+}
+
+
+#aspect_eperson_EditProfile_div_information p{
+    list-style: none;
+    
+}
+
+#aspect_eperson_EditProfile_div_information ul li{
+    
+}
+
+#aspect_eperson_EditProfile_div_information ul li h3{
+    
+}
+
+#aspect_eperson_EditProfile_div_information ul li ul{
+    list-style: initial;
+    
+}
+
+
+#aspect_eperson_EditProfile_div_information ul li ul li{
+    padding:0px;
+    margin:0px;
+    background:none;
+}
+
+#aspect_eperson_EditProfile_list_identity{
+    margin: 0px 0px 50px 0px;
+    
+}
+
+
+#aspect_eperson_EditProfile_list_identity li{
+    margin: 10px 0px 0px 0px !important;
+    
+    font-weight: bold;
+    font-style: italic;
+    padding: 5px 0px 5px 0px;
+}
+
+#aspect_eperson_EditProfile_list_identity li input{
+    width: 167px;
+}
+
+#aspect_eperson_EditProfile_list_subscriptions .ds-form-content{
+    width: 100%;
+    
+}
+
+#aspect_eperson_EditProfile_list_subscriptions li{
+    font-style: italic;
+    
+    margin: 0px 0px 10px 0px !important;
+}
+
+#aspect_eperson_EditProfile_list_subscriptions li select{
+    
+}
+
+#aspect_eperson_EditProfile_list_subscriptions .ds-previous-values {
+    float: left;
+    
+    margin: 20px 0px 0px 0px;
+    width: 100%;
+}
+
+#aspect_eperson_EditProfile_list_subscriptions .ds-previous-values input {
+    float: left;
+
+}
+
+#aspect_eperson_EditProfile_list_subscriptions li input{
+    float: right;
+    
+}
+
+#aspect_eperson_EditProfile_list_subscriptions .ds-previous-values .ds-button-field.ds-delete-button {
+    float: right !important;
+    
+}
+
+#aspect_eperson_EditProfile_list_security{
+    
+}
+
+#aspect_eperson_EditProfile_list_security li{
+    margin-bottom: 10px !important;
+    
+    font-style: italic;
+}
+
+#aspect_eperson_EditProfile_list_security li input{
+    
+}
+
+#aspect_eperson_EditProfile_div_information ul#aspect_eperson_EditProfile_list_form li input#aspect_eperson_EditProfile_field_submit{
+width: 200px;
+float: none;
+margin: 20px 0px 0px 165px !important;
+display: block;
+height: 35px;
+}
+
+#aspect_eperson_EditProfile_list_memberships{
+    
+}
+
+#aspect_eperson_EditProfile_list_memberships li{
+    
+    font-style: italic;
+    margin: 0px 0px 10px 10px;
+    list-style: initial;
+}
+
+/*SUBMIT*/
+#aspect_submission_StepTransformer_div_submit-initial-questions{
+    float: left;
+    
+    width: 100%;
+}
+
+#aspect_submission_StepTransformer_list_submit-progress{
+    display: none;
+    
+}
+
+#aspect_submission_StepTransformer_list_submit-initial-questions{
+    float: left;
+    width: 100%;
+    list-style: none;
+}
+
+#aspect_submission_StepTransformer_list_submit-initial-questions legend,
+#aspect_submission_StepTransformer_list_submit-describe legend,
+#aspect_submission_StepTransformer_list_submit-upload-new legend,
+#aspect_submission_submit_SelectCollectionStep_list_select-collection legend{
+    text-transform: uppercase; 
+    margin: 10px 0px 5px 0px; 
+    color: #25729a !important; 
+    font-size: 1.1em !important; 
+    font-weight: 400; 
+    border-bottom: 1px solid #25729a; 
+    padding: 5px 0px 5px 5px; 
+    display: block;
+    width: 565px;
+}
+
+#aspect_submission_submit_SelectCollectionStep_list_select-collection{
+    
+}
+
+#aspect_submission_submit_SelectCollectionStep_list_select-collection .ds-form-item.last {
+    float: right;
+    
+}
+
+#aspect_submission_submit_SelectCollectionStep_list_select-collection .ds-form-content{
+    width: 415px;
+    
+    float: right;
+}
+
+#aspect_submission_StepTransformer_list_submit-initial-questions li{
+    float: left;
+    width: 100%;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+    padding: 0px 0px 25px 0px;
+    margin: 0px 0px 25px 0px;
+}
+
+#aspect_submission_StepTransformer_list_submit-initial-questions fieldset{
+
+}
+
+#aspect_submission_StepTransformer_list_submit-initial-questions fieldset legend{
+font-size:0.9em !important;
+color: #4e955b !important;
+font-weight: bolder;
+text-transform: uppercase;
+margin: 0px 0px 0px 20px;
+width: 100%;
+display: inline !important;
+float: left;
+border: none;
+padding: 0;
+}
+
+
+#aspect_submission_StepTransformer_list_submit-initial-questions fieldset label{
+    float: left;
+
+    display: inline;
+    margin: -15px 0px 0px 0px;
+}
+
+#aspect_submission_StepTransformer_list_submit-initial-questions field-help{
+    float: left;
+
+}
+
+#aspect_submission_StepTransformer_field_submit_upload{
+     float: right;   
+}
+
+
+#aspect_submission_StepTransformer_field_submit_cancel{
+    margin: 15px 10px 10px 10px;
+    float: left !important;
+    width: 170px;
+}
+
+#aspect_submission_StepTransformer_field_submit_next{
+    margin: 15px 10px 10px 10px;
+    float: right !important;
+    width: 170px;
+}
+
+#aspect_submission_StepTransformer_field_submit_prev{
+    margin: 15px 10px 10px 10px;
+    float: left !important;    
+    width: 170px;
+}
+
+#aspect_submission_StepTransformer_list_submit-describe{
+    float: left;
+    list-style: none;
+}
+
+#aspect_submission_StepTransformer_list_submit-describe .ds-form-content,
+#aspect_submission_StepTransformer_list_submit-upload-new .ds-form-content{
+    width: 420px;
+    
+}
+
+#aspect_submission_StepTransformer_list_submit-describe li.last .ds-form-content,
+#aspect_submission_StepTransformer_list_submit-upload-new  li.last .ds-form-content{
+    width: 100%;
+    
+}
+
+#aspect_submission_StepTransformer_field_dc_title,
+#aspect_submission_StepTransformer_field_dc_title_alternative,
+#aspect_submission_StepTransformer_field_dc_publisher,
+#aspect_submission_StepTransformer_field_dc_identifier_citation,
+#aspect_submission_StepTransformer_field_trabajo_contacto_autor,
+.ds-form-content input.ds-text-field.submit-text,
+#aspect_submission_StepTransformer_field_description{
+    width: 275px;
+    
+}
+
+.ds-composite-component input.ds-text-field{
+    width: 120px;
+    margin: 0px 25px 5px 0px;
+}
+
+#aspect_submission_StepTransformer_field_dc_date_issued_year,
+#aspect_submission_StepTransformer_field_dc_date_issued_day{
+    width: 64px;
+    margin: 0px;
+}
+
+#aspect_submission_StepTransformer_field_dc_date_issued_month{
+    width: 130px;
+    
+}
+
+
+#aspect_submission_StepTransformer_list_submit-describe a{
+display:none;
+}
+
+#aspect_submission_StepTransformer_list_submit-describe li{
+    float: left;
+
+    width: 100%;
+    margin: 0px 0px 20px 0px;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+    padding: 0px 0px 20px 0px;
+}
+
+#aspect_submission_StepTransformer_list_submit-describe textarea{
+    width: 400px;
+    resize: none;
+    height: 100px;
+}
+
+#aspect_submission_StepTransformer_list_submit-describe li .ds-composite-field{
+    float: left;
+
+    width: 510px;
+    margin: 0px 0px 10px 0px;
+}
+
+#aspect_submission_StepTransformer_list_submit-describe .ds-previous-values{
+    float: left;
+    margin: 15px 0px 0px 0px;
+}
+
+
+
+
+#aspect_submission_StepTransformer_list_submit-describe li .composite-help{
+display:none;
+}
+
+
+
+#aspect_submission_StepTransformer_list_submit-describe .ds-button-field{
+
+}
+
+#aspect_submission_StepTransformer_list_submit-describe .ds-add-button{
+    display: block;
+    margin: 0px 0px 0px 0px; float: right;
+}
+
+#aspect_submission_StepTransformer_list_submit-describe .ds-delete-button{
+    margin: 10px 0px 10px 0px;
+
+}
+
+
+#aspect_submission_StepTransformer_field_dc_identifier_qualifier{
+    width: 125px;
+    
+}
+
+#aspect_submission_StepTransformer_list_submit-describe #aspect_submission_StepTransformer_field_dc_contributor_author_last,
+#aspect_submission_StepTransformer_list_submit-describe #aspect_submission_StepTransformer_field_dc_contributor_author_first,
+#aspect_submission_StepTransformer_field_dc_relation_ispartofseries_series,
+#aspect_submission_StepTransformer_field_dc_relation_ispartofseries_number,
+#aspect_submission_StepTransformer_field_dc_identifier_qualifier,
+#aspect_submission_StepTransformer_field_dc_identifier_value{
+    margin: 0px 25px 5px 0px;
+
+}
+
+
+#aspect_submission_StepTransformer_list_submit-describe #aspect_submission_StepTransformer_field_dc_contributor_author_first{
+
+
+}
+
+#aspect_submission_StepTransformer_field_informatica_requerimientos_sistemaOperativo,
+#aspect_submission_StepTransformer_field_dc_type,
+#aspect_submission_StepTransformer_field_informatica_requerimientos_lenguaje{
+    width: 275px; 
+    height: 70px;
+}
+
+
+#aspect_submission_StepTransformer_div_submit-upload{
+    float: left;
+    
+}
+
+#aspect_submission_StepTransformer_div_submit-upload ul{
+    list-style: none;
+    color: #418c4f !important;
+}
+
+
+
+#aspect_submission_StepTransformer_div_submit-upload ul li{
+width: 100%;
+margin: 0px 0px 40px 0px;
+}
+
+#aspect_submission_StepTransformer_div_submit-upload ul li ul li{
+    border-bottom: none;
+
+    color: #000;
+    margin: 0px 0px 10px 0px;
+}
+
+#aspect_submission_StepTransformer_list_submit-upload-new{
+    float: left;
+    
+    list-style: none;
+}
+
+#aspect_submission_StepTransformer_list_submit-upload-new li{
+    float: left; width: 100%; margin: 0px 0px 20px 0px; border-bottom: 1px dashed rgba(0, 0, 0, 0.14); padding: 0px 0px 20px 0px;
+
+}
+
+#aspect_submission_StepTransformer_list_submit-upload-new-part2{
+    list-style: none;
+    
+}
+
+#aspect_submission_StepTransformer_field_submit_remove_selected{
+    width: auto;
+    
+    float: right;
+}
+
+#aspect_submission_StepTransformer_table_submit-upload-summary{
+    width: 100%;
+    
+}
+
+
+#aspect_submission_StepTransformer_div_submit-edit-file li{
+    float: left;
+
+    width: 100%;
+    margin: 0px 0px 20px 0px;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+    padding: 0px 0px 20px 0px;
+}
+
+#aspect_submission_StepTransformer_div_submit-edit-file{
+    
+}
+
+#aspect_submission_StepTransformer_div_submit-edit-file ul{
+    list-style: none;
+    
+}
+
+#aspect_submission_StepTransformer_div_submit-edit-file #aspect_submission_StepTransformer_field_description,
+#aspect_submission_StepTransformer_div_submit-edit-file #aspect_submission_StepTransformer_field_embargo_until_date{
+    width: 250px;
+    
+}
+
+#aspect_submission_StepTransformer_div_submit-edit-file textarea{
+    width: 400px;
+    resize: none;
+    height: 100px;
+}
+
+#aspect_submission_StepTransformer_field_submit_save{
+    width: 118px;
+    
+}
+
+#aspect_submission_StepTransformer_list_submit-edit-file{
+    
+}
+
+#aspect_submission_StepTransformer_list_submit-review{
+    
+}
+
+#aspect_submission_StepTransformer_div_submit-license #aspect_submission_StepTransformer_list_submit-review{
+    width: 550px;
+    
+    margin: 10px 0px 0px 0px;
+}
+
+#aspect_submission_StepTransformer_div_submit-license #aspect_submission_StepTransformer_list_submit-review .ds-form-label{
+    display: none;
+    
+}
+
+#aspect_submission_StepTransformer_div_submit-license #aspect_submission_StepTransformer_list_submit-review .ds-form-content{
+    width: 550px;
+}
+
+#aspect_submission_StepTransformer_div_submit-license #aspect_submission_StepTransformer_list_submit-review .ds-form-content fieldset{
+    background: none;
+    margin: 0;
+}
+
+#aspect_submission_StepTransformer_div_submit-license #aspect_submission_StepTransformer_list_submit-review .ds-form-content fieldset label input{
+    float: left;
+
+}
+
+
+#aspect_submission_StepTransformer_div_submit-license #aspect_submission_StepTransformer_list_submit-review .ds-form-content fieldset legend {
+width: 525px;
+}
+
+#aspect_submission_StepTransformer_div_submit-license #aspect_submission_StepTransformer_list_submit-review .ds-form-item.last #aspect_submission_StepTransformer_field_submit_prev{
+    margin: 15px 5px 10px 5px;
+    
+    width: 170px;
+}
+
+#aspect_submission_StepTransformer_div_submit-license #aspect_submission_StepTransformer_list_submit-review .ds-form-item.last #aspect_submission_StepTransformer_field_submit_cancel{
+    margin: 15px 5px 10px 5px;
+    
+    width: 170px;
+}
+
+#aspect_submission_StepTransformer_div_submit-license #aspect_submission_StepTransformer_list_submit-review .ds-form-item.last #aspect_submission_StepTransformer_field_submit_next{
+    margin: 15px 5px 10px 5px;
+    
+    width: 170px;
+}
+
+
+
+
+#aspect_submission_StepTransformer_list_submit-review .ds-form-content{
+    width: 400px;
+    
+}
+
+
+
+#aspect_submission_StepTransformer_list_submit-review fieldset{
+    margin: 10px 0px 40px 0px;
+    
+}
+
+
+
+#aspect_submission_StepTransformer_list_submit-review ol li fieldset ol li{
+    padding: 10px;
+     width: 550px;
+}
+
+#aspect_submission_StepTransformer_item_step_1_1,
+#aspect_submission_StepTransformer_item_step_2_1,
+#aspect_submission_StepTransformer_item_step_2_2,
+#aspect_submission_StepTransformer_item_step_3_1{
+    float: right;
+    background: none !important;
+}
+
+#aspect_submission_StepTransformer_item_step_1_1 .ds-form-content,
+#aspect_submission_StepTransformer_item_step_2_1 .ds-form-content,
+#aspect_submission_StepTransformer_item_step_2_2 .ds-form-content,
+#aspect_submission_StepTransformer_item_step_3_1 .ds-form-content{
+    float: right;
+    
+}
+
+
+
+
+
+
+
+#aspect_submission_StepTransformer_list_submit-review ol li fieldset ol li.even{
+
+}
+
+#aspect_submission_StepTransformer_list_submit-review ol li fieldset ol li.odd{
+background: rgba(0, 0, 0, 0.10);
+}
+
+#aspect_submission_StepTransformer_list_submit-review legend{
+display: none;
+    
+}
+
+#aspect_submission_StepTransformer_list_submit-review ol li fieldset legend{
+    display: block !important;
+    
+    text-transform: uppercase; margin: 10px 0px 5px 0px; color: #25729a !important; font-size: 1.1em !important; font-weight: 400; border-bottom: 1px solid #25729a; padding: 5px 0px 5px 5px; display: block; width: 565px;
+}
+
+#aspect_submission_StepTransformer_list_submit-review h3{
+    color: #418c4f !important;
+    
+}
+
+#aspect_submission_StepTransformer_list_submit-review input{
+    width: 170px;
+    float: right;
+}
+
+#aspect_submission_StepTransformer_div_submit-license-inner{
+    
+}
+
+#aspect_submission_StepTransformer_div_submit-license-inner ul{
+    list-style: none;
+    
+    margin: 15px 0px 0px 0px;
+    float: left;
+}
+
+#aspect_submission_StepTransformer_div_submit-license-inner fieldset {
+    padding: 10px;
+
+
+    background: rgba(0, 0, 0, 0.10);
+}
+
+#aspect_submission_StepTransformer_div_submit-license-inner fieldset input{
+    width: 25px;
+
+}
+
+#aspect_submission_StepTransformer_div_submit-license-inner ul li{
+
+}
+
+#aspect_submission_submit_CompletedStep_field_submit_again{
+    margin: 15px 0px 0px 0px;
+    
+}
+
+#aspect_submission_Submissions_div_submissions{
+    
+}
+
+#aspect_submission_Submissions_div_submissions h2.h2_title.ds-div-tit.ds-div-head{
+text-transform: uppercase;
+font-size:0.9em !important;
+font-weight: 100;
+font-style: normal;
+border-bottom: 1px solid #25729a;
+color: #25729a !important;
+}
+
+#aspect_submission_Submissions_div_unfinished-submisions{
+    margin: 10px 0px 0px 0px;
+    
+    float: left;
+    width: 100%;
+}
+
+#aspect_submission_Submissions_table_unfinished-submissions{
+    margin: 10px 0px 0px 0px;
+    width: 100%;
+}
+
+#aspect_submission_Submissions_table_unfinished-submissions td{
+    text-overflow: ellipsis;
+    width: auto;
+}
+
+#aspect_submission_Submissions_field_submit_submissions_remove{
+    float: right;
+    
+    margin: 10px -10px 0px 0px;
+}
+
+#aspect_submission_Submissions_div_completed-submissions{
+    width: 100%;
+    
+}
+
+#aspect_submission_Submissions_div_completed-submissions table{
+    width: 100%;
+    
+}
+
+#aspect_administrative_eperson_ManageEPeopleMain_div_epeople-main{
+    
+}
+
+#aspect_administrative_eperson_ManageEPeopleMain_div_epeople-main h2.h2_title.ds-div-tit.ds-div-head{
+text-transform: uppercase;
+font-size:0.9em !important;
+font-weight: 100;
+font-style: normal;
+border-bottom: 1px solid #25729a;
+color: #25729a !important;    
+}
+
+#aspect_administrative_eperson_ManageEPeopleMain_div_epeople-actions{
+    
+}
+
+#aspect_administrative_eperson_ManageEPeopleMain_field_query{
+    width: 300px;
+    
+}
+
+#aspect_administrative_eperson_ManageEPeopleMain_field_submit_search{
+    float: right;
+    
+}
+
+#aspect_administrative_eperson_ManageEPeopleMain_field_submit_delete{
+    float: right;
+    margin: 10px -10px 0px 0px;
+}
+
+#aspect_administrative_group_ManageGroupsMain_field_submit_search{
+        float: right;
+}
+
+#aspect_administrative_group_ManageGroupsMain_field_query{
+    width: 300px;
+}
+
+
+#aspect_administrative_group_ManageGroupsMain_field_submit_delete{
+    float: right;
+    margin: 10px -10px 0px 0px;
+}
+
+#aspect_administrative_group_ManageGroupsMain_div_groups-main h2.h2_title.ds-div-tit.ds-div-head{
+text-transform: uppercase;
+font-size:0.9em !important;
+font-weight: 100;
+font-style: normal;
+border-bottom: 1px solid #25729a;
+color: #25729a !important;    
+}
+
+#aspect_administrative_community_CreateCommunityForm_div_create-community {
+    width: 100%;
+    
+    float: left;
+    margin: 10px 0px 0px 0px;
+}
+
+#aspect_administrative_community_CreateCommunityForm_div_create-community .ds-paragraph{    
+    float: right;
+
+}
+
+
+
+#aspect_administrative_community_CreateCommunityForm_list_metadataList,
+#aspect_administrative_collection_CreateCollectionForm_list_metadataList,
+#aspect_administrative_community_EditCommunityMetadataForm_list_metadataList,
+#aspect_administrative_community_CurateCommunityForm_list_curationTaskList{
+    color: #25729a; text-transform: uppercase; font-size:0.9em; font-weight: 100; font-style: normal;
+     
+}
+
+#aspect_administrative_community_CreateCommunityForm_list_metadataList li,
+#aspect_administrative_collection_CreateCollectionForm_list_metadataList li,
+#aspect_administrative_community_EditCommunityMetadataForm_list_metadataList li{
+    margin: 0px 0px 20px 0px;
+     
+    padding: 5px 0px 20px 0px;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+}
+
+#aspect_administrative_community_CreateCommunityForm_field_name {
+    
+}
+
+#aspect_administrative_community_CreateCommunityForm_field_short_description{
+    
+}
+
+#aspect_administrative_community_CreateCommunityForm_field_introductory_text{
+    width: 570px;
+    
+    height: 150px;
+    resize: none;
+}
+
+#aspect_administrative_community_CreateCommunityForm_field_copyright_text,
+#aspect_administrative_community_CreateCommunityForm_field_side_bar_text,
+#aspect_administrative_collection_CreateCollectionForm_field_introductory_text,
+#aspect_administrative_collection_CreateCollectionForm_field_copyright_text,
+#aspect_administrative_collection_CreateCollectionForm_field_side_bar_text,
+#aspect_administrative_collection_CreateCollectionForm_field_license,
+#aspect_administrative_collection_CreateCollectionForm_field_provenance_description,
+#aspect_administrative_community_EditCommunityMetadataForm_field_introductory_text,
+#aspect_administrative_community_EditCommunityMetadataForm_field_copyright_text,
+#aspect_administrative_community_EditCommunityMetadataForm_field_side_bar_text{
+    width: 570px; height: 150px; resize: none;
+    
+}
+
+#aspect_administrative_collection_CreateCollectionForm_div_create-collection .ds-paragraph{    
+    float: right;
+
+}
+
+#aspect_administrative_collection_CreateCollectionForm_field_submit_cancel{
+    float: right;
+
+}
+
+#aspect_administrative_community_CurateCommunityForm_list_curationTaskList{
+    
+}
+
+
+#aspect_administrative_community_CurateCommunityForm_div_community-curate .ds-paragraph{
+    float: right;
+    
+}
+
+#aspect_administrative_community_CurateCommunityForm_div_community-curate .ds-paragraph input{
+margin: 0px 0px 0px 10px;
+}
+
+
+
+
+
+#aspect_administrative_community_CurateCommunityForm_list_curationTaskList li{
+    margin: 10px 0px 10px 0px;
+    
+}
+
+#aspect_administrative_community_CurateCommunityForm_field_curate_task{
+    
+}
+
+#aspect_administrative_collection_CreateCollectionForm_field_submit_save{
+    float: right;
+    
+}
+
+
+#aspect_administrative_community_CreateCommunityForm_field_logo{
+    
+}
+
+#aspect_administrative_community_CreateCommunityForm_field_submit_save{
+    float: left;
+    
+}
+
+#aspect_administrative_community_CreateCommunityForm_field_submit_cancel{
+    
+}
+
+#aspect_administrative_authorization_AuthorizationMain_field_identifier{
+    width: 150px;
+}
+
+#aspect_administrative_authorization_AuthorizationMain_field_submit_edit{
+    float: right;
+}
+
+#aspect_administrative_authorization_AuthorizationMain_div_authorization-actions{
+    margin-bottom: 20px;
+    
+}
+
+#aspect_administrative_authorization_AuthorizationMain_div_authorization-containerList{
+    float: left;
+    
+}
+
+#aspect_administrative_authorization_AuthorizationMain_div_authorization-containerList ul{
+    
+}
+
+#aspect_administrative_authorization_AuthorizationMain_div_authorization-containerList ul li{
+    margin: 10px 0px 20px 0px;
+    float: left;
+    width: 100%;  
+}
+
+#aspect_administrative_authorization_AuthorizationMain_div_authorization-containerList ul li a{
+    text-transform: uppercase; margin: 10px 0px 5px 0px; color: #25729a !important; font-size:0.9em !important; font-weight: 100; border-bottom: 1px solid #25729a; padding: 5px; display: block;
+    
+}
+
+#aspect_administrative_authorization_AuthorizationMain_div_authorization-containerList ul li ul{
+    float: left;
+    
+}
+
+#aspect_administrative_authorization_AuthorizationMain_div_authorization-containerList ul li ul li{
+    margin: 0;
+    
+}
+
+#aspect_administrative_authorization_AuthorizationMain_div_authorization-containerList ul li ul li a{
+    font-size: 0.9em !important; font-weight: 100;
+    
+    display: block;
+    margin: 0px 0px 5px 15px; padding: 5px 5px 0px 5px; border: 0; color: #418c4f !important;
+    text-transform: none;
+}
+
+#aspect_administrative_authorization_AuthorizationMain_div_authorization-containerList ul li ul li ul{
+    
+}
+
+
+#aspect_administrative_authorization_AuthorizationMain_div_authorization-containerList ul li ul li ul li a{
+    color: #A8101C !important;
+    
+    font-size: 0.9em !important; font-weight: 100; display: block; 
+    margin: 0px 0px 5px 30px; padding: 5px 5px 0px 5px; border: 0;  text-transform: none;
+}
+
+
+#aspect_administrative_registries_MetadataRegistryMain_div_metadata-registry-main{
+    
+}
+
+#aspect_administrative_registries_MetadataRegistryMain_table_metadata-registry-main-table{
+    float: left;
+    
+}
+
+#aspect_administrative_registries_MetadataRegistryMain_field_submit_delete{
+    float: right;
+    
+    margin: 10px 0px 10px 0px;
+}
+
+#aspect_administrative_registries_MetadataRegistryMain_div_add-schema{
+    
+}
+
+#aspect_administrative_registries_MetadataRegistryMain_list_new-schema{
+    float: left;
+    
+    width: 100%;
+}
+
+
+#aspect_administrative_registries_MetadataRegistryMain_list_new-schema li{
+    float: left;
+    width: 100%;
+    margin: 0px 0px 20px 0px;
+}
+
+
+#aspect_administrative_registries_MetadataRegistryMain_field_namespace,
+#aspect_administrative_registries_MetadataRegistryMain_field_name{
+    width: 400px;
+}
+
+#aspect_administrative_registries_MetadataRegistryMain_field_submit_add{
+    float: right;
+    
+}
+
+#aspect_administrative_registries_FormatRegistryMain_div_bitstream-format-registry{
+    float: left;
+    width: 100%;
+}
+
+#aspect_administrative_registries_FormatRegistryMain_field_submit_delete{
+    float: right;
+    margin: 20px 0px 10px 0px;
+}
+
+#aspect_administrative_item_FindItemForm_field_identifier{
+    width: 300px;
+    
+}
+
+
+#aspect_administrative_item_FindItemForm_field_submit_find {
+    float: right;
+    
+    margin: 20px 0px 10px 0px;
+}
+
+#aspect_submission_submit_SaveOrRemoveStep_div_submit-save-or-cancel{
+    
+}
+
+#aspect_submission_submit_SaveOrRemoveStep_div_submit-save-or-cancel #aspect_submission_submit_SaveOrRemoveStep_list_submit-progress{
+   display:none; 
+}
+
+#aspect_submission_submit_SaveOrRemoveStep_div_submit-save-or-cancel #aspect_submission_submit_SaveOrRemoveStep_list_submit-review{
+    
+}
+
+#aspect_submission_submit_SaveOrRemoveStep_div_submit-save-or-cancel #aspect_submission_submit_SaveOrRemoveStep_list_submit-review li{
+    margin: 0px 0px 20px 0px;
+    
+    width: 100%;
+}
+
+#aspect_submission_submit_SaveOrRemoveStep_div_submit-save-or-cancel #aspect_submission_submit_SaveOrRemoveStep_list_submit-review input{
+    float: left;
+    
+}
+
+#aspect_submission_submit_SaveOrRemoveStep_div_submit-save-or-cancel #aspect_submission_submit_SaveOrRemoveStep_field_submit_back{
+    margin: 0px 40px 0px 0px;
+    
+}
+
+#aspect_submission_submit_SaveOrRemoveStep_div_submit-save-or-cancel #aspect_submission_submit_SaveOrRemoveStep_field_submit_save{
+    margin: 0px 40px 0px 0px;
+    
+}
+
+#aspect_submission_submit_SaveOrRemoveStep_div_submit-save-or-cancel #aspect_submission_submit_SaveOrRemoveStep_field_submit_remove{
+    margin: 0px 0px 0px 0px;
+    
+}
+
+#aspect_submission_submit_SelectCollectionStep_field_submit{
+    margin: 0px 0px 0px 0px;
+    
+    float: right;
+}
+
+
+#aspect_administrative_eperson_EditEPersonForm_div_eperson-edit,
+#aspect_administrative_eperson_AddEPersonForm_div_eperson-add{
+    
+}
+
+#aspect_administrative_eperson_EditEPersonForm_div_eperson-edit fieldset legend,
+#aspect_administrative_eperson_AddEPersonForm_div_eperson-add fieldset legend{
+    display: inline;
+}
+
+#aspect_administrative_eperson_EditEPersonForm_div_eperson-edit #aspect_administrative_eperson_EditEPersonForm_list_form,
+#aspect_administrative_eperson_EditEPersonForm_div_eperson-edit #aspect_administrative_eperson_AddEPersonForm_div_eperson-add{
+    
+}
+
+#aspect_administrative_eperson_EditEPersonForm_div_eperson-edit #aspect_administrative_eperson_EditEPersonForm_list_form li,
+#aspect_administrative_eperson_AddEPersonForm_div_eperson-add li{
+    margin: 0px 0px 20px 0px;    
+    float: left;
+    width: 100%;
+}
+
+#aspect_administrative_eperson_EditEPersonForm_div_eperson-edit #aspect_administrative_eperson_EditEPersonForm_list_form .italic{
+float: left;
+}
+
+#aspect_administrative_eperson_EditEPersonForm_field_email_address,
+#aspect_administrative_eperson_AddEPersonForm_field_email_address{
+    width: 250px;
+}
+
+#aspect_administrative_eperson_EditEPersonForm_field_first_name,
+#aspect_administrative_eperson_AddEPersonForm_field_first_name{
+    width: 250px;
+}
+
+#aspect_administrative_eperson_EditEPersonForm_field_last_name,
+#aspect_administrative_eperson_AddEPersonForm_field_last_name{
+    width: 250px;
+}
+
+#aspect_administrative_eperson_EditEPersonForm_field_phone,
+#aspect_administrative_eperson_AddEPersonForm_field_phone{
+    width: 250px;
+}
+
+#aspect_administrative_eperson_EditEPersonForm_field_submit_reset_password,
+#aspect_administrative_eperson_AddEPersonForm_field_submit_reset_password{
+    
+}
+
+#aspect_administrative_eperson_EditEPersonForm_field_submit_delete,
+#aspect_administrative_eperson_AddEPersonForm_field_submit_delete{
+    
+}
+
+#aspect_administrative_eperson_EditEPersonForm_field_submit_login_as,
+#aspect_administrative_eperson_AddEPersonForm_field_submit_login_as{
+    
+}
+
+
+
+#aspect_administrative_eperson_EditEPersonForm_field_submit_save,
+#aspect_administrative_eperson_AddEPersonForm_field_submit_save{
+    margin: 40px 0px 0px 20px;
+    float: right;
+    
+}
+
+#aspect_administrative_eperson_EditEPersonForm_field_submit_cancel,
+#aspect_administrative_eperson_AddEPersonForm_field_submit_cancel{
+    margin: 40px 0px 0px 0px;
+    float: right;  
+}
+
+#aspect_administrative_group_EditGroupForm_div_group-edit{
+    
+}
+
+#aspect_administrative_group_EditGroupForm_div_group-edit #aspect_administrative_group_EditGroupForm_div_group-edit-actions{
+    
+}
+
+#aspect_administrative_group_EditGroupForm_field_group_name{
+    width: 250px;
+    
+    margin: 0px 0px 0px 10px;
+}
+
+#aspect_administrative_group_EditGroupForm_field_query{
+    width: 175px; margin: 0px 0px 0px 10px;
+    
+}
+
+
+#aspect_administrative_group_EditGroupForm_field_submit_search_epeople{
+    margin: 0px 10px 0px 10px;
+    
+}
+
+
+#aspect_administrative_group_EditGroupForm_field_submit_search_groups{
+    
+}
+
+#aspect_administrative_group_EditGroupForm_field_submit_clear{
+    display: block;
+    
+    float: left;
+    margin: 20px 0px 20px 0px;
+}
+
+
+
+#aspect_administrative_group_EditGroupForm_div_group-edit .ds-paragraph{
+    margin: 0px 0px 15px 0px;
+    
+}
+
+
+#aspect_administrative_group_EditGroupForm_field_submit_save{
+    margin: 20px 0px 0px 20px;
+    
+    float: right;
+}
+
+
+#aspect_administrative_group_EditGroupForm_field_submit_cancel{
+    margin: 20px 0px 0px 0px; 
+    float: right;
+    
+}
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_div_advanced-authorization{
+    width: 100%;
+    
+    float: left;
+}
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_div_advanced-authorization .ds-paragraph{
+display: block;
+font-size: 0.9em;
+color: #A8101C;
+background-color: inherit;
+margin: 10px 0px 10px 0px;
+padding: 5px;
+float: left;
+width: 100%;
+}
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_list_actions{
+    float: left;
+    
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #25729a;
+}
+
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_list_actions li{
+    float: left;
+    
+    width: 100%;   
+    font-style: italic;
+    text-transform: none;
+    color: #000;
+}
+
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_description{
+    width: 300px;
+    margin: 0px 0px 30px 0px;
+}
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_start_date{
+    width: 300px;
+    margin: 0px 0px 30px 0px;    
+}
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_end_date{
+    width: 300px;
+    margin: 0px 0px 30px 0px;    
+}
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_group_id{
+    width: 300px;
+    margin: 0px 0px 30px 0px;
+    height: 100px;    
+}
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_collection_id{
+    width: 300px;
+    margin: 0px 0px 30px 0px;
+    height: 100px;        
+}
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_action_id{
+    margin: 0px 0px 30px 0px;
+    float: left;
+}
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_resource_id{
+    margin: 0px 0px 30px 0px;
+    float: left;    
+}
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_submit_add{
+    
+    margin: 15px 10px 10px 10px; float: left; width: 170px;
+}
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_submit_remove_all{
+    margin: 15px 10px 10px 10px; float: left; width: 170px;
+    
+}
+
+#aspect_administrative_authorization_AdvacedAuthorizationsForm_field_submit_return{
+    margin: 15px 10px 10px 10px; float: left; width: 170px;
+    
+}
+
+#aspect_administrative_authorization_EditContainerPolicies_field_submit_delete{
+      float: right;  
+      margin: 30px 0px 0px 20px;
+}
+
+#aspect_administrative_authorization_EditContainerPolicies_field_submit_return{
+    float: right;
+    
+    margin: 30px 0px 0px 0px;
+}
+
+#aspect_administrative_authorization_EditContainerPolicies_div_edit-container-policies{
+    
+}
+
+#aspect_administrative_authorization_EditContainerPolicies_div_edit-container-policies .ds-paragraph a {
+    float: right;
+    
+    margin: 10px 0px 15px 0px;
+}
+
+#aspect_administrative_authorization_EditContainerPolicies_table_container-policy-list span.fade{
+    color: transparent;
+}
+
+#aspect_administrative_authorization_EditContainerPolicies_table_container-policy-list span.fade a{
+    text-decoration: none;
+
+    text-align: right;
+    float: right;
+}
+
+#aspect_administrative_authorization_EditContainerPolicies_table_container-policy-list span.fade a:hover{
+    text-decoration: none;
+}
+
+#aspect_administrative_registries_EditBitstreamFormat_div_edit-bitstream-format{
+    
+}
+
+#aspect_administrative_registries_EditBitstreamFormat_list_edit-bitstream-format{
+    margin: 20px 0px 0px 0px;
+    
+}
+
+
+
+#aspect_administrative_registries_EditBitstreamFormat_list_edit-bitstream-format li{
+float: left;
+width: 100%;
+margin: 0px 0px 20px 0px;
+border-bottom: 1px dashed rgba(0, 0, 0, 0.14);
+padding: 0px 0px 20px 0px;
+}
+
+#aspect_administrative_registries_EditBitstreamFormat_field_extensions{
+    width: 250px;
+    
+}
+
+#aspect_administrative_registries_EditBitstreamFormat_list_edit-bitstream-format .ds-add-button{
+    float: right;
+}
+
+#aspect_administrative_registries_EditBitstreamFormat_field_submit_save{
+    float: right;
+    
+}
+
+#aspect_administrative_registries_EditBitstreamFormat_field_submit_cancel{
+    float: right;
+}
+
+#aspect_administrative_registries_EditBitstreamFormat_field_mimetype{
+    width: 300px;
+    
+}
+
+#aspect_administrative_registries_EditBitstreamFormat_field_short_description{
+    width: 300px;
+    
+}
+
+#aspect_administrative_registries_EditBitstreamFormat_field_description{
+    width: 300px;   
+    height: 100px;
+    resize: none;
+}
+
+#aspect_administrative_registries_DeleteBitstreamFormatsConfirm_field_submit_confirm{
+    float: right;
+    
+}
+
+#aspect_administrative_registries_DeleteBitstreamFormatsConfirm_field_submit_cancel {
+    float: right;
+    
+}
+
+#aspect_administrative_registries_DeleteBitstreamFormatsConfirm_table_format-confirm-delete{
+    margin: 10px 0px 20px 0px;
+    
+}
+
+#aspect_administrative_registries_DeleteMetadataSchemaConfirm_field_submit_cancel{
+    float: right;
+    
+    margin: 30px 10px 0px 0px;
+}
+
+#aspect_administrative_registries_DeleteMetadataSchemaConfirm_field_submit_confirm{
+    float: right;
+    
+    margin: 30px 0px 0px 0px;
+}
+
+#aspect_administrative_registries_EditMetadataSchema_div_edit-schema-new-field{
+    float: left; width: 100%; margin: 0px 0px 20px 0px; border-bottom: 1px dashed rgba(0, 0, 0, 0.14); padding: 0px 0px 20px 0px;
+    
+}
+
+#aspect_administrative_registries_EditMetadataSchema_div_metadata-schema-edit-existing-fields{
+    
+}
+
+#aspect_administrative_registries_EditMetadataSchema_list_edit-schema-new-field-form{
+    padding: 5px 0px 5px 5px; margin: 5px 0px 0px -3px;  border-bottom: 1px solid #25729a;
+    
+    color: #25729a; text-transform: uppercase; font-size: 0.9em; font-weight: 100; font-style: normal;
+}
+
+#aspect_administrative_registries_EditMetadataSchema_list_edit-schema-new-field-form li{
+    float: left;
+    
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+
+#aspect_administrative_registries_EditMetadataSchema_list_edit-schema-new-field-form li .big{
+    font-style: italic;
+
+    color: #000;
+    text-transform: none;
+}
+
+#aspect_administrative_registries_EditMetadataSchema_list_edit-schema-new-field-form li .big input{
+    width: 150px;
+
+}
+
+#aspect_administrative_registries_EditMetadataSchema_field_newNote{
+    width: 350px;
+    
+    height: 100px;
+    resize: none;
+}
+
+#aspect_administrative_registries_EditMetadataSchema_field_submit_add{
+    float: right;
+    
+}
+
+#aspect_administrative_registries_EditMetadataSchema_field_submit_delete{
+    margin: 25px 10px 10px 10px; float: left; 
+    width: 150px;
+    
+}
+
+#aspect_administrative_registries_EditMetadataSchema_field_submit_move{
+    margin: 25px 10px 10px 10px; float: left; 
+    width: 200px;
+    
+}
+
+#aspect_administrative_registries_EditMetadataSchema_field_submit_return{
+    margin: 25px 10px 10px 10px; float: left; 
+    width: 150px;
+}
+
+#aspect_submission_submit_CompletedStep_div_submit-complete .ds-paragraph a{
+    margin: 15px 10px 10px 0px; float: left; width: 170px;
+    
+    line-height: 100%;
+    font-weight: 600;
+}
+
+
+/*Editar metadatos de una comunidad*/
+#aspect_administrative_community_EditCommunityMetadataForm_div_community-metadata-edit{
+    
+}
+
+#aspect_administrative_community_EditCommunityMetadataForm_div_community-metadata-edit .ds-paragraph{
+    float: left;
+    
+    width: 100%;
+}
+
+
+#aspect_administrative_community_EditCommunityMetadataForm_list_options,
+#aspect_administrative_community_AssignCommunityRoles_list_options,
+#aspect_administrative_community_CurateCommunityForm_list_options{
+    
+}
+
+#aspect_administrative_community_EditCommunityMetadataForm_list_options li,
+#aspect_administrative_community_AssignCommunityRoles_list_options li,
+#aspect_administrative_community_CurateCommunityForm_list_options li{
+    margin: 0px 5px 0px 5px;
+    
+}
+
+#aspect_administrative_community_AssignCommunityRoles_field_submit_create_admin{
+    float: right;
+    
+}
+
+#aspect_administrative_community_AssignCommunityRoles_field_submit_return{
+    float: right;
+    
+}
+
+#aspect_administrative_community_EditCommunityMetadataForm_list_options li a{
+    
+}
+
+#aspect_administrative_community_EditCommunityMetadataForm_list_options li .bold a{
+    
+}
+
+#aspect_administrative_community_EditCommunityMetadataForm_list_metadataList{
+    float: left;
+    
+    width: 100%;
+}
+
+#aspect_administrative_community_EditCommunityMetadataForm_field_submit_save{
+    float: right;
+    
+}
+
+#aspect_administrative_community_EditCommunityMetadataForm_field_submit_delete{
+    float: right;
+    
+}
+
+#aspect_administrative_community_EditCommunityMetadataForm_field_submit_return{
+    float: right;
+    
+}
+
+/*Password login*/
+#aspect_eperson_PasswordLogin_list_password-login{
+    margin: 0px 0px 40px 0px;
+    
+}
+
+#aspect_eperson_PasswordLogin_list_password-login .ds-text-field,
+#aspect_eperson_PasswordLogin_list_password-login #aspect_eperson_PasswordLogin_field_login_password{
+    width: 200px;
+    
+}
+
+#aspect_eperson_PasswordLogin_list_password-login #aspect_eperson_PasswordLogin_field_login_password{
+    display: block;
+    margin: 0px 0px 10px 0px;
+}
+
+#aspect_eperson_PasswordLogin_item_login-in .ds-form-content{
+    float: right;
+    
+}
+
+#aspect_eperson_PasswordLogin_field_submit{
+    float: right;
+    
+}
+
+/*Editar privilegios*/
+#aspect_administrative_authorization_EditPolicyForm_list_actions .ds-form-item.odd.last input{
+    float: right;
+    
+}
+
+#aspect_administrative_authorization_EditPolicyForm_list_actions .ds-form-label{
+    
+}
+
+#aspect_administrative_authorization_EditPolicyForm_field_name,
+#aspect_administrative_authorization_EditPolicyForm_field_query{
+    width: 250px;
+}
+
+#aspect_administrative_authorization_EditPolicyForm_field_description{
+    width: 250px;    
+    height: 100px;
+    resize: none;
+}
+
+#aspect_administrative_authorization_EditPolicyForm_list_actions .ds-form-content fieldset label{
+    margin: 5px 0px 5px 0px;
+    
+}
+
+
+/*mover campos de metadatos*/
+#aspect_administrative_registries_MoveMetadataFields_table_metadata-field-move{
+    margin: 10px 0px 20px 0px;
+    
+}
+
+#aspect_administrative_registries_MoveMetadataFields_div_metadata-field-move input{
+    float: right;
+    
+}
+
+/*Formatos*/
+#aspect_administrative_registries_FormatRegistryMain_div_bitstream-format-registry .ds-paragraph{
+    margin: 0px 0px 10px 0px;
+    
+}
+
+#aspect_administrative_registries_FormatRegistryMain_div_bitstream-format-registry .ds-paragraph a{
+    float: right;
+
+    
+    margin: 10px 0px 20px 0px;
+}
+
+#aspect_administrative_registries_FormatRegistryMain_table_bitstream-format-registry{
+    width: 570px;
+
+    
+}
+
+#aspect_administrative_registries_FormatRegistryMain_table_bitstream-format-registry tbody td{
+    padding: 10px 5px 10px 5px;
+    
+}
+
+/*sistema de alertas*/
+#aspect_administrative_ControlPanel_list_system-wide-alerts{
+    
+}
+
+#aspect_administrative_ControlPanel_list_system-wide-alerts legend{
+    width: 100%;
+    
+}
+
+#aspect_administrative_ControlPanel_field_submit_activate{
+    float: right;
+    
+}
+
+#aspect_administrative_ControlPanel_field_submit_deactivate{
+    float: right;
+    
+}
+
+#aspect_administrative_ControlPanel_div_control-panel h3{
+    float: left;
+    
+    width: 100%;
+}
+
+#aspect_administrative_ControlPanel_div_control-panel .ds-paragraph{
+    float: left;
+    
+    width: 100%;
+    margin: 0px 0px 10px 0px;
+}
+
+/*importar metadatos*/
+#aspect_administrative_metadataimport_MetadataImportMain_div_metadata-import{
+    
+}
+
+#aspect_administrative_metadataimport_MetadataImportMain_div_metadata-import .ds-paragraph{
+    margin: 0px 0px 20px 0px;
+    
+}
+
+#aspect_administrative_metadataimport_MetadataImportMain_div_metadata-import #aspect_administrative_metadataimport_MetadataImportMain_field_submit_upload{
+    float: right;
+
+    
+}
+
+/*Curation task*/
+
+#aspect_administrative_CurateForm_list_curate-form{
+    
+}
+
+#aspect_administrative_CurateForm_list_curate-form .ds-form-content{
+    width: 400px;
+    
+    margin: 0px 0px 0px 20px;
+}
+
+#aspect_administrative_CurateForm_field_identifier{
+    width: 275px;
+    
+}
+
+#aspect_administrative_CurateForm_field_submit_curate_task{
+    float: right;
+    
+}
+
+#aspect_administrative_CurateForm_field_submit_queue_task{
+    float: right;
+    
+    margin: 0px 10px 0px 10px;
+}
+
+/*sugerencias*/
+#aspect_artifactbrowser_FeedbackForm_field_email{
+    width: 275px;
+    
+}
+
+#aspect_artifactbrowser_FeedbackForm_field_comments{
+    width: 410px;
+    height: 100px;
+    resize: none;
+}
+#ds-search-option-head {
+    color: green;
+    margin-bottom: 2%;
+		margin-top: -10%;
+		font-size: 1.3em;
+}
+#ds-search-form-scope-all {
+    margin-bottom: 5%;
+}
+#ds-search-form-scope-container {
+    margin-top: 5%;
+    margin-bottom: 25%;
+}
+#ds-search-button1 {
+    margin-bottom: 10%;
+    margin-top: 7%;
+}
+/* Estilos para la busqueda */
+#busqueda{
+    background-color: green;
+    background-image: url("../images/iconobusqueda.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    border: 0 none;
+    border-radius: 0 5px 5px 0;
+    height: 32px;
+    width: 29px;
+}
+#txtbusqueda{
+    background-color: #FFF;
+		border-radius: 5px 0 0 5px;
+    height: 30px;
+   width: 126px;
+  border: 1px solid rgba(65, 140, 79, 0.43);
+  margin-right: -3px;
+  float: left;
+  margin-bottom: 15px;
+}
+/*link invisible para accesibilidad*/
+.linkInvisible{
+	background: transparent none repeat scroll 0 0;
+    border-bottom: 1px solid white;
+    border-bottom-right-radius: 8px;
+    border-right: 1px solid white;
+    color: white;
+    left: 0;
+    padding: 6px;
+    position: absolute;
+    top: -40px;
+    transition: top 1s ease-out 0s, background 1s linear 0s;
+    z-index: 100;
+}
+.linkInvisible2{
+color: rgba(0, 0, 0, 0.3);
+position: absolute;
+left: -10000px;
+top: auto;
+width: 1px;
+height: 1px;
+overflow: hidden;
+	}
+.amara {
+    font-size: 1.33em;
+    padding-left: 0.4em;
+    padding-top: 0.9em;
+}
+
